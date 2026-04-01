@@ -9,17 +9,7 @@ scripture_translation: ESV
 scripture_text: "Just so, I tell you, there will be more joy in heaven over one sinner who repents than over ninety-nine righteous persons who need no repentance."
 ---
 
-Title
-The Destination Is Joy
-
-Excerpt
-"If the destination of each parable is joy, then maybe joy is not just a byproduct of the kingdom. Maybe joy is the passion that fuels something bigger."
-
-Scripture Reading
-Luke 15:7 ESV
-"Just so, I tell you, there will be more joy in heaven over one sinner who repents than over ninety-nine righteous persons who need no repentance."
-
-Devotional Thought
+## Devotional
 
 If I asked you to name the components of the kingdom of God, you would probably land on righteousness and peace pretty quickly. That makes sense. If righteousness increases, so does the kingdom. If peace increases, so does the kingdom. But Paul throws something into Romans 14:17 that might not feel as obvious... joy. "For the kingdom of God is not a matter of eating and drinking but of righteousness and peace and joy in the Holy Spirit."
 
@@ -37,14 +27,15 @@ And I think that reframes something for us. Because most of us are not short on 
 
 If joy is the destination of every parable in Luke 15, then maybe it is time we stop treating it like a nice feeling and start treating it like the kingdom passion it actually is.
 
-Tomorrow we are going to look at what makes heaven itself shout for joy, and the answer might surprise you.
+## Application
 
-Application Questions
 1. When you think about joy in your faith, do you tend to treat it as a nice benefit of following Jesus or as something that actually drives and expands the kingdom?
 2. In the pattern of lost, sought, found, restored, and celebrated, which part do you most naturally connect with and which part feels most unfamiliar in your own life?
 
-Today's Challenge
+## Challenge
+
 Read through all three parables in Luke 15 in one sitting. As you read, circle or underline every reference to joy, celebration, gladness, or rejoicing. Let the repetition speak for itself.
 
-Prayer to Pray
+## Prayer
+
 Father, I confess that I have treated joy like something extra, something nice to have when everything else is in order. But Your word says joy is part of the kingdom itself. Teach me what that means. Open my eyes to see that joy is not just a destination I arrive at when things go well, but a passion You have placed in me that moves me toward the things that matter most to You. Begin to stir that joy in me this week. In Jesus' name, amen.

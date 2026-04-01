@@ -9,17 +9,7 @@ scripture_translation: ESV
 scripture_text: "Now the tax collectors and sinners were all drawing near to hear him. And the Pharisees and the scribes grumbled, saying, This man receives sinners and eats with them."
 ---
 
-Title
-The Comfort of the 99
-
-Excerpt
-"The Haverim did not hate the lost. They just loved their comfort more."
-
-Scripture Reading
-Luke 15:1-2 ESV
-"Now the tax collectors and sinners were all drawing near to hear him. And the Pharisees and the scribes grumbled, saying, 'This man receives sinners and eats with them.'"
-
-Devotional Thought
+## Devotional
 
 There is a detail in Luke 15 that we read right past if we are not careful, and it is actually the whole reason Jesus told these parables in the first place. Tax collectors and sinners were drawing near to hear Him. And the Pharisees and scribes grumbled about it. That is the setup. Jesus did not tell the parable of the lost sheep to encourage the lost. He told it to confront the found.
 
@@ -35,14 +25,15 @@ Now look at Luke 15:1 again. Tax collectors and sinners drew near to Jesus. They
 
 Because here is the hard truth. You can love God, attend church, read your Bible, tithe faithfully, and still be a false shepherd if you have made the 99 your permanent home instead of your temporary base.
 
-Tomorrow we will look at what happens when we finally decide to leave, and what the lost are actually looking for when they look at the church.
+## Application
 
-Application Questions
 1. When you honestly examine your life, do you see more of the Shepherd or more of the Haverim in the way you relate to people who are far from God?
 2. Is there a comfort, routine, or circle in your life that has quietly become a reason you do not engage with the lost?
 
-Today's Challenge
+## Challenge
+
 Think of one person in your life who is far from God that you have kept at arm's length, not because you dislike them but because engaging with them would require leaving the comfort of your routine. Pray for them by name today and ask God to give you the willingness to move toward them.
 
-Prayer to Pray
+## Prayer
+
 Father, I do not want to be a Haverim. I do not want to love my comfort more than I love the one who is missing. Search my heart and show me where I have used my routines, my preferences, my religious habits as an excuse to stay put while someone is still lost. Give me the courage to be honest about it and the grace to move toward the people I have been comfortable avoiding. Make me look more like the Shepherd and less like the scribes who grumbled when sinners drew near. In Jesus' name, amen.
