@@ -9,7 +9,14 @@ scripture_translation: ESV
 scripture_text: "The LORD your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing."
 ---
 
-## Devotional
+## Title
+What Makes Heaven Shout
+
+## Scripture Reading
+Zephaniah 3:17 ESV
+"The LORD your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing."
+
+## Devotional Thought
 
 If God is the source of all joy, then we have to ask a question that most of us don't think to ask. What makes God rejoice? Not what makes us feel joyful, not what makes Sunday mornings feel good, but what stirs up joy in the heart of God Himself?
 
@@ -27,15 +34,14 @@ So what I'm seeing is this. From Deuteronomy to Zephaniah, the thing that makes 
 
 And if God's greatest joy is found in the restoration of lost people, then the Spirit living inside of you carries that same joy. The question is whether we have given it room to breathe or buried it under everything else we think the Christian life is supposed to be about.
 
-## Application
+Tomorrow we will look at the moment when that joy was tested to its absolute limit, and what Jesus saw when He looked at the cross.
 
+## Application Questions
 1. When you consider that God's joy is consistently tied to restoring lost people throughout scripture, how does that reshape the way you think about your own role in reaching the lost?
 2. Zephaniah 3:17 says God will quiet you by His love and exult over you with loud singing. When was the last time you let the reality of God's joy over you actually settle into your heart?
 
-## Challenge
-
+## Today's Challenge
 Pick one of the four passages mentioned today (Deuteronomy 30:9, Isaiah 62:5, Jeremiah 32:41, or Zephaniah 3:17) and read it in its full context. Ask the Lord to show you what His joy looks like when it is directed at someone coming home.
 
-## Prayer
-
+## Prayer to Pray
 Lord, I am amazed that Your greatest joy is not found in my performance but in my return. You rejoice like a bridegroom, You shout with loud singing, You pour out all Your heart and soul over people coming home to You. Let that truth reshape the way I see the lost. If restoration is what makes You rejoice, then let it be what stirs my heart too. Forgive me for the times I have been more passionate about my comfort than about Your celebration. In Jesus' name, amen.

@@ -26,6 +26,19 @@ function parseDay(filePath) {
     }
   }
 
+  // Normalize section names to canonical keys
+  const aliases = {
+    'devotional thought': 'devotional',
+    'application questions': 'application',
+    "today's challenge": 'challenge',
+    'prayer to pray': 'prayer',
+  };
+  for (const [alias, canonical] of Object.entries(aliases)) {
+    if (sections[alias] && !sections[canonical]) {
+      sections[canonical] = sections[alias];
+    }
+  }
+
   const getText = (key) =>
     (sections[key] || []).join('\n').trim();
 
@@ -77,7 +90,7 @@ function buildData() {
     for (const weekFolder of weekFolders) {
       const weekPath = path.join(sermonPath, weekFolder);
       const dayFiles = fs.readdirSync(weekPath)
-        .filter(f => f.endsWith('.md'))
+        .filter(f => /^day-\d+\.md$/.test(f))
         .sort();
 
       const days = dayFiles.map(f => parseDay(path.join(weekPath, f)));

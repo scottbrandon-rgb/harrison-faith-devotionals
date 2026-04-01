@@ -9,7 +9,14 @@ scripture_translation: ESV
 scripture_text: "The weak you have not strengthened, the sick you have not healed, the injured you have not bound up, the strayed you have not brought back, the lost you have not sought, and with force and harshness you have ruled them."
 ---
 
-## Devotional
+## Title
+Looking for the One Looking for You
+
+## Scripture Reading
+Ezekiel 34:4 ESV
+"The weak you have not strengthened, the sick you have not healed, the injured you have not bound up, the strayed you have not brought back, the lost you have not sought, and with force and harshness you have ruled them."
+
+## Devotional Thought
 
 All week we have been building toward this. Joy is not a byproduct of the kingdom, it is a passion that fuels the kingdom. God's greatest joy across the entire Old Testament is tied to restoring lost people. Jesus endured the cross because of the joy set before Him, the joy of bringing you home. And the Haverim missed all of it because they loved their comfort more than they loved the one.
 
@@ -27,15 +34,12 @@ So what is your highest joy? Is it something that perishes, something temporary,
 
 Love that leaves the 99 leads to a joy that celebrates the one. Will you leave?
 
-## Application
-
+## Application Questions
 1. If you are honest, what is the thing about the 99 that makes it hardest for you to leave... comfort, fear, routine, or something else entirely?
 2. Who is the one person in your life right now that God might be asking you to go after, and what is one step you could take this week to move toward them?
 
-## Challenge
-
+## Today's Challenge
 Write down the name of one person who is far from God. Put that name somewhere you will see it every day this week. Pray for them daily. Then ask the Lord to show you one specific, tangible way to move toward that person before the week is over. Not a grand gesture, just one step.
 
-## Prayer
-
+## Prayer to Pray
 Lord, I do not want to be the shepherd who never went looking. I want the joy that comes from leaving the 99, the joy that heaven celebrates, the joy that was set before Jesus at the cross. Give me eyes that see the lost as sheep left behind and not as sheep that are less than. Give me feet that are willing to move and a heart that finds its highest joy in someone coming home. I am not where I need to be yet, but I am willing. Teach me. Move me. Use me to find the one. In Jesus' name, amen.
