@@ -3,6 +3,7 @@ series: until
 series_title: UNTIL
 sermon_series: Leaving the 99
 day: 3
+publish_date: 2026-04-01
 title: The Applause
 scripture_reference: Luke 19:36–40
 scripture_translation: ESV

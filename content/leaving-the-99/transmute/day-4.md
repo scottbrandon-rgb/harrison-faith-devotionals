@@ -3,6 +3,7 @@ series: transmute
 series_title: Transmute
 sermon_series: Leaving the 99
 day: 4
+publish_date: 2026-03-19
 title: Small Stuff and True Riches
 scripture_reference: Luke 16:10–11
 scripture_translation: ESV

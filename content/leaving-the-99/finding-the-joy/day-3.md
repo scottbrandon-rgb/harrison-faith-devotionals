@@ -3,6 +3,7 @@ series: joy-that-finds
 series_title: Finding the Joy That Finds the One
 sermon_series: Leaving the 99
 day: 3
+publish_date: 2026-03-25
 title: The Joy That Endured the Cross
 scripture_reference: Hebrews 12:2
 scripture_translation: ESV

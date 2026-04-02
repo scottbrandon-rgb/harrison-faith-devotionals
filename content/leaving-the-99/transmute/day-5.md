@@ -3,6 +3,7 @@ series: transmute
 series_title: Transmute
 sermon_series: Leaving the 99
 day: 5
+publish_date: 2026-03-20
 title: Build Your Welcome Committee
 scripture_reference: Luke 16:9
 scripture_translation: ESV

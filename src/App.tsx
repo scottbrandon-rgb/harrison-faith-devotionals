@@ -2,6 +2,24 @@ import { Routes, Route, Link, useParams, useNavigate } from "react-router-dom";
 import { allSeries, currentSeries, getSeriesColor } from "./data";
 import logoBlack from "./assets/logo-black.png";
 
+// ─── Date helpers ─────────────────────────────────────────────────────────────
+function formatDate(dateStr: string | null, opts: Intl.DateTimeFormatOptions = { month: "short", day: "numeric", year: "numeric" }) {
+  if (!dateStr) return null;
+  // Parse as local date to avoid timezone offset shifting the day
+  const [y, m, d] = dateStr.split("-").map(Number);
+  return new Date(y, m - 1, d).toLocaleDateString("en-US", opts);
+}
+
+function weekDateRange(publishDate: string | null) {
+  if (!publishDate) return null;
+  const [y, m, d] = publishDate.split("-").map(Number);
+  const start = new Date(y, m - 1, d);
+  const end = new Date(y, m - 1, d + 4);
+  const startStr = start.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+  const endStr = end.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+  return `${startStr} – ${endStr}`;
+}
+
 // ─── Icons ────────────────────────────────────────────────────────────────────
 function ChevronRight({ color = "currentColor", size = 14 }: { color?: string; size?: number }) {
   return (
@@ -49,7 +67,7 @@ function Nav({ accent = "#2D4A3E" }: { accent?: string }) {
           textTransform: "uppercase",
           color: "#1e1a17",
         }}>
-          HF Weekly Devotionals
+          Harrison Faith Blog
         </span>
       </Link>
       <Link to="/series" style={{
@@ -114,6 +132,18 @@ function LandingPage() {
         }}>
           A {series.days.length}-Day Devotional
         </p>
+        {weekDateRange(series.days[0]?.publishDate ?? null) && (
+          <p style={{
+            fontFamily: "'Lato', sans-serif",
+            fontWeight: 300,
+            fontSize: "11px",
+            letterSpacing: "0.06em",
+            color: "rgba(255,255,255,0.4)",
+            marginTop: "6px",
+          }}>
+            {weekDateRange(series.days[0]?.publishDate ?? null)}
+          </p>
+        )}
       </div>
 
       {/* Day list card */}
@@ -282,6 +312,20 @@ function ReadingPage() {
         }}>
           "{day.scripture.text}"
         </p>
+        {day.publishDate && (
+          <p style={{
+            fontFamily: "'Lato', sans-serif",
+            fontWeight: 300,
+            fontSize: "10px",
+            letterSpacing: "0.1em",
+            textTransform: "uppercase",
+            color: "#b0a898",
+            textAlign: "center",
+            marginTop: "14px",
+          }}>
+            {formatDate(day.publishDate, { weekday: "long", month: "long", day: "numeric", year: "numeric" })}
+          </p>
+        )}
       </div>
 
       {/* Devotional */}
@@ -497,15 +541,31 @@ function SeriesPage() {
                     }}>
                       {week.title}
                     </span>
-                    <span style={{
-                      fontFamily: "'Lato', sans-serif",
-                      fontWeight: 300,
-                      fontSize: "11px",
-                      color: color.accent,
-                      letterSpacing: "0.06em",
-                    }}>
-                      {week.days.length} days
-                    </span>
+                    <div style={{ textAlign: "right" }}>
+                      <span style={{
+                        fontFamily: "'Lato', sans-serif",
+                        fontWeight: 300,
+                        fontSize: "11px",
+                        color: color.accent,
+                        letterSpacing: "0.06em",
+                        display: "block",
+                      }}>
+                        {week.days.length} days
+                      </span>
+                      {weekDateRange(week.days[0]?.publishDate ?? null) && (
+                        <span style={{
+                          fontFamily: "'Lato', sans-serif",
+                          fontWeight: 300,
+                          fontSize: "10px",
+                          color: "#b0a898",
+                          letterSpacing: "0.04em",
+                          display: "block",
+                          marginTop: "2px",
+                        }}>
+                          {weekDateRange(week.days[0]?.publishDate ?? null)}
+                        </span>
+                      )}
+                    </div>
                   </div>
                   {week.days.map((day, i) => (
                     <Link key={day.day} to={`/read/${week.slug}/${day.day}`} style={{

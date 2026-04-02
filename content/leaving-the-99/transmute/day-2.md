@@ -3,6 +3,7 @@ series: transmute
 series_title: Transmute
 sermon_series: Leaving the 99
 day: 2
+publish_date: 2026-03-17
 title: What the Replay Reveals
 scripture_reference: Hebrews 4:13
 scripture_translation: ESV

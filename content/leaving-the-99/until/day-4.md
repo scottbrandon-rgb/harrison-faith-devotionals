@@ -3,6 +3,7 @@ series: until
 series_title: UNTIL
 sermon_series: Leaving the 99
 day: 4
+publish_date: 2026-04-02
 title: The Anguish
 scripture_reference: Luke 19:41–44
 scripture_translation: ESV

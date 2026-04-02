@@ -3,6 +3,7 @@ series: joy-that-finds
 series_title: Finding the Joy That Finds the One
 sermon_series: Leaving the 99
 day: 5
+publish_date: 2026-03-27
 title: Looking for the One Looking for You
 scripture_reference: Ezekiel 34:4
 scripture_translation: ESV

@@ -3,6 +3,7 @@ series: joy-that-finds
 series_title: Finding the Joy That Finds the One
 sermon_series: Leaving the 99
 day: 2
+publish_date: 2026-03-24
 title: What Makes Heaven Shout
 scripture_reference: Zephaniah 3:17
 scripture_translation: ESV

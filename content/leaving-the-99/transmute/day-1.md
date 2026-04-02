@@ -3,6 +3,7 @@ series: transmute
 series_title: Transmute
 sermon_series: Leaving the 99
 day: 1
+publish_date: 2026-03-16
 title: The Day of Accounting
 scripture_reference: 2 Corinthians 5:10
 scripture_translation: ESV

@@ -3,6 +3,7 @@ series: joy-that-finds
 series_title: Finding the Joy That Finds the One
 sermon_series: Leaving the 99
 day: 1
+publish_date: 2026-03-23
 title: The Destination Is Joy
 scripture_reference: Luke 15:7
 scripture_translation: ESV

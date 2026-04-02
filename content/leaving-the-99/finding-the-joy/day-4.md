@@ -3,6 +3,7 @@ series: joy-that-finds
 series_title: Finding the Joy That Finds the One
 sermon_series: Leaving the 99
 day: 4
+publish_date: 2026-03-26
 title: The Comfort of the 99
 scripture_reference: Luke 15:1-2
 scripture_translation: ESV

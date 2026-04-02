@@ -3,6 +3,7 @@ series: until
 series_title: UNTIL
 sermon_series: Leaving the 99
 day: 5
+publish_date: 2026-04-03
 title: The Search Continues
 scripture_reference: Romans 10:9
 scripture_translation: ESV

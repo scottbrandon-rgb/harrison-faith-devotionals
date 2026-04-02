@@ -3,6 +3,7 @@ series: until
 series_title: UNTIL
 sermon_series: Leaving the 99
 day: 1
+publish_date: 2026-03-30
 title: Until
 scripture_reference: Luke 15:4
 scripture_translation: ESV

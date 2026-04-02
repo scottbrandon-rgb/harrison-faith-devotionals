@@ -3,6 +3,7 @@ series: transmute
 series_title: Transmute
 sermon_series: Leaving the 99
 day: 3
+publish_date: 2026-03-18
 title: The Shrewdest Investment
 scripture_reference: Luke 16:8–9
 scripture_translation: ESV
