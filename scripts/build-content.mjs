@@ -137,6 +137,8 @@ const allSeries = buildData();
 const today = new Date().toISOString().slice(0, 10);
 const allWeeks = allSeries.flatMap(s => s.weeks);
 const publishedWeeks = allWeeks.filter(w => (w.days[0]?.publishDate ?? '') <= today);
+// Sort globally across all series to find the single most recently published week
+publishedWeeks.sort((a, b) => (b.days[0]?.publishDate ?? '').localeCompare(a.days[0]?.publishDate ?? ''));
 const currentSeriesWeek = publishedWeeks.length > 0 ? publishedWeeks[0] : allWeeks[0];
 // Find it in allSeries to build a safe reference
 let currentSeriesRef = `allSeries[0].weeks[0]`;

@@ -485,6 +485,15 @@ function ReadingPage() {
 
 // ─── Series / Archive Page ────────────────────────────────────────────────────
 function SeriesPage() {
+  // Group sermon series by year of their most recent week
+  const byYear: Record<string, typeof allSeries> = {};
+  for (const sermonSeries of allSeries) {
+    const year = sermonSeries.weeks[0]?.days[0]?.publishDate?.slice(0, 4) ?? "Unknown";
+    if (!byYear[year]) byYear[year] = [];
+    byYear[year].push(sermonSeries);
+  }
+  const years = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
+
   return (
     <div style={{ backgroundColor: "#faf7f3", minHeight: "100vh" }}>
       <Nav />
@@ -501,7 +510,29 @@ function SeriesPage() {
           All Series
         </h1>
 
-        {allSeries.map((sermonSeries) => {
+        {years.map((year) => (
+          <div key={year}>
+            {/* Year divider */}
+            <div style={{
+              display: "flex",
+              alignItems: "center",
+              gap: "12px",
+              marginBottom: "28px",
+              marginTop: year === years[0] ? 0 : "48px",
+            }}>
+              <span style={{
+                fontFamily: "'Lato', sans-serif",
+                fontWeight: 700,
+                fontSize: "13px",
+                letterSpacing: "0.14em",
+                color: "#1e1a17",
+              }}>
+                {year}
+              </span>
+              <div style={{ flex: 1, height: "1px", backgroundColor: "#e8e2da" }} />
+            </div>
+
+            {byYear[year].map((sermonSeries) => {
           const color = getSeriesColor(sermonSeries.title);
           return (
             <div key={sermonSeries.title} style={{ marginBottom: "44px" }}>
@@ -615,6 +646,8 @@ function SeriesPage() {
             </div>
           );
         })}
+          </div>
+        ))}
       </div>
     </div>
   );
