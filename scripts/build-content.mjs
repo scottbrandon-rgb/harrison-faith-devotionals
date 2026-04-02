@@ -153,6 +153,12 @@ const seriesColorsSource = `
 export const seriesColors: Record<string, { accent: string; light: string; text: string }> = {
   "Leaving the 99": { accent: "#2D4A3E", light: "#EBF0EE", text: "#1e3329" },
   "The Shepherd's Heart": { accent: "#6B3D2E", light: "#F2EAE6", text: "#4a2a1e" },
+  "The Way of Blessing": { accent: "#D28D52", light: "#FAF0E6", text: "#7a4e1e" },
+  "Influence": { accent: "#302752", light: "#ECEAF4", text: "#1a1430" },
+  "The Way of Perfection": { accent: "#FB8C0C", light: "#FEF3E2", text: "#7a4200" },
+  "Foundations": { accent: "#998178", light: "#F2EEEC", text: "#4a3d38" },
+  "Seek First": { accent: "#181818", light: "#EBEBEB", text: "#181818" },
+  "Multiply": { accent: "#C8A96E", light: "#FAF5EC", text: "#6b5530" },
 };
 
 export function getSeriesColor(name: string) {
