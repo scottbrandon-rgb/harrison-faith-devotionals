@@ -56,7 +56,7 @@ function parseDay(filePath) {
 
   return {
     day: fm.day,
-    publishDate: fm.publish_date ? String(fm.publish_date) : null,
+    publishDate: fm.publish_date ? (fm.publish_date instanceof Date ? fm.publish_date.toISOString().slice(0, 10) : String(fm.publish_date)) : null,
     title: fm.title,
     scripture: {
       reference: fm.scripture_reference,
