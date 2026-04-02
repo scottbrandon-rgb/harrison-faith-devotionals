@@ -49,7 +49,7 @@ function Nav({ accent = "#2D4A3E" }: { accent?: string }) {
           textTransform: "uppercase",
           color: "#1e1a17",
         }}>
-          Harrison Faith Blog
+          HF Weekly Devotionals
         </span>
       </Link>
       <Link to="/series" style={{
