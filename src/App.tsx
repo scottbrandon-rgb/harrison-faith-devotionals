@@ -1,5 +1,6 @@
 import { Routes, Route, Link, useParams, useNavigate } from "react-router-dom";
 import { allSeries, currentSeries, getSeriesColor } from "./data";
+import logoBlack from "./assets/logo-black.png";
 
 // ─── Icons ────────────────────────────────────────────────────────────────────
 function ChevronRight({ color = "currentColor", size = 14 }: { color?: string; size?: number }) {
@@ -34,13 +35,22 @@ function Nav({ accent = "#2D4A3E" }: { accent?: string }) {
       backgroundColor: "#faf7f3",
     }}>
       <Link to="/" style={{
-        fontFamily: "'Playfair Display', Georgia, serif",
-        fontSize: "15px",
-        color: "#1e1a17",
+        display: "flex",
+        alignItems: "center",
+        gap: "8px",
         textDecoration: "none",
-        letterSpacing: "0.01em",
       }}>
-        Harrison Faith
+        <img src={logoBlack} alt="Harrison Faith" style={{ height: "30px", width: "auto" }} />
+        <span style={{
+          fontFamily: "'Lato', sans-serif",
+          fontWeight: 400,
+          fontSize: "11px",
+          letterSpacing: "0.1em",
+          textTransform: "uppercase",
+          color: "#1e1a17",
+        }}>
+          Blog
+        </span>
       </Link>
       <Link to="/series" style={{
         fontFamily: "'Lato', sans-serif",
