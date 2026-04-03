@@ -2,7 +2,7 @@
 series: blessed-are-the-persecuted
 series_title: Blessed are the Persecuted
 sermon_series: The Way of Blessing
-day: Day 1
+day: 1
 publish_date: 2025-07-27
 title: Blessed are the Persecuted
 scripture_reference: Matthew 5:10
