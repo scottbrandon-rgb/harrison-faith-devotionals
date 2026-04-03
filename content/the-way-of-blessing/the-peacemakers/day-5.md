@@ -1,6 +1,6 @@
 ---
-series: the-peacemaker
-series_title: The Peacemaker
+series: the-peacemakers
+series_title: The Peacemakers
 sermon_series: The Way of Blessing
 day: 5
 publish_date: 2025-07-18
