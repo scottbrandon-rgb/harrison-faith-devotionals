@@ -4,7 +4,7 @@ series_title: Recognizing True Righteousness
 sermon_series: Influence
 day: 5
 publish_date: 2025-09-04
-title: Home
+title: Recognizing True Righteousness
 scripture_reference: Matthew 5:19
 scripture_translation: ESV
 scripture_text: "Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever does them and teaches them will be called great in the kingdom of heaven."

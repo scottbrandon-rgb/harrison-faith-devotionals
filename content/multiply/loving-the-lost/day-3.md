@@ -4,7 +4,7 @@ series_title: Loving the Lost
 sermon_series: Multiply
 day: 3
 publish_date: 2026-03-04
-title: Home
+title: Loving the Lost
 scripture_reference: 
 scripture_translation: ESV
 scripture_text: ""

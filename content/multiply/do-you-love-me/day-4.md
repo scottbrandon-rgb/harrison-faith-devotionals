@@ -4,7 +4,7 @@ series_title: Do You Love Me
 sermon_series: Multiply
 day: 4
 publish_date: 2026-02-26
-title: Home
+title: Do You Love Me
 scripture_reference: John 21:15-17
 scripture_translation: ESV
 scripture_text: "When they had finished breakfast, Jesus said to Simon Peter, \"Simon, son of John, do you love me more than these?\" He said to him, \"Yes, Lord; you know that I love you.\" He said to him, \"Feed my lambs.\" He said to him a second time, \"Simon, son of John, do you love me?\" He said to him, \"Yes, Lord; you know that I love you.\" He said to him, \"Tend my sheep.\" He said to him the third time, \"Simon, son of John, do you love me?\" Peter was grieved because he said to him the third time, \"Do you love me?\" and he said to him, \"Lord, you know everything; you know that I love you.\" Jesus said to him, \"Feed my sheep."

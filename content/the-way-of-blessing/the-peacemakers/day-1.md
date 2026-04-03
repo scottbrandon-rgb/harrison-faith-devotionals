@@ -4,7 +4,7 @@ series_title: The Peacemakers
 sermon_series: The Way of Blessing
 day: 1
 publish_date: 2025-07-13
-title: Home
+title: The Peacemakers
 scripture_reference: Ephesians 2:14
 scripture_translation: ESV
 scripture_text: "For He Himself is our peace, who has made us both one and has broken down in His flesh the dividing wall of hostility."

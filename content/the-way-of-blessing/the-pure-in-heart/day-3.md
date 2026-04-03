@@ -4,7 +4,7 @@ series_title: The Pure In Heart
 sermon_series: The Way of Blessing
 day: 3
 publish_date: 2025-07-08
-title: Home
+title: The Pure In Heart
 scripture_reference: Proverbs 4:23
 scripture_translation: NLT
 scripture_text: "Guard your heart above all else, for it determines the course of your life."

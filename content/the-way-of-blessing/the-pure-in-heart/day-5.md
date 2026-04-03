@@ -4,7 +4,7 @@ series_title: The Pure In Heart
 sermon_series: The Way of Blessing
 day: 5
 publish_date: 2025-07-10
-title: Home
+title: The Pure In Heart
 scripture_reference: Psalm 27:8
 scripture_translation: ESV
 scripture_text: "You have said, ‘Seek my face.’ My heart says to you, ‘Your face, Lord, do I seek.’"

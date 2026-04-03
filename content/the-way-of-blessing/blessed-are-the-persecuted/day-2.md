@@ -1,10 +1,10 @@
 ---
 series: blessed-are-the-persecuted
-series_title: Blessed Are The Persecuted
+series_title: Blessed are the Persecuted
 sermon_series: The Way of Blessing
 day: 2
 publish_date: 2025-07-28
-title: Home
+title: Blessed are the Persecuted
 scripture_reference: John 15:19–20
 scripture_translation: ESV
 scripture_text: "If you were of the world, the world would love you as its own; but because you are not of the world… the world hates you."

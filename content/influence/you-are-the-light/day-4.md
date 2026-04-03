@@ -4,7 +4,7 @@ series_title: You Are the Light of the World
 sermon_series: Influence
 day: 4
 publish_date: 2025-08-20
-title: Home
+title: You Are the Light of the World
 scripture_reference: Matthew 5:15
 scripture_translation: ESV
 scripture_text: "Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house."

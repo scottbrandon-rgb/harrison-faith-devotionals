@@ -4,7 +4,7 @@ series_title: Stay Salty
 sermon_series: Influence
 day: 4
 publish_date: 2025-08-06
-title: Home
+title: Stay Salty
 scripture_reference: John 7:37–38
 scripture_translation: ESV
 scripture_text: "If anyone thirsts, let him come to me and drink. Whoever believes in me, as the Scripture has said, ‘Out of his heart will flow rivers of living water.’"

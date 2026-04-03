@@ -1,10 +1,10 @@
 ---
 series: compassion-in-action
-series_title: Compassion In Action
+series_title: Compassion in Action
 sermon_series: The Way of Blessing
 day: 5
 publish_date: 2025-07-07
-title: Home
+title: Compassion in Action
 scripture_reference: Matthe 5:7
 scripture_translation: ESV
 scripture_text: "Blessed are the merciful, for they shall receive mercy."

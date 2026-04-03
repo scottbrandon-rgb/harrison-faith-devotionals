@@ -4,7 +4,7 @@ series_title: Still Salty
 sermon_series: Influence
 day: 2
 publish_date: 2025-08-11
-title: Home
+title: Still Salty
 scripture_reference: Matthew 5:13
 scripture_translation: ESV
 scripture_text: "You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people’s feet."

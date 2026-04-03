@@ -1,10 +1,10 @@
 ---
 series: blessed-are-the-persecuted
-series_title: Blessed Are The Persecuted
+series_title: Blessed are the Persecuted
 sermon_series: The Way of Blessing
 day: 3
 publish_date: 2025-07-29
-title: Home
+title: Blessed are the Persecuted
 scripture_reference: Matthew 5:11
 scripture_translation: ESV
 scripture_text: "Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account."

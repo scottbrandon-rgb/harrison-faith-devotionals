@@ -4,7 +4,7 @@ series_title: You Are the Light of the World
 sermon_series: Influence
 day: 2
 publish_date: 2025-08-19
-title: Home
+title: You Are the Light of the World
 scripture_reference: John 1:5
 scripture_translation: ESV
 scripture_text: "The light shines in the darkness, and the darkness has not overcome it."

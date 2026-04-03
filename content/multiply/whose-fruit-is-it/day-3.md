@@ -4,7 +4,7 @@ series_title: Whose Fruit Is It
 sermon_series: Multiply
 day: 3
 publish_date: 2026-02-11
-title: Home
+title: Whose Fruit Is It
 scripture_reference: Matthew 21:35-39 ESV
 scripture_translation: ESV
 scripture_text: "And the tenants took his servants and beat one, killed another, and stoned another. Again he sent other servants, more than the first. And they did the same to them. Finally he sent his son to them, saying, 'They will respect my son.' But when the tenants saw the son, they said to themselves, 'This is the heir. Come, let us kill him and have his inheritance.' And they took him and threw him out of the vineyard and killed him."

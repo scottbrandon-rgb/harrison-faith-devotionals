@@ -1,10 +1,10 @@
 ---
 series: growing-in-meekness-pt-2
-series_title: Growing In Meekness Pt 2
+series_title: Growing in Meekness Pt 2
 sermon_series: The Way of Blessing
 day: 4
 publish_date: 2025-06-15
-title: Home
+title: Growing in Meekness Pt 2
 scripture_reference: Galatians 5:22–23
 scripture_translation: ESV
 scripture_text: "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control…"

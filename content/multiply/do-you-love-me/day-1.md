@@ -4,7 +4,7 @@ series_title: Do You Love Me
 sermon_series: Multiply
 day: 1
 publish_date: 2026-02-23
-title: Home
+title: Do You Love Me
 scripture_reference: Luke 5:1-11
 scripture_translation: ESV
 scripture_text: "On one occasion, while the crowd was pressing in on him to hear the word of God, he was standing by the lake of Gennesaret, and he saw two boats by the lake, but the fishermen had gone out of them and were washing their nets. Getting into one of the boats, which was Simon's, he asked him to put out a little from the land. And he sat down and taught the people from the boat. And when he had finished speaking, he said to Simon, \"Put out into the deep and let down your nets for a catch.\" And Simon answered, \"Master, we toiled all night and took nothing! But at your word I will let down the nets.\" And when they had done this, they enclosed a large number of fish, and their nets were breaking. They signaled to their partners in the other boat to come and help them. And they came and filled both the boats, so that they began to sink. But when Simon Peter saw it, he fell down at Jesus' knees, saying, \"Depart from me, for I am a sinful man, O Lord.\" For he and all who were with him were astonished at the catch of fish that they had taken, and so also were James and John, sons of Zebedee, who were partners with Simon. And Jesus said to Simon, \"Do not be afraid; from now on you will be catching men.\" And when they had brought their boats to land, they left everything and followed him."

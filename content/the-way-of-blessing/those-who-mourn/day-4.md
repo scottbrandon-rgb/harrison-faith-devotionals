@@ -4,7 +4,7 @@ series_title: Those Who Mourn
 sermon_series: The Way of Blessing
 day: 4
 publish_date: 2025-06-02
-title: Home
+title: Those Who Mourn
 scripture_reference: Isaiah 6:5
 scripture_translation: ESV
 scripture_text: "And I said: ‘Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, the Lord of hosts!’"

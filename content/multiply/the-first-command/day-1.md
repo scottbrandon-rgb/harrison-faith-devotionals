@@ -4,7 +4,7 @@ series_title: The First Command
 sermon_series: Multiply
 day: 1
 publish_date: 2026-02-01
-title: Home
+title: The First Command
 scripture_reference: Genesis 1:28
 scripture_translation: ESV
 scripture_text: "And God blessed them. And God said to them, 'Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.'"

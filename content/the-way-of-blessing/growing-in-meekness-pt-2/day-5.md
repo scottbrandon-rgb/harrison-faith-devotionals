@@ -1,10 +1,10 @@
 ---
 series: growing-in-meekness-pt-2
-series_title: Growing In Meekness Pt 2
+series_title: Growing in Meekness Pt 2
 sermon_series: The Way of Blessing
 day: 5
 publish_date: 2025-06-15
-title: Home
+title: Growing in Meekness Pt 2
 scripture_reference: Matthew 5:5
 scripture_translation: ESV
 scripture_text: "Blessed are the meek, for they shall inherit the earth."

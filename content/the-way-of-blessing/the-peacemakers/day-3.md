@@ -4,7 +4,7 @@ series_title: The Peacemakers
 sermon_series: The Way of Blessing
 day: 3
 publish_date: 2025-07-16
-title: Home
+title: The Peacemakers
 scripture_reference: James 4:1
 scripture_translation: ESV
 scripture_text: "What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you?"

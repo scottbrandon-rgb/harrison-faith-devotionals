@@ -1,10 +1,10 @@
 ---
 series: growing-in-meekness-pt-2
-series_title: Growing In Meekness Pt 2
+series_title: Growing in Meekness Pt 2
 sermon_series: The Way of Blessing
 day: 3
 publish_date: 2025-06-15
-title: Home
+title: Growing in Meekness Pt 2
 scripture_reference: Proverbs 16:32
 scripture_translation: ESV
 scripture_text: "Whoever is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city."

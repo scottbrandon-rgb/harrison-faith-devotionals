@@ -1,10 +1,10 @@
 ---
 series: growing-in-meekness-pt-2
-series_title: Growing In Meekness Pt 2
+series_title: Growing in Meekness Pt 2
 sermon_series: The Way of Blessing
 day: 2
 publish_date: 2025-06-15
-title: Home
+title: Growing in Meekness Pt 2
 scripture_reference: Ecclesiastes 4:6
 scripture_translation: ESV
 scripture_text: "Better is a handful of quietness than two hands full of toil and a striving after wind."

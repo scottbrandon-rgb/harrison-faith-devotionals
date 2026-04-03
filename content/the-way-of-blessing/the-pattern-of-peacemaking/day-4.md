@@ -1,10 +1,10 @@
 ---
 series: the-pattern-of-peacemaking
-series_title: The Pattern Of Peacemaking
+series_title: The Pattern of Peacemaking
 sermon_series: The Way of Blessing
 day: 4
 publish_date: 2025-07-23
-title: Home
+title: The Pattern of Peacemaking
 scripture_reference: Ephesians 5:25–26
 scripture_translation: ESV
 scripture_text: "Husbands, love your wives, as Christ loved the church and gave himself up for her, that he might sanctify her…"

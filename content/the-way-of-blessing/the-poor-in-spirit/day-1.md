@@ -1,10 +1,10 @@
 ---
 series: the-poor-in-spirit
-series_title: The Poor In Spirit
+series_title: The Poor in Spirit
 sermon_series: The Way of Blessing
 day: 1
 publish_date: 2025-06-07
-title: Home
+title: The Poor in Spirit
 scripture_reference: Matthew 5:1–3
 scripture_translation: ESV
 scripture_text: "Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him. And he opened his mouth and taught them, saying: “Blessed are the poor in spirit, for theirs is the kingdom of heaven."

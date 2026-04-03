@@ -1,10 +1,10 @@
 ---
 series: the-poor-in-spirit
-series_title: The Poor In Spirit
+series_title: The Poor in Spirit
 sermon_series: The Way of Blessing
 day: 3
 publish_date: 2025-06-07
-title: Home
+title: The Poor in Spirit
 scripture_reference: Luke 18:9–14
 scripture_translation: ESV
 scripture_text: "He also told this parable to some who trusted in themselves that they were righteous, and treated others with contempt: “Two men went up into the temple to pray, one a Pharisee and the other a tax collector. The Pharisee, standing by himself, prayed thus: ‘God, I thank you that I am not like other men…’ But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’ I tell you, this man went down to his house justified… for everyone who exalts himself will be humbled, but the one who humbles himself will be exalted."

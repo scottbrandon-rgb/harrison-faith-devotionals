@@ -1,10 +1,10 @@
 ---
 series: blessed-are-the-persecuted
-series_title: Blessed Are The Persecuted
+series_title: Blessed are the Persecuted
 sermon_series: The Way of Blessing
 day: 5
 publish_date: 2025-08-01
-title: Home
+title: Blessed are the Persecuted
 scripture_reference: Matthew 5:12
 scripture_translation: ESV
 scripture_text: "Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you."

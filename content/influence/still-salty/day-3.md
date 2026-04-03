@@ -4,7 +4,7 @@ series_title: Still Salty
 sermon_series: Influence
 day: 3
 publish_date: 2025-08-12
-title: Home
+title: Still Salty
 scripture_reference: Numbers 18:19
 scripture_translation: ESV
 scripture_text: "It is a covenant of salt forever before the Lord for you and for your offspring with you."

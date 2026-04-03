@@ -4,7 +4,7 @@ series_title: Not a Pause, a Pursuit
 sermon_series: Seek First
 day: 2
 publish_date: 2026-01-26
-title: Surrendered Gains
+title: Not a Pause, a Pursuit
 scripture_reference: Philippians 3:7-8
 scripture_translation: ESV
 scripture_text: "But whatever gain I had, I counted as loss for the sake of Christ. Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ."

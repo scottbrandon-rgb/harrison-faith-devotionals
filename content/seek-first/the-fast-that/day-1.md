@@ -4,7 +4,7 @@ series_title: The Fast That
 sermon_series: Seek First
 day: 1
 publish_date: 2026-01-18
-title: The Fast That Pretends
+title: The Fast That
 scripture_reference: Isaiah 58:2
 scripture_translation: ESV
 scripture_text: "Yet they seek me daily and delight to know my ways, as if they were a nation that did righteousness and did not forsake the judgment of their God; they ask of me righteous judgments; they delight to draw near to God."

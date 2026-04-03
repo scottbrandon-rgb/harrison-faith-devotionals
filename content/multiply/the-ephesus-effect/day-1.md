@@ -4,7 +4,7 @@ series_title: The Ephesus Effect
 sermon_series: Multiply
 day: 1
 publish_date: 2026-02-16
-title: Home
+title: The Ephesus Effect
 scripture_reference: Acts 19:8-10
 scripture_translation: ESV
 scripture_text: "But when some became stubborn and continued in unbelief, speaking evil of the Way before the congregation, he withdrew from them and took the disciples with him, reasoning daily in the hall of Tyrannus. This continued for two years, so that all the residents of Asia heard the word of the Lord, both Jews and Greeks. And God was doing extraordinary miracles by the hands of Paul,"

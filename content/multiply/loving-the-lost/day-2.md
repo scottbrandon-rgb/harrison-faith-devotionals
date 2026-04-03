@@ -4,7 +4,7 @@ series_title: Loving the Lost
 sermon_series: Multiply
 day: 2
 publish_date: 2026-03-03
-title: Home
+title: Loving the Lost
 scripture_reference: Romans 3:23
 scripture_translation: CSB
 scripture_text: "For all have sinned and fall short of the glory of God."

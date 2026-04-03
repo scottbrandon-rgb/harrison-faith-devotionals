@@ -1,10 +1,10 @@
 ---
 series: the-poor-in-spirit
-series_title: The Poor In Spirit
+series_title: The Poor in Spirit
 sermon_series: The Way of Blessing
 day: 4
 publish_date: 2025-06-07
-title: Home
+title: The Poor in Spirit
 scripture_reference: Isaiah 6:1–5
 scripture_translation: ESV
 scripture_text: "In the year that King Uzziah died I saw the Lord sitting upon a throne, high and lifted up… and the train of his robe filled the temple… And I said: “Woe is me! For I am lost; for I am a man of unclean lips… for my eyes have seen the King, the Lord of hosts!"

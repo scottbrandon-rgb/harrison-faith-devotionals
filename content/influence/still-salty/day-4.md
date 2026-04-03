@@ -4,7 +4,7 @@ series_title: Still Salty
 sermon_series: Influence
 day: 4
 publish_date: 2025-08-13
-title: Home
+title: Still Salty
 scripture_reference: Matthew 5:13
 scripture_translation: ESV
 scripture_text: "…but if salt has lost its taste, how shall its saltiness be restored?"

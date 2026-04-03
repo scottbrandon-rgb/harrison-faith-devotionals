@@ -4,7 +4,7 @@ series_title: The Fast That
 sermon_series: Seek First
 day: 2
 publish_date: 2026-01-19
-title: The Fast That Grasps
+title: The Fast That
 scripture_reference: Isaiah 58:3
 scripture_translation: ESV
 scripture_text: "Why have we fasted, and you see it not? Why have we humbled ourselves, and you take no knowledge of it?' Behold, in the day of your fast you seek your own pleasure, and oppress all your workers."

@@ -1,10 +1,10 @@
 ---
 series: compassion-in-action
-series_title: Compassion In Action
+series_title: Compassion in Action
 sermon_series: The Way of Blessing
 day: 3
 publish_date: 2025-07-01
-title: Home
+title: Compassion in Action
 scripture_reference: Luke 10:34–35
 scripture_translation: ESV
 scripture_text: "He went to him and bound up his wounds, pouring on oil and wine. Then he set him on his own animal and brought him to an inn and took care of him. And the next day he took out two denarii and gave them to the innkeeper, saying, ‘Take care of him, and whatever more you spend, I will repay you when I come back.’"

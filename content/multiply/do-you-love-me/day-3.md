@@ -4,7 +4,7 @@ series_title: Do You Love Me
 sermon_series: Multiply
 day: 3
 publish_date: 2026-02-25
-title: Home
+title: Do You Love Me
 scripture_reference: John 21:9-13
 scripture_translation: ESV
 scripture_text: "When they got out on land, they saw a charcoal fire in place, with fish laid out on it, and bread. Jesus said to them, \"Bring some of the fish that you have just caught.\" So Simon Peter went aboard and hauled the net ashore, full of large fish, 153 of them. And although there were so many, the net was not torn. Jesus said to them, \"Come and have breakfast.\" Now none of the disciples dared ask him, \"Who are you?\" They knew it was the Lord. Jesus came and took the bread and gave it to them, and so with the fish."

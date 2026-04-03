@@ -4,7 +4,7 @@ series_title: Whose Fruit Is It
 sermon_series: Multiply
 day: 4
 publish_date: 2026-02-12
-title: Home
+title: Whose Fruit Is It
 scripture_reference: Matthew 21:43 ESV
 scripture_translation: ESV
 scripture_text: "Therefore I tell you, the kingdom of God will be taken away from you and given to a people producing its fruits."

@@ -4,7 +4,7 @@ series_title: Whose Fruit Is It
 sermon_series: Multiply
 day: 2
 publish_date: 2026-02-10
-title: Home
+title: Whose Fruit Is It
 scripture_reference: Matthew 21:34 ESV
 scripture_translation: ESV
 scripture_text: "When the season for fruit drew near, he sent his servants to the tenants to get his fruit."

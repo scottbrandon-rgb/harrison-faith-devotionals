@@ -4,7 +4,7 @@ series_title: You Are the Light of the World
 sermon_series: Influence
 day: 1
 publish_date: 2025-08-18
-title: Home
+title: You Are the Light of the World
 scripture_reference: Matthew 5:14
 scripture_translation: ESV
 scripture_text: "You are the light of the world. A city set on a hill cannot be hidden."

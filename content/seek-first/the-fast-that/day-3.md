@@ -4,7 +4,7 @@ series_title: The Fast That
 sermon_series: Seek First
 day: 3
 publish_date: 2026-01-20
-title: The Fast That Opens
+title: The Fast That
 scripture_reference: Isaiah 58:6-7
 scripture_translation: ESV
 scripture_text: "Is not this the fast that I choose: to loose the bonds of wickedness, to undo the straps of the yoke, to let the oppressed go free, and to break every yoke? Is it not to share your bread with the hungry and bring the homeless poor into your house; when you see the naked, to cover him, and not to hide yourself from your own flesh?"

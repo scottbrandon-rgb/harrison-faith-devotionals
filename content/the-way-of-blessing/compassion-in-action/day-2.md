@@ -1,10 +1,10 @@
 ---
 series: compassion-in-action
-series_title: Compassion In Action
+series_title: Compassion in Action
 sermon_series: The Way of Blessing
 day: 2
 publish_date: 2025-06-29
-title: Home
+title: Compassion in Action
 scripture_reference: Luke 10:36–37
 scripture_translation: ESV
 scripture_text: "Which of these three, do you think, proved to be a neighbor to the man who fell among the robbers?” He said, “The one who showed him mercy.” And Jesus said to him, “You go, and do likewise."

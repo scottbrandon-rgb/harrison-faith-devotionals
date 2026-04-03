@@ -1,10 +1,10 @@
 ---
 series: the-pattern-of-peacemaking
-series_title: The Pattern Of Peacemaking
+series_title: The Pattern of Peacemaking
 sermon_series: The Way of Blessing
 day: 1
 publish_date: 2025-07-21
-title: Home
+title: The Pattern of Peacemaking
 scripture_reference: Isaiah 66:12
 scripture_translation: ESV
 scripture_text: "For thus says the Lord: ‘Behold, I will extend peace to her like a river, and the glory of the nations like an overflowing stream…’"

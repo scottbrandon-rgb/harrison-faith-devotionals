@@ -4,7 +4,7 @@ series_title: The First Command
 sermon_series: Multiply
 day: 2
 publish_date: 2026-02-02
-title: Home
+title: The First Command
 scripture_reference: Ephesians 2:10
 scripture_translation: ESV
 scripture_text: "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them."

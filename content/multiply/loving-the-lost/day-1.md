@@ -4,7 +4,7 @@ series_title: Loving the Lost
 sermon_series: Multiply
 day: 1
 publish_date: 2026-03-02
-title: Home
+title: Loving the Lost
 scripture_reference: Luke 19:10
 scripture_translation: CSB
 scripture_text: "For the Son of Man has come to seek and save the lost."

@@ -1,10 +1,10 @@
 ---
 series: blessed-are-the-persecuted
-series_title: Blessed Are The Persecuted
+series_title: Blessed are the Persecuted
 sermon_series: The Way of Blessing
 day: 4
 publish_date: 2025-07-31
-title: Home
+title: Blessed are the Persecuted
 scripture_reference: Daniel 3:17–18
 scripture_translation: ESV
 scripture_text: "Our God whom we serve is able to deliver us… But if not, be it known to you… we will not serve your gods."

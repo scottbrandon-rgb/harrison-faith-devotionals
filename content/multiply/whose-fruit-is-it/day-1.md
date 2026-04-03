@@ -4,7 +4,7 @@ series_title: Whose Fruit Is It
 sermon_series: Multiply
 day: 1
 publish_date: 2026-02-09
-title: Home
+title: Whose Fruit Is It
 scripture_reference: Matthew 21:33 ESV
 scripture_translation: ESV
 scripture_text: "Hear another parable. There was a master of a house who planted a vineyard and put a fence around it and dug a winepress in it and built a tower and leased it to tenants, and went into another country."

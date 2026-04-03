@@ -1,10 +1,10 @@
 ---
 series: compassion-in-action
-series_title: Compassion In Action
+series_title: Compassion in Action
 sermon_series: The Way of Blessing
 day: 4
 publish_date: 2025-07-03
-title: Home
+title: Compassion in Action
 scripture_reference: Luke 10:33
 scripture_translation: ESV
 scripture_text: "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion."

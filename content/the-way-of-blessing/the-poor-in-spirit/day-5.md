@@ -1,10 +1,10 @@
 ---
 series: the-poor-in-spirit
-series_title: The Poor In Spirit
+series_title: The Poor in Spirit
 sermon_series: The Way of Blessing
 day: 5
 publish_date: 2025-06-07
-title: Home
+title: The Poor in Spirit
 scripture_reference: Revelation 3:17–18
 scripture_translation: ESV
 scripture_text: "For you say, I am rich, I have prospered, and I need nothing, not realizing that you are wretched, pitiable, poor, blind, and naked. I counsel you to buy from me gold refined by fire, so that you may be rich…"

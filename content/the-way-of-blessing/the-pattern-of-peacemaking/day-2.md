@@ -1,10 +1,10 @@
 ---
 series: the-pattern-of-peacemaking
-series_title: The Pattern Of Peacemaking
+series_title: The Pattern of Peacemaking
 sermon_series: The Way of Blessing
 day: 2
 publish_date: 2025-07-22
-title: Home
+title: The Pattern of Peacemaking
 scripture_reference: Luke 10:5
 scripture_translation: ESV
 scripture_text: "Whatever house you enter, first say, ‘Peace be to this house!’"

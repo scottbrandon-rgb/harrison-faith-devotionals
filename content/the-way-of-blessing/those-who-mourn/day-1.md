@@ -4,7 +4,7 @@ series_title: Those Who Mourn
 sermon_series: The Way of Blessing
 day: 1
 publish_date: 2025-06-02
-title: Home
+title: Those Who Mourn
 scripture_reference: Matthew 5:4
 scripture_translation: ESV
 scripture_text: "Blessed are those who mourn, for they shall be comforted."

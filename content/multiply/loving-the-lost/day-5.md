@@ -4,7 +4,7 @@ series_title: Loving the Lost
 sermon_series: Multiply
 day: 5
 publish_date: 2026-03-06
-title: Home
+title: Loving the Lost
 scripture_reference: Titus 3:4-5
 scripture_translation: CSB
 scripture_text: "But when the kindness of God our Savior and his love for mankind appeared, he saved us, not by works of righteousness that we had done, but according to his mercy, through the washing of regeneration and renewal by the Holy Spirit."

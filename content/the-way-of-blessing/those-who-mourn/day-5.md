@@ -4,7 +4,7 @@ series_title: Those Who Mourn
 sermon_series: The Way of Blessing
 day: 5
 publish_date: 2025-06-02
-title: Home
+title: Those Who Mourn
 scripture_reference: Isaiah 61:1–3
 scripture_translation: ESV
 scripture_text: "The Spirit of the Lord God is upon me, because the Lord has anointed me to bring good news to the poor; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound; to proclaim the year of the Lord’s favor, and the day of vengeance of our God; to comfort all who mourn; to grant to those who mourn in Zion— to give them a beautiful headdress instead of ashes, the oil of gladness instead of mourning, the garment of praise instead of a faint spirit; that they may be called oaks of righteousness, the planting of the Lord, that he may be glorified."

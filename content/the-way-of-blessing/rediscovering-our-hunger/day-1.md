@@ -4,7 +4,7 @@ series_title: Rediscovering Our Hunger
 sermon_series: The Way of Blessing
 day: 1
 publish_date: 2025-06-21
-title: Home
+title: Rediscovering Our Hunger
 scripture_reference: Matthew 5:6
 scripture_translation: ESV
 scripture_text: "Blessed are those who hunger and thirst for righteousness, for they shall be satisfied."

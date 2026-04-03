@@ -4,7 +4,7 @@ series_title: Stay Salty
 sermon_series: Influence
 day: 2
 publish_date: 2025-08-05
-title: Home
+title: Stay Salty
 scripture_reference: 
 scripture_translation: ESV
 scripture_text: ""

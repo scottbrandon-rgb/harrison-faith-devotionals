@@ -1,10 +1,10 @@
 ---
 series: blessed-are-the-persecuted
-series_title: Blessed Are The Persecuted
+series_title: Blessed are the Persecuted
 sermon_series: The Way of Blessing
 day: 1
 publish_date: 2025-07-27
-title: Home
+title: Blessed are the Persecuted
 scripture_reference: Matthew 5:10
 scripture_translation: ESV
 scripture_text: "Blessed are those who are persecuted for righteousness’ sake, for theirs is the kingdom of heaven."

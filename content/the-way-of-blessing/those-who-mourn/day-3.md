@@ -4,7 +4,7 @@ series_title: Those Who Mourn
 sermon_series: The Way of Blessing
 day: 3
 publish_date: 2025-06-02
-title: Home
+title: Those Who Mourn
 scripture_reference: Jonah 4:1–3
 scripture_translation: ESV
 scripture_text: "But it displeased Jonah exceedingly, and he was angry… ‘That is why I made haste to flee… for I knew that you are a gracious God and merciful… Therefore now, O Lord, please take my life from me, for it is better for me to die than to live.’"

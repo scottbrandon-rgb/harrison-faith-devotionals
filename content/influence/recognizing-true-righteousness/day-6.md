@@ -4,7 +4,7 @@ series_title: Recognizing True Righteousness
 sermon_series: Influence
 day: 6
 publish_date: 2025-09-05
-title: Home
+title: Recognizing True Righteousness
 scripture_reference: Matthew 5:20
 scripture_translation: ESV
 scripture_text: "For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven."

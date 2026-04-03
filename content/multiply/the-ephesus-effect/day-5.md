@@ -4,7 +4,7 @@ series_title: The Ephesus Effect
 sermon_series: Multiply
 day: 5
 publish_date: 2026-02-20
-title: Home
+title: The Ephesus Effect
 scripture_reference: Colossians 4:12-13
 scripture_translation: ESV
 scripture_text: "Epaphras, who is one of you, a servant of Christ Jesus, greets you, always struggling on your behalf in his prayers, that you may stand mature and fully assured in all the will of God. For I bear him witness that he has worked hard for you and for those in Laodicea and in Hierapolis."

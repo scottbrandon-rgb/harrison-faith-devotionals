@@ -4,7 +4,7 @@ series_title: Stay Salty
 sermon_series: Influence
 day: 1
 publish_date: 2025-08-03
-title: Home
+title: Stay Salty
 scripture_reference: Matthew 5:13a
 scripture_translation: ESV
 scripture_text: "You are the salt of the earth."

@@ -4,7 +4,7 @@ series_title: The Peacemakers
 sermon_series: The Way of Blessing
 day: 2
 publish_date: 2025-07-15
-title: Home
+title: The Peacemakers
 scripture_reference: Ezekiel 13:10
 scripture_translation: ESV
 scripture_text: "They have misled my people, saying, ‘Peace,’ when there is no peace… when the people build a wall, these prophets smear it with whitewash."

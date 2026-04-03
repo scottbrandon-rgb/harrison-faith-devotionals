@@ -4,7 +4,7 @@ series_title: Recognizing True Righteousness
 sermon_series: Influence
 day: 2
 publish_date: 2025-09-01
-title: Home
+title: Recognizing True Righteousness
 scripture_reference: Romans 3:23-26
 scripture_translation: ESV
 scripture_text: "for all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus, whom God put forward as a propitiation by his blood, to be received by faith. This was to show God's righteousness, because in his divine forbearance he had passed over former sins. It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus."

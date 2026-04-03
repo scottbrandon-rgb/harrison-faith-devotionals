@@ -4,7 +4,7 @@ series_title: Do You Love Me
 sermon_series: Multiply
 day: 5
 publish_date: 2026-02-27
-title: Home
+title: Do You Love Me
 scripture_reference: John 21:17-19
 scripture_translation: ESV
 scripture_text: "He said to him the third time, \"Simon, son of John, do you love me?\" Peter was grieved because he said to him the third time, \"Do you love me?\" and he said to him, \"Lord, you know everything; you know that I love you.\" Jesus said to him, \"Feed my sheep. Truly, truly, I say to you, when you were young, you used to dress yourself and walk wherever you wanted, but when you are old, you will stretch out your hands, and another will dress you and carry you where you do not wish to go.\" (This he said to show by what kind of death he was to glorify God.) And after saying this he said to him, \"Follow me."

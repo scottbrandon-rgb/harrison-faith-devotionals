@@ -4,7 +4,7 @@ series_title: Rediscovering Our Hunger
 sermon_series: The Way of Blessing
 day: 3
 publish_date: 2025-06-25
-title: Home
+title: Rediscovering Our Hunger
 scripture_reference: 
 scripture_translation: ESV
 scripture_text: ""

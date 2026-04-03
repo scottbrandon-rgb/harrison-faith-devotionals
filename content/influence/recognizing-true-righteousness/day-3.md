@@ -4,7 +4,7 @@ series_title: Recognizing True Righteousness
 sermon_series: Influence
 day: 3
 publish_date: 2025-09-02
-title: Home
+title: Recognizing True Righteousness
 scripture_reference: Philippians 2:8
 scripture_translation: ESV
 scripture_text: "And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross."

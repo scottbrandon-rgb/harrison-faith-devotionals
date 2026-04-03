@@ -4,7 +4,7 @@ series_title: Recognizing True Righteousness
 sermon_series: Influence
 day: 1
 publish_date: 2025-08-31
-title: Familiarity vs. Recognition
+title: Recognizing True Righteousness
 scripture_reference: Matthew 5:17-20
 scripture_translation: ESV
 scripture_text: "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly, I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished. Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever does them and teaches them will be called great in the kingdom of heaven. For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven."

@@ -4,7 +4,7 @@ series_title: The Peacemakers
 sermon_series: The Way of Blessing
 day: 5
 publish_date: 2025-07-18
-title: Home
+title: The Peacemakers
 scripture_reference: Matthew 5:9
 scripture_translation: ESV
 scripture_text: "Blessed are the peacemakers, for they shall be called sons of God."

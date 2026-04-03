@@ -4,7 +4,7 @@ series_title: The Pure In Heart
 sermon_series: The Way of Blessing
 day: 2
 publish_date: 2025-07-08
-title: Home
+title: The Pure In Heart
 scripture_reference: James 4:8
 scripture_translation: ESV
 scripture_text: "Draw near to God, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded."

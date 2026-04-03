@@ -4,7 +4,7 @@ series_title: Loving the Lost
 sermon_series: Multiply
 day: 4
 publish_date: 2026-03-05
-title: Home
+title: Loving the Lost
 scripture_reference: Luke 10:33-34
 scripture_translation: CSB
 scripture_text: "But a Samaritan on his journey came up to him, and when he saw him, he had compassion. He went over to him and bandaged his wounds, pouring on olive oil and wine."

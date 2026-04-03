@@ -4,7 +4,7 @@ series_title: The Fast That
 sermon_series: Seek First
 day: 4
 publish_date: 2026-01-22
-title: The Fast That Reflects
+title: The Fast That
 scripture_reference: Philippians 2:6-7
 scripture_translation: ESV
 scripture_text: "Who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men."

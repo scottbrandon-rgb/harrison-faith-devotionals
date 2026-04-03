@@ -4,7 +4,7 @@ series_title: The Pure In Heart
 sermon_series: The Way of Blessing
 day: 1
 publish_date: 2025-07-07
-title: Home
+title: The Pure In Heart
 scripture_reference: Matthew 5:8
 scripture_translation: ESV
 scripture_text: "Blessed are the pure in heart, for they shall see God."

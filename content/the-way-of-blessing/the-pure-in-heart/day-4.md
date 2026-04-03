@@ -4,7 +4,7 @@ series_title: The Pure In Heart
 sermon_series: The Way of Blessing
 day: 4
 publish_date: 2025-07-10
-title: Home
+title: The Pure In Heart
 scripture_reference: Job 42:5
 scripture_translation: ESV
 scripture_text: "I had heard of you by the hearing of the ear, but now my eye sees you."

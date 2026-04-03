@@ -4,7 +4,7 @@ series_title: The First Command
 sermon_series: Multiply
 day: 3
 publish_date: 2026-02-04
-title: Home
+title: The First Command
 scripture_reference: Genesis 9:1
 scripture_translation: ESV
 scripture_text: "And God blessed Noah and his sons and said to them, 'Be fruitful and multiply and fill the earth.'"

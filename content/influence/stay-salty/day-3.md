@@ -4,7 +4,7 @@ series_title: Stay Salty
 sermon_series: Influence
 day: 3
 publish_date: 2025-08-05
-title: Home
+title: Stay Salty
 scripture_reference: Mark 9:50
 scripture_translation: ESV
 scripture_text: "Salt is good, but if the salt has lost its saltiness, how will you make it salty again? Have salt in yourselves, and be at peace with one another."

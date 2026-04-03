@@ -4,7 +4,7 @@ series_title: Whose Fruit Is It
 sermon_series: Multiply
 day: 5
 publish_date: 2026-02-13
-title: Home
+title: Whose Fruit Is It
 scripture_reference: Luke 12:48 ESV
 scripture_translation: ESV
 scripture_text: "Everyone to whom much was given, of him much will be required, and from him to whom they entrusted much, they will demand the more."

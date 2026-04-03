@@ -4,7 +4,7 @@ series_title: Still Salty
 sermon_series: Influence
 day: 5
 publish_date: 2025-08-14
-title: Home
+title: Still Salty
 scripture_reference: Colossians 4:5–6
 scripture_translation: ESV
 scripture_text: "Walk in wisdom toward outsiders, making the best use of the time. Let your speech always be gracious, seasoned with salt…"

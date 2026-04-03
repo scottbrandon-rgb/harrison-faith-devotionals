@@ -4,7 +4,7 @@ series_title: You Are the Light of the World
 sermon_series: Influence
 day: 5
 publish_date: 2025-08-22
-title: Home
+title: You Are the Light of the World
 scripture_reference: Matthew 5:14-16
 scripture_translation: ESV
 scripture_text: "You are the light of the world. A city set on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house. In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven."

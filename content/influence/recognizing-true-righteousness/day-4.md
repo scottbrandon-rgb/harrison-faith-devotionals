@@ -4,7 +4,7 @@ series_title: Recognizing True Righteousness
 sermon_series: Influence
 day: 4
 publish_date: 2025-09-03
-title: Home
+title: Recognizing True Righteousness
 scripture_reference: Romans 8:3-4
 scripture_translation: ESV
 scripture_text: "For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit."

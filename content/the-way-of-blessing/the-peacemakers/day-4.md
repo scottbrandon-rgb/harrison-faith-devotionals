@@ -4,7 +4,7 @@ series_title: The Peacemakers
 sermon_series: The Way of Blessing
 day: 4
 publish_date: 2025-07-17
-title: Home
+title: The Peacemakers
 scripture_reference: Isaiah 26:3
 scripture_translation: ESV
 scripture_text: "You keep him in perfect peace whose mind is stayed on you, because he trusts in you."

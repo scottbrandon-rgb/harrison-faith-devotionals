@@ -4,7 +4,7 @@ series_title: Do You Love Me
 sermon_series: Multiply
 day: 2
 publish_date: 2026-02-24
-title: Home
+title: Do You Love Me
 scripture_reference: John 21:1-3
 scripture_translation: ESV
 scripture_text: "After this Jesus revealed himself again to the disciples by the Sea of Tiberias, and he revealed himself in the following way. Simon Peter, Thomas (called the Twin), Nathanael of Cana in Galilee, the sons of Zebedee, and two others of his disciples were together. Simon Peter said to them, \"I am going fishing.\" They said to him, \"We will go with you.\" They went out and got into the boat, but that night they caught nothing."

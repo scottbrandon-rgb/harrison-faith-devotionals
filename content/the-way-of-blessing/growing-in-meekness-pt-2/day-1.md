@@ -1,10 +1,10 @@
 ---
 series: growing-in-meekness-pt-2
-series_title: Growing In Meekness Pt 2
+series_title: Growing in Meekness Pt 2
 sermon_series: The Way of Blessing
 day: 1
 publish_date: 2025-06-15
-title: Home
+title: Growing in Meekness Pt 2
 scripture_reference: Philippians 4:11–13
 scripture_translation: ESV
 scripture_text: "11 Not that I am speaking of being in need, for I have learned in whatever situation I am to be content. 12 I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need. 13 I can do all things through him who strengthens me."

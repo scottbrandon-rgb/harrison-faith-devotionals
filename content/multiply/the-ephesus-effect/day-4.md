@@ -4,7 +4,7 @@ series_title: The Ephesus Effect
 sermon_series: Multiply
 day: 4
 publish_date: 2026-02-19
-title: Home
+title: The Ephesus Effect
 scripture_reference: Colossians 1:3-7
 scripture_translation: ESV
 scripture_text: "Also many of those who were now believers came, confessing and divulging their practices. And a number of those who had practiced magic arts brought their books together and burned them in the sight of all. And they counted the value of them and found it came to fifty thousand pieces of silver."
