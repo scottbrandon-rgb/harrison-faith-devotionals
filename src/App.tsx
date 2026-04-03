@@ -1,6 +1,11 @@
+import { useState } from "react";
 import { Routes, Route, Link, useParams, useNavigate } from "react-router-dom";
 import { allSeries, currentSeries, getSeriesColor } from "./data";
 import logoBlack from "./assets/logo-black.png";
+
+function slugify(s: string) {
+  return s.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+}
 
 // ─── Date helpers ─────────────────────────────────────────────────────────────
 function formatDate(dateStr: string | null, opts: Intl.DateTimeFormatOptions = { month: "short", day: "numeric", year: "numeric" }) {
@@ -168,16 +173,18 @@ function LandingPage() {
             }}
           >
             <span style={{
-              fontFamily: "'Playfair Display', serif",
-              fontSize: "20px",
+              fontFamily: "'Lato', sans-serif",
+              fontSize: "10px",
               fontWeight: 700,
+              letterSpacing: "0.1em",
+              textTransform: "uppercase",
               color: color.accent,
-              opacity: 0.35,
-              width: "24px",
+              opacity: 0.45,
+              width: "36px",
               flexShrink: 0,
               textAlign: "center",
             }}>
-              {day.day}
+              Day {day.day}
             </span>
             <div style={{ flex: 1 }}>
               <p style={{
@@ -485,6 +492,8 @@ function ReadingPage() {
 
 // ─── Series / Archive Page ────────────────────────────────────────────────────
 function SeriesPage() {
+  const [jumpOpen, setJumpOpen] = useState(false);
+
   // Group sermon series by year of their most recent week
   const byYear: Record<string, typeof allSeries> = {};
   for (const sermonSeries of allSeries) {
@@ -494,11 +503,20 @@ function SeriesPage() {
   }
   const years = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
 
+  function scrollToSeries(name: string) {
+    const el = document.getElementById(slugify(name));
+    if (el) {
+      const top = el.getBoundingClientRect().top + window.scrollY - 68;
+      window.scrollTo({ top, behavior: "smooth" });
+    }
+    setJumpOpen(false);
+  }
+
   return (
     <div style={{ backgroundColor: "#faf7f3", minHeight: "100vh" }}>
       <Nav />
 
-      <div style={{ padding: "32px 24px 56px" }}>
+      <div style={{ padding: "32px 24px 100px" }}>
         <h1 style={{
           fontFamily: "'Playfair Display', Georgia, serif",
           fontSize: "32px",
@@ -533,122 +551,236 @@ function SeriesPage() {
             </div>
 
             {byYear[year].map((sermonSeries) => {
-          const color = getSeriesColor(sermonSeries.title);
-          return (
-            <div key={sermonSeries.title} style={{ marginBottom: "44px" }}>
-              <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBottom: "16px" }}>
-                <div style={{ width: "8px", height: "8px", borderRadius: "50%", backgroundColor: color.accent, flexShrink: 0 }} />
-                <p style={{
-                  fontFamily: "'Lato', sans-serif",
-                  fontWeight: 400,
-                  fontSize: "11px",
-                  letterSpacing: "0.12em",
-                  textTransform: "uppercase",
-                  color: color.accent,
-                }}>
-                  {sermonSeries.title}
-                </p>
-              </div>
-
-              {sermonSeries.weeks.map((week) => (
-                <div key={week.slug} style={{
-                  marginBottom: "4px",
-                  border: "1px solid #ece6de",
-                  borderRadius: "12px",
-                  overflow: "hidden",
-                }}>
-                  <div style={{
-                    padding: "16px 18px",
-                    backgroundColor: color.light,
-                    display: "flex",
-                    alignItems: "center",
-                    justifyContent: "space-between",
-                  }}>
-                    <span style={{
-                      fontFamily: "'Playfair Display', Georgia, serif",
-                      fontSize: "18px",
+              const color = getSeriesColor(sermonSeries.title);
+              return (
+                <div key={sermonSeries.title} id={slugify(sermonSeries.title)} style={{ marginBottom: "44px" }}>
+                  <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBottom: "16px" }}>
+                    <div style={{ width: "8px", height: "8px", borderRadius: "50%", backgroundColor: color.accent, flexShrink: 0 }} />
+                    <p style={{
+                      fontFamily: "'Lato', sans-serif",
                       fontWeight: 400,
-                      color: "#1e1a17",
+                      fontSize: "11px",
+                      letterSpacing: "0.12em",
+                      textTransform: "uppercase",
+                      color: color.accent,
                     }}>
-                      {week.title}
-                    </span>
-                    <div style={{ textAlign: "right" }}>
-                      <span style={{
-                        fontFamily: "'Lato', sans-serif",
-                        fontWeight: 300,
-                        fontSize: "11px",
-                        color: color.accent,
-                        letterSpacing: "0.06em",
-                        display: "block",
-                      }}>
-                        {week.days.length} days
-                      </span>
-                      {weekDateRange(week.days[0]?.publishDate ?? null) && (
-                        <span style={{
-                          fontFamily: "'Lato', sans-serif",
-                          fontWeight: 300,
-                          fontSize: "10px",
-                          color: "#b0a898",
-                          letterSpacing: "0.04em",
-                          display: "block",
-                          marginTop: "2px",
-                        }}>
-                          {weekDateRange(week.days[0]?.publishDate ?? null)}
-                        </span>
-                      )}
-                    </div>
+                      {sermonSeries.title}
+                    </p>
                   </div>
-                  {week.days.map((day, i) => (
-                    <Link key={day.day} to={`/read/${week.slug}/${day.day}`} style={{
-                      display: "flex",
-                      alignItems: "center",
-                      padding: "13px 18px",
-                      borderTop: "1px solid #ece6de",
-                      textDecoration: "none",
-                      gap: "14px",
-                      backgroundColor: "#faf7f3",
+
+                  {sermonSeries.weeks.map((week) => (
+                    <div key={week.slug} style={{
+                      marginBottom: "4px",
+                      border: "1px solid #ece6de",
+                      borderRadius: "12px",
+                      overflow: "hidden",
                     }}>
-                      <span style={{
-                        fontFamily: "'Playfair Display', serif",
-                        fontSize: "14px",
-                        color: color.accent,
-                        opacity: 0.4,
-                        width: "16px",
-                        textAlign: "right",
-                        flexShrink: 0,
+                      <div style={{
+                        padding: "16px 18px",
+                        backgroundColor: color.light,
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "space-between",
                       }}>
-                        {day.day}
-                      </span>
-                      <div style={{ flex: 1 }}>
-                        <p style={{
-                          fontFamily: "'Georgia', serif",
-                          fontSize: "15px",
+                        <span style={{
+                          fontFamily: "'Playfair Display', Georgia, serif",
+                          fontSize: "18px",
+                          fontWeight: 400,
                           color: "#1e1a17",
-                          lineHeight: "1.4",
-                          marginBottom: "1px",
                         }}>
-                          {day.title}
-                        </p>
-                        <p style={{
-                          fontFamily: "'Lato', sans-serif",
-                          fontWeight: 300,
-                          fontSize: "11px",
-                          color: "#b0a898",
-                        }}>
-                          {day.scripture.reference}
-                        </p>
+                          {week.title}
+                        </span>
+                        <div style={{ textAlign: "right" }}>
+                          <span style={{
+                            fontFamily: "'Lato', sans-serif",
+                            fontWeight: 300,
+                            fontSize: "11px",
+                            color: color.accent,
+                            letterSpacing: "0.06em",
+                            display: "block",
+                          }}>
+                            {week.days.length} days
+                          </span>
+                          {weekDateRange(week.days[0]?.publishDate ?? null) && (
+                            <span style={{
+                              fontFamily: "'Lato', sans-serif",
+                              fontWeight: 300,
+                              fontSize: "10px",
+                              color: "#b0a898",
+                              letterSpacing: "0.04em",
+                              display: "block",
+                              marginTop: "2px",
+                            }}>
+                              {weekDateRange(week.days[0]?.publishDate ?? null)}
+                            </span>
+                          )}
+                        </div>
                       </div>
-                      <ChevronRight color={color.accent} size={13} />
-                    </Link>
+                      {week.days.map((day) => (
+                        <Link key={day.day} to={`/read/${week.slug}/${day.day}`} style={{
+                          display: "flex",
+                          alignItems: "center",
+                          padding: "13px 18px",
+                          borderTop: "1px solid #ece6de",
+                          textDecoration: "none",
+                          gap: "14px",
+                          backgroundColor: "#faf7f3",
+                        }}>
+                          <span style={{
+                            fontFamily: "'Lato', sans-serif",
+                            fontSize: "9px",
+                            fontWeight: 700,
+                            letterSpacing: "0.08em",
+                            textTransform: "uppercase",
+                            color: color.accent,
+                            opacity: 0.45,
+                            width: "32px",
+                            flexShrink: 0,
+                          }}>
+                            Day {day.day}
+                          </span>
+                          <div style={{ flex: 1 }}>
+                            <p style={{
+                              fontFamily: "'Georgia', serif",
+                              fontSize: "15px",
+                              color: "#1e1a17",
+                              lineHeight: "1.4",
+                              marginBottom: "1px",
+                            }}>
+                              {day.title}
+                            </p>
+                            <p style={{
+                              fontFamily: "'Lato', sans-serif",
+                              fontWeight: 300,
+                              fontSize: "11px",
+                              color: "#b0a898",
+                            }}>
+                              {day.scripture.reference}
+                            </p>
+                          </div>
+                          <ChevronRight color={color.accent} size={13} />
+                        </Link>
+                      ))}
+                    </div>
                   ))}
                 </div>
-              ))}
-            </div>
-          );
-        })}
+              );
+            })}
           </div>
         ))}
       </div>
+
+      {/* Jump to series button */}
+      <button
+        onClick={() => setJumpOpen(true)}
+        style={{
+          position: "fixed",
+          bottom: "24px",
+          right: "20px",
+          display: "flex",
+          alignItems: "center",
+          gap: "6px",
+          backgroundColor: "#1e1a17",
+          color: "#fff",
+          border: "none",
+          borderRadius: "100px",
+          padding: "10px 16px",
+          cursor: "pointer",
+          boxShadow: "0 4px 16px rgba(0,0,0,0.25)",
+          zIndex: 50,
+        }}
+      >
+        <svg width="13" height="13" viewBox="0 0 13 13" fill="none">
+          <rect x="1" y="2" width="11" height="1.5" rx="0.75" fill="white" />
+          <rect x="1" y="5.75" width="11" height="1.5" rx="0.75" fill="white" />
+          <rect x="1" y="9.5" width="11" height="1.5" rx="0.75" fill="white" />
+        </svg>
+        <span style={{
+          fontFamily: "'Lato', sans-serif",
+          fontWeight: 700,
+          fontSize: "10px",
+          letterSpacing: "0.1em",
+          textTransform: "uppercase",
+        }}>
+          Jump to Series
+        </span>
+      </button>
+
+      {/* Backdrop */}
+      {jumpOpen && (
+        <div
+          onClick={() => setJumpOpen(false)}
+          style={{
+            position: "fixed",
+            top: 0, left: 0, right: 0, bottom: 0,
+            backgroundColor: "rgba(0,0,0,0.45)",
+            zIndex: 100,
+          }}
+        />
+      )}
+
+      {/* Bottom sheet */}
+      {jumpOpen && (
+        <div style={{
+          position: "fixed",
+          bottom: 0, left: 0, right: 0,
+          backgroundColor: "#fff",
+          borderRadius: "20px 20px 0 0",
+          paddingBottom: "32px",
+          zIndex: 101,
+          boxShadow: "0 -4px 32px rgba(0,0,0,0.15)",
+        }}>
+          {/* Drag handle */}
+          <div style={{ padding: "14px 0 4px", textAlign: "center" }}>
+            <div style={{ width: "36px", height: "4px", backgroundColor: "#e0d8ce", borderRadius: "2px", margin: "0 auto" }} />
+          </div>
+          <p style={{
+            fontFamily: "'Lato', sans-serif",
+            fontWeight: 700,
+            fontSize: "10px",
+            letterSpacing: "0.14em",
+            textTransform: "uppercase",
+            color: "#b0a898",
+            textAlign: "center",
+            padding: "10px 0 6px",
+          }}>
+            Sermon Series
+          </p>
+          {allSeries.map((s, i) => {
+            const color = getSeriesColor(s.title);
+            return (
+              <button
+                key={s.title}
+                onClick={() => scrollToSeries(s.title)}
+                style={{
+                  display: "flex",
+                  alignItems: "center",
+                  gap: "14px",
+                  width: "100%",
+                  padding: "14px 24px",
+                  border: "none",
+                  borderTop: i === 0 ? "1px solid #f0ece6" : "none",
+                  borderBottom: "1px solid #f0ece6",
+                  backgroundColor: "transparent",
+                  cursor: "pointer",
+                  textAlign: "left",
+                }}
+              >
+                <div style={{ width: "8px", height: "8px", borderRadius: "50%", backgroundColor: color.accent, flexShrink: 0 }} />
+                <span style={{
+                  fontFamily: "'Lato', sans-serif",
+                  fontWeight: 400,
+                  fontSize: "14px",
+                  letterSpacing: "0.04em",
+                  color: "#1e1a17",
+                }}>
+                  {s.title}
+                </span>
+              </button>
+            );
+          })}
+        </div>
+      )}
     </div>
   );
 }
