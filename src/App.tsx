@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Routes, Route, Link, useParams, useNavigate } from "react-router-dom";
-import { allSeries, currentSeries, getSeriesColor } from "./data";
+import { allSeries, getCurrentSeries, getSeriesColor } from "./data";
 import logoBlack from "./assets/logo-black.png";
 
 function slugify(s: string) {
@@ -92,7 +92,7 @@ function Nav({ accent = "#2D4A3E" }: { accent?: string }) {
 
 // ─── Landing Page ─────────────────────────────────────────────────────────────
 function LandingPage() {
-  const series = currentSeries;
+  const series = getCurrentSeries();
   const color = getSeriesColor(series.sermonSeries);
 
   return (

@@ -133,24 +133,6 @@ function buildData() {
 // ─── Generate data.ts ─────────────────────────────────────────────────────────
 const allSeries = buildData();
 
-// Current series = most recent week whose day-1 publishDate is on or before today
-const today = new Date().toISOString().slice(0, 10);
-const allWeeks = allSeries.flatMap(s => s.weeks);
-const publishedWeeks = allWeeks.filter(w => (w.days[0]?.publishDate ?? '') <= today);
-// Sort globally across all series to find the single most recently published week
-publishedWeeks.sort((a, b) => (b.days[0]?.publishDate ?? '').localeCompare(a.days[0]?.publishDate ?? ''));
-const currentSeriesWeek = publishedWeeks.length > 0 ? publishedWeeks[0] : allWeeks[0];
-// Find it in allSeries to build a safe reference
-let currentSeriesRef = `allSeries[0].weeks[0]`;
-outer: for (let si = 0; si < allSeries.length; si++) {
-  for (let wi = 0; wi < allSeries[si].weeks.length; wi++) {
-    if (allSeries[si].weeks[wi].slug === currentSeriesWeek.slug) {
-      currentSeriesRef = `allSeries[${si}].weeks[${wi}]`;
-      break outer;
-    }
-  }
-}
-
 const seriesColorsSource = `
 export const seriesColors: Record<string, { accent: string; light: string; text: string }> = {
   "Leaving the 99": { accent: "#2D4A3E", light: "#EBF0EE", text: "#1e3329" },
@@ -197,8 +179,13 @@ export type SermonSeries = {
 ${seriesColorsSource}
 export const allSeries: SermonSeries[] = ${JSON.stringify(allSeries, null, 2)};
 
-// Most recently added weekly series
-export const currentSeries = ${currentSeriesRef};
+export function getCurrentSeries(): WeeklySeries {
+  const today = new Date().toISOString().slice(0, 10);
+  const allWeeks = allSeries.flatMap(s => s.weeks);
+  const published = allWeeks.filter(w => (w.days[0]?.publishDate ?? '') <= today);
+  published.sort((a, b) => (b.days[0]?.publishDate ?? '').localeCompare(a.days[0]?.publishDate ?? ''));
+  return published.length > 0 ? published[0] : allWeeks[0];
+}
 `;
 
 fs.writeFileSync(outputFile, output);
