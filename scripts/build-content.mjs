@@ -143,7 +143,7 @@ export const seriesColors: Record<string, { accent: string; light: string; text:
   "Foundations": { accent: "#998178", light: "#F2EEEC", text: "#4a3d38" },
   "Seek First": { accent: "#181818", light: "#EBEBEB", text: "#181818" },
   "Multiply": { accent: "#C8A96E", light: "#FAF5EC", text: "#6b5530" },
-  "Lost Sheep": { accent: "#BA00EE", light: "#F7E0FD", text: "#5D0077" },
+  "Lost Sheep": { accent: "#4F00EE", light: "#F7E0FD", text: "#FFF" },
 };
 
 export function getSeriesColor(name: string) {

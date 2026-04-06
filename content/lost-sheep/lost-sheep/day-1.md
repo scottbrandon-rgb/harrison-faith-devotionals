@@ -1,6 +1,6 @@
 ---
-series: counted
-series_title: Counted
+series: Lost Sheep
+series_title: Lost Sheep
 sermon_series: Lost Sheep
 day: 1
 publish_date: 2026-04-06
