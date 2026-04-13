@@ -144,6 +144,7 @@ export const seriesColors: Record<string, { accent: string; light: string; text:
   "Seek First": { accent: "#181818", light: "#EBEBEB", text: "#181818" },
   "Multiply": { accent: "#C8A96E", light: "#FAF5EC", text: "#6b5530" },
   "Lost Sheep": { accent: "#4F00EE", light: "#F7E0FD", text: "#121212" },
+  "Trust & Obey": { accent: "#937B5A", light: "#EFEBE6", text: "#584936" },
 };
 
 export function getSeriesColor(name: string) {
