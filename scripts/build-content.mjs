@@ -130,21 +130,38 @@ function buildData() {
   return result;
 }
 
+// ─── Series config (order controls archive sort; increment for each new series) ─
+const SERIES_CONFIG = {
+  "The Way of Blessing":   { order: 1, accent: "#D28D52", light: "#FAF0E6", text: "#7a4e1e" },
+  "Influence":             { order: 2, accent: "#302752", light: "#ECEAF4", text: "#1a1430" },
+  "The Way of Perfection": { order: 3, accent: "#FB8C0C", light: "#FEF3E2", text: "#7a4200" },
+  "Foundations":           { order: 4, accent: "#998178", light: "#F2EEEC", text: "#4a3d38" },
+  "Seek First":            { order: 5, accent: "#181818", light: "#EBEBEB", text: "#181818" },
+  "Multiply":              { order: 6, accent: "#C8A96E", light: "#FAF5EC", text: "#6b5530" },
+  "Leaving the 99":        { order: 7, accent: "#2D4A3E", light: "#EBF0EE", text: "#1e3329" },
+  "Lost Sheep":            { order: 8, accent: "#4F00EE", light: "#F7E0FD", text: "#121212" },
+  "Trust & Obey":          { order: 9, accent: "#937B5A", light: "#EFEBE6", text: "#584936" },
+  "The Shepherd's Heart":  { order: 10, accent: "#6B3D2E", light: "#F2EAE6", text: "#4a2a1e" },
+};
+
 // ─── Generate data.ts ─────────────────────────────────────────────────────────
 const allSeries = buildData();
 
+// Sort sermon series by order descending (newest series first in archive)
+allSeries.sort((a, b) => {
+  const orderA = SERIES_CONFIG[a.title]?.order ?? 0;
+  const orderB = SERIES_CONFIG[b.title]?.order ?? 0;
+  return orderB - orderA;
+});
+
+// Build seriesColors TypeScript source from SERIES_CONFIG
+const colorsEntries = Object.entries(SERIES_CONFIG)
+  .map(([name, cfg]) => `  "${name}": { accent: "${cfg.accent}", light: "${cfg.light}", text: "${cfg.text}" },`)
+  .join('\n');
+
 const seriesColorsSource = `
 export const seriesColors: Record<string, { accent: string; light: string; text: string }> = {
-  "Leaving the 99": { accent: "#2D4A3E", light: "#EBF0EE", text: "#1e3329" },
-  "The Shepherd's Heart": { accent: "#6B3D2E", light: "#F2EAE6", text: "#4a2a1e" },
-  "The Way of Blessing": { accent: "#D28D52", light: "#FAF0E6", text: "#7a4e1e" },
-  "Influence": { accent: "#302752", light: "#ECEAF4", text: "#1a1430" },
-  "The Way of Perfection": { accent: "#FB8C0C", light: "#FEF3E2", text: "#7a4200" },
-  "Foundations": { accent: "#998178", light: "#F2EEEC", text: "#4a3d38" },
-  "Seek First": { accent: "#181818", light: "#EBEBEB", text: "#181818" },
-  "Multiply": { accent: "#C8A96E", light: "#FAF5EC", text: "#6b5530" },
-  "Lost Sheep": { accent: "#4F00EE", light: "#F7E0FD", text: "#121212" },
-  "Trust & Obey": { accent: "#937B5A", light: "#EFEBE6", text: "#584936" },
+${colorsEntries}
 };
 
 export function getSeriesColor(name: string) {

@@ -42,6 +42,15 @@ function ChevronLeft({ color = "currentColor", size = 14 }: { color?: string; si
   );
 }
 
+function LockIcon({ size = 13 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 13 13" fill="none">
+      <rect x="2.5" y="5.5" width="8" height="6" rx="1.5" stroke="#c0b8b0" strokeWidth="1.3" />
+      <path d="M4.5 5.5V3.5a2 2 0 0 1 4 0v2" stroke="#c0b8b0" strokeWidth="1.3" strokeLinecap="round" />
+    </svg>
+  );
+}
+
 // ─── Layout / Nav ─────────────────────────────────────────────────────────────
 function Nav({ accent = "#2D4A3E" }: { accent?: string }) {
   return (
@@ -94,6 +103,7 @@ function Nav({ accent = "#2D4A3E" }: { accent?: string }) {
 function LandingPage() {
   const series = getCurrentSeries();
   const color = getSeriesColor(series.sermonSeries);
+  const today = new Date().toISOString().slice(0, 10);
 
   return (
     <div style={{ backgroundColor: "#faf7f3", minHeight: "100vh" }}>
@@ -159,57 +169,64 @@ function LandingPage() {
         boxShadow: "0 4px 24px rgba(0,0,0,0.10)",
         overflow: "hidden",
       }}>
-        {series.days.map((day, i) => (
-          <Link
-            key={day.day}
-            to={`/read/${series.slug}/${day.day}`}
-            style={{
-              display: "flex",
-              alignItems: "center",
-              padding: "18px 20px",
-              borderBottom: i < series.days.length - 1 ? "1px solid #f0ece6" : "none",
-              textDecoration: "none",
-              gap: "16px",
-            }}
-          >
-            <span style={{
-              fontFamily: "'Lato', sans-serif",
-              fontSize: "10px",
-              fontWeight: 700,
-              letterSpacing: "0.1em",
-              textTransform: "uppercase",
-              color: color.accent,
-              opacity: 0.45,
-              width: "36px",
-              flexShrink: 0,
-              textAlign: "center",
-            }}>
-              Day {day.day}
-            </span>
-            <div style={{ flex: 1 }}>
-              <p style={{
-                fontFamily: "'Playfair Display', Georgia, serif",
-                fontSize: "17px",
-                fontWeight: 400,
-                color: "#1e1a17",
-                marginBottom: "3px",
-                lineHeight: "1.3",
-              }}>
-                {day.title}
-              </p>
-              <p style={{
+        {series.days.map((day, i) => {
+          const locked = (day.publishDate ?? '') > today;
+          const rowStyle: React.CSSProperties = {
+            display: "flex",
+            alignItems: "center",
+            padding: "18px 20px",
+            borderBottom: i < series.days.length - 1 ? "1px solid #f0ece6" : "none",
+            textDecoration: "none",
+            gap: "16px",
+            opacity: locked ? 0.45 : 1,
+            cursor: locked ? "default" : "pointer",
+          };
+          const inner = (
+            <>
+              <span style={{
                 fontFamily: "'Lato', sans-serif",
-                fontWeight: 300,
-                fontSize: "12px",
-                color: "#b0a898",
-                letterSpacing: "0.03em",
+                fontSize: "10px",
+                fontWeight: 700,
+                letterSpacing: "0.1em",
+                textTransform: "uppercase",
+                color: locked ? "#b0a898" : color.accent,
+                opacity: locked ? 1 : 0.45,
+                width: "36px",
+                flexShrink: 0,
+                textAlign: "center",
               }}>
-                {day.scripture.reference}
-              </p>
-            </div>
-            <ChevronRight color={color.accent} size={14} />
-          </Link>
-        ))}
+                Day {day.day}
+              </span>
+              <div style={{ flex: 1 }}>
+                <p style={{
+                  fontFamily: "'Playfair Display', Georgia, serif",
+                  fontSize: "17px",
+                  fontWeight: 400,
+                  color: locked ? "#b0a898" : "#1e1a17",
+                  marginBottom: "3px",
+                  lineHeight: "1.3",
+                }}>
+                  {day.title}
+                </p>
+                <p style={{
+                  fontFamily: "'Lato', sans-serif",
+                  fontWeight: 300,
+                  fontSize: "12px",
+                  color: "#b0a898",
+                  letterSpacing: "0.03em",
+                }}>
+                  {day.scripture.reference}
+                </p>
+              </div>
+              {locked ? <LockIcon /> : <ChevronRight color={color.accent} size={14} />}
+            </>
+          );
+          return locked ? (
+            <div key={day.day} style={rowStyle}>{inner}</div>
+          ) : (
+            <Link key={day.day} to={`/read/${series.slug}/${day.day}`} style={rowStyle}>{inner}</Link>
+          );
+        })}
       </div>
     </div>
   );
@@ -502,6 +519,7 @@ function SeriesPage() {
     byYear[year].push(sermonSeries);
   }
   const years = Object.keys(byYear).sort((a, b) => b.localeCompare(a));
+  // Within each year, series are already in order from the pre-sorted allSeries array
 
   function scrollToSeries(name: string) {
     const el = document.getElementById(slugify(name));
