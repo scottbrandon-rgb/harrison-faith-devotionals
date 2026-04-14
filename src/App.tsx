@@ -51,6 +51,57 @@ function LockIcon({ size = 13 }: { size?: number }) {
   );
 }
 
+// ─── Share Button ─────────────────────────────────────────────────────────────
+function ShareButton({ title, text, url }: { title: string; text: string; url: string }) {
+  const [copied, setCopied] = useState(false);
+
+  async function handleShare() {
+    if (navigator.share) {
+      try { await navigator.share({ title, text, url }); } catch { /* cancelled */ }
+    } else {
+      await navigator.clipboard.writeText(url);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2200);
+    }
+  }
+
+  return (
+    <button
+      onClick={handleShare}
+      title={copied ? "Link copied!" : "Share this devotional"}
+      style={{
+        position: "absolute",
+        top: "16px",
+        right: "16px",
+        background: "rgba(255,255,255,0.15)",
+        border: "1px solid rgba(255,255,255,0.25)",
+        borderRadius: "50%",
+        width: "36px",
+        height: "36px",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        cursor: "pointer",
+        transition: "background 0.15s",
+      }}
+    >
+      {copied ? (
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
+          <path d="M2.5 7.5L6 11L12.5 4" stroke="white" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+        </svg>
+      ) : (
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
+          <circle cx="11.5" cy="3" r="1.8" stroke="white" strokeWidth="1.3" />
+          <circle cx="11.5" cy="12" r="1.8" stroke="white" strokeWidth="1.3" />
+          <circle cx="3.5" cy="7.5" r="1.8" stroke="white" strokeWidth="1.3" />
+          <line x1="9.76" y1="3.9" x2="5.24" y2="6.6" stroke="white" strokeWidth="1.3" strokeLinecap="round" />
+          <line x1="9.76" y1="11.1" x2="5.24" y2="8.4" stroke="white" strokeWidth="1.3" strokeLinecap="round" />
+        </svg>
+      )}
+    </button>
+  );
+}
+
 // ─── Layout / Nav ─────────────────────────────────────────────────────────────
 function Nav({ accent = "#2D4A3E" }: { accent?: string }) {
   return (
@@ -298,7 +349,13 @@ function ReadingPage() {
         backgroundColor: color.accent,
         padding: "32px 24px 76px",
         textAlign: "center",
+        position: "relative",
       }}>
+        <ShareButton
+          title={`${day.title} — ${series.title}`}
+          text={`${day.scripture.reference} — "${day.scripture.text.length > 120 ? day.scripture.text.slice(0, 117) + '…' : day.scripture.text}"`}
+          url={window.location.href}
+        />
         <p style={{
           fontFamily: "'Lato', sans-serif",
           fontWeight: 300,
