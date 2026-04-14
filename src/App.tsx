@@ -244,9 +244,50 @@ function ReadingPage() {
     return <div style={{ padding: 40 }}>Not found.</div>;
   }
 
+  const today = new Date().toISOString().slice(0, 10);
   const color = getSeriesColor(series.sermonSeries);
   const prevDay = series.days.find(d => d.day === day.day - 1);
   const nextDay = series.days.find(d => d.day === day.day + 1);
+  const nextDayLocked = nextDay && (nextDay.publishDate ?? '') > today;
+
+  if ((day.publishDate ?? '') > today) {
+    return (
+      <div style={{ backgroundColor: "#faf7f3", minHeight: "100vh" }}>
+        <Nav accent={color.accent} />
+        <div style={{ padding: "80px 24px", textAlign: "center" }}>
+          <LockIcon size={28} />
+          <p style={{
+            fontFamily: "'Playfair Display', Georgia, serif",
+            fontSize: "22px",
+            color: "#1e1a17",
+            marginTop: "20px",
+            marginBottom: "10px",
+          }}>
+            Not yet available
+          </p>
+          <p style={{
+            fontFamily: "'Lato', sans-serif",
+            fontWeight: 300,
+            fontSize: "13px",
+            color: "#b0a898",
+            marginBottom: "32px",
+          }}>
+            This devotional unlocks on {formatDate(day.publishDate)}.
+          </p>
+          <Link to="/" style={{
+            fontFamily: "'Lato', sans-serif",
+            fontSize: "12px",
+            letterSpacing: "0.08em",
+            textTransform: "uppercase",
+            color: color.accent,
+            textDecoration: "none",
+          }}>
+            ← Back to today
+          </Link>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div style={{ backgroundColor: "#faf7f3", minHeight: "100vh" }}>
@@ -487,7 +528,7 @@ function ReadingPage() {
             Back to Series
           </Link>
         )}
-        {nextDay && (
+        {nextDay && !nextDayLocked && (
           <Link to={`/read/${series.slug}/${nextDay.day}`} style={{
             display: "flex",
             alignItems: "center",
@@ -634,8 +675,10 @@ function SeriesPage() {
                           )}
                         </div>
                       </div>
-                      {week.days.map((day) => (
-                        <Link key={day.day} to={`/read/${week.slug}/${day.day}`} style={{
+                      {week.days.map((day) => {
+                        const archiveToday = new Date().toISOString().slice(0, 10);
+                        const locked = (day.publishDate ?? '') > archiveToday;
+                        const archiveRowStyle: React.CSSProperties = {
                           display: "flex",
                           alignItems: "center",
                           padding: "13px 18px",
@@ -643,42 +686,52 @@ function SeriesPage() {
                           textDecoration: "none",
                           gap: "14px",
                           backgroundColor: "#faf7f3",
-                        }}>
-                          <span style={{
-                            fontFamily: "'Lato', sans-serif",
-                            fontSize: "9px",
-                            fontWeight: 700,
-                            letterSpacing: "0.08em",
-                            textTransform: "uppercase",
-                            color: color.accent,
-                            opacity: 0.45,
-                            width: "32px",
-                            flexShrink: 0,
-                          }}>
-                            Day {day.day}
-                          </span>
-                          <div style={{ flex: 1 }}>
-                            <p style={{
-                              fontFamily: "'Georgia', serif",
-                              fontSize: "15px",
-                              color: "#1e1a17",
-                              lineHeight: "1.4",
-                              marginBottom: "1px",
-                            }}>
-                              {day.title}
-                            </p>
-                            <p style={{
+                          opacity: locked ? 0.45 : 1,
+                          cursor: locked ? "default" : "pointer",
+                        };
+                        const archiveInner = (
+                          <>
+                            <span style={{
                               fontFamily: "'Lato', sans-serif",
-                              fontWeight: 300,
-                              fontSize: "11px",
-                              color: "#b0a898",
+                              fontSize: "9px",
+                              fontWeight: 700,
+                              letterSpacing: "0.08em",
+                              textTransform: "uppercase",
+                              color: locked ? "#b0a898" : color.accent,
+                              opacity: locked ? 1 : 0.45,
+                              width: "32px",
+                              flexShrink: 0,
                             }}>
-                              {day.scripture.reference}
-                            </p>
-                          </div>
-                          <ChevronRight color={color.accent} size={13} />
-                        </Link>
-                      ))}
+                              Day {day.day}
+                            </span>
+                            <div style={{ flex: 1 }}>
+                              <p style={{
+                                fontFamily: "'Georgia', serif",
+                                fontSize: "15px",
+                                color: locked ? "#b0a898" : "#1e1a17",
+                                lineHeight: "1.4",
+                                marginBottom: "1px",
+                              }}>
+                                {day.title}
+                              </p>
+                              <p style={{
+                                fontFamily: "'Lato', sans-serif",
+                                fontWeight: 300,
+                                fontSize: "11px",
+                                color: "#b0a898",
+                              }}>
+                                {day.scripture.reference}
+                              </p>
+                            </div>
+                            {locked ? <LockIcon size={12} /> : <ChevronRight color={color.accent} size={13} />}
+                          </>
+                        );
+                        return locked ? (
+                          <div key={day.day} style={archiveRowStyle}>{archiveInner}</div>
+                        ) : (
+                          <Link key={day.day} to={`/read/${week.slug}/${day.day}`} style={archiveRowStyle}>{archiveInner}</Link>
+                        );
+                      })}
                     </div>
                   ))}
                 </div>
