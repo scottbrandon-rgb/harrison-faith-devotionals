@@ -1,3 +1,16 @@
 [build]
   command = "node scripts/build-content.mjs && pnpm vite build"
   publish = "dist"
+
+[[edge_functions]]
+  function = "og-image"
+  path = "/og-image/*"
+
+[[edge_functions]]
+  function = "social-meta"
+  path = "/read/*"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
