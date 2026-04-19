@@ -523,6 +523,66 @@ function ReadingPage() {
         </p>
       </div>
 
+      {/* Memory Verse */}
+      {day.memoryVerse && (
+        <div style={{
+          margin: "0 24px 28px",
+          backgroundColor: color.accent,
+          borderRadius: "6px",
+          padding: "22px 22px 20px",
+          position: "relative",
+          overflow: "hidden",
+        }}>
+          {/* Decorative large quote */}
+          <span style={{
+            position: "absolute",
+            top: "-8px",
+            left: "16px",
+            fontFamily: "'Playfair Display', Georgia, serif",
+            fontSize: "80px",
+            fontWeight: 700,
+            color: "rgba(255,255,255,0.10)",
+            lineHeight: 1,
+            userSelect: "none",
+            pointerEvents: "none",
+          }}>"</span>
+
+          <p style={{
+            fontFamily: "'Lato', sans-serif",
+            fontWeight: 400,
+            fontSize: "10px",
+            letterSpacing: "0.16em",
+            textTransform: "uppercase",
+            color: "rgba(255,255,255,0.6)",
+            marginBottom: "12px",
+          }}>
+            This Week's Memory Verse
+          </p>
+
+          <p style={{
+            fontFamily: "utopia-std, ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif",
+            fontSize: "1.1rem",
+            fontStyle: "italic",
+            lineHeight: "1.75",
+            color: "#ffffff",
+            marginBottom: "14px",
+          }}>
+            "{day.memoryVerse.text}"
+          </p>
+
+          <p style={{
+            fontFamily: "'Lato', sans-serif",
+            fontWeight: 400,
+            fontSize: "11px",
+            letterSpacing: "0.08em",
+            color: "rgba(255,255,255,0.65)",
+            textAlign: "right",
+          }}>
+            — {day.memoryVerse.reference}
+          </p>
+        </div>
+      )}
+
       {/* Prayer */}
       <div style={{ padding: "0 24px 32px" }}>
         <p style={{

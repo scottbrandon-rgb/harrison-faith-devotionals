@@ -88,6 +88,20 @@ def parse_file(filepath):
     if not day_start:
         sys.exit("ERROR: Could not find 'DAY 1' in the file.")
 
+    # Parse optional week-level Memory Verse from the header section (before DAY 1)
+    header_section = raw[:day_start.start()]
+    memory_verse_text = ''
+    memory_verse_reference = ''
+    mv_match = re.search(
+        r'^Memory Verse:\s*\n(.+?)\n(.+)',
+        header_section, re.MULTILINE
+    )
+    if mv_match:
+        # Line 1: reference (e.g. "Philippians 4:7 ESV")
+        # Line 2: verse text (may be wrapped in quotes)
+        memory_verse_reference = mv_match.group(1).strip()
+        memory_verse_text = mv_match.group(2).strip().strip('"')
+
     days_section = raw[day_start.start():]
     day_blocks = [b.strip() for b in DAY_SEPARATOR.split(days_section) if b.strip()]
 
@@ -100,7 +114,7 @@ def parse_file(filepath):
     if not days:
         sys.exit("ERROR: No day blocks found.")
 
-    return sermon_series, series_title, days
+    return sermon_series, series_title, days, memory_verse_reference, memory_verse_text
 
 
 def parse_day_block(block):
@@ -167,7 +181,8 @@ def parse_day_block(block):
 
 # ── Markdown builder ───────────────────────────────────────────────────────────
 
-def build_markdown(day_data, sermon_series, series_title, week_slug, publish_date):
+def build_markdown(day_data, sermon_series, series_title, week_slug, publish_date,
+                   memory_verse_reference='', memory_verse_text=''):
     # Devotional as separate paragraphs
     devo_paras = [p.strip() for p in re.split(r'\n{2,}', day_data['devotional_thought']) if p.strip()]
     devo_md = '\n\n'.join(devo_paras)
@@ -179,6 +194,14 @@ def build_markdown(day_data, sermon_series, series_title, week_slug, publish_dat
     fm_stitle     = yaml_safe(series_title)
     fm_scripture  = scripture_yaml_safe(day_data['scripture_text'])
 
+    mv_lines = ''
+    if memory_verse_reference and memory_verse_text:
+        fm_mv_text = scripture_yaml_safe(memory_verse_text)
+        mv_lines = (
+            f'memory_verse_reference: {memory_verse_reference}\n'
+            f'memory_verse_text: {fm_mv_text}\n'
+        )
+
     return f"""---
 series: {week_slug}
 series_title: {fm_stitle}
@@ -189,7 +212,7 @@ title: {fm_title}
 scripture_reference: {day_data['scripture_reference']}
 scripture_translation: {day_data['scripture_translation']}
 scripture_text: {fm_scripture}
----
+{mv_lines}---
 ## Devotional
 {devo_md}
 
@@ -241,7 +264,7 @@ def main():
         start = next_monday()
 
     # Parse the txt file
-    sermon_series, series_title, days = parse_file(filepath)
+    sermon_series, series_title, days, memory_verse_reference, memory_verse_text = parse_file(filepath)
     week_slug     = slugify(series_title)
     series_folder = find_series_folder(sermon_series)
     week_dir      = os.path.join(CONTENT_DIR, series_folder, week_slug)
@@ -250,6 +273,8 @@ def main():
     print(f"  Week title    : {series_title}  →  {week_slug}/")
     print(f"  Days found    : {len(days)}")
     print(f"  Start date    : {start.strftime('%A, %B %d %Y')} (Day 1)")
+    if memory_verse_reference:
+        print(f"  Memory verse  : {memory_verse_reference}")
     if args.dry_run:
         print("\n  [DRY RUN — no files will be written]\n")
     print()
@@ -269,7 +294,8 @@ def main():
     # Write (or preview) each day
     for day_data in days:
         publish_date = (start + timedelta(days=day_data['day'] - 1)).strftime('%Y-%m-%d')
-        md = build_markdown(day_data, sermon_series, series_title, week_slug, publish_date)
+        md = build_markdown(day_data, sermon_series, series_title, week_slug, publish_date,
+                           memory_verse_reference, memory_verse_text)
         out_path = os.path.join(week_dir, f"day-{day_data['day']}.md")
 
         if args.dry_run:

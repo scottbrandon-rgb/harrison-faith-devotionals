@@ -54,6 +54,9 @@ function parseDay(filePath) {
     .filter(l => /^\d+\./.test(l.trim()))
     .map(l => l.replace(/^\d+\.\s*/, '').trim());
 
+  const memoryVerseText = fm.memory_verse_text ? String(fm.memory_verse_text).trim() : null;
+  const memoryVerseRef  = fm.memory_verse_reference ? String(fm.memory_verse_reference).trim() : null;
+
   return {
     day: fm.day,
     publishDate: fm.publish_date ? (fm.publish_date instanceof Date ? fm.publish_date.toISOString().slice(0, 10) : String(fm.publish_date)) : null,
@@ -67,6 +70,9 @@ function parseDay(filePath) {
     questions,
     challenge: getText('challenge'),
     prayer: getText('prayer'),
+    memoryVerse: (memoryVerseText && memoryVerseRef)
+      ? { text: memoryVerseText, reference: memoryVerseRef }
+      : null,
     // Keep metadata for grouping
     _series: fm.series,
     _series_title: fm.series_title,
@@ -181,6 +187,7 @@ export type Day = {
   questions: string[];
   challenge: string;
   prayer: string;
+  memoryVerse: { text: string; reference: string } | null;
 };
 
 export type WeeklySeries = {
