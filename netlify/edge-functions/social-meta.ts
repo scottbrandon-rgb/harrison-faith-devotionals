@@ -4,7 +4,7 @@
 // Regular users get the same HTML — React loads and takes over normally.
 
 import type { Config, Context } from "https://edge.netlify.com/";
-import { ogData } from "./og-data.ts";
+import { ogData } from "../shared/og-data.ts";
 
 function escAttr(s: string): string {
   return s

@@ -3,7 +3,7 @@
 
 import { Resvg, initWasm } from "https://esm.sh/@resvg/resvg-wasm@2.6.2";
 import type { Config } from "https://edge.netlify.com/";
-import { ogData } from "./og-data.ts";
+import { ogData } from "../shared/og-data.ts";
 
 // ─── Font URLs ─────────────────────────────────────────────────────────────────
 const PLAYFAIR_BOLD_URL =
