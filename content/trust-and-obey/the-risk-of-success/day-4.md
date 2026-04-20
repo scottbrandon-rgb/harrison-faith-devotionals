@@ -1,36 +1,46 @@
 ---
 series: the-risk-of-success
-series_title: The Risk of Success
+series_title: Risk Of Success
 sermon_series: Trust & Obey
 day: 4
 publish_date: 2026-04-23
-title: Go Back
-scripture_reference: Joshua 8:1
+title: Jericho
+scripture_reference: Joshua 6:2
 scripture_translation: ESV
-scripture_text: "And the Lord said to Joshua, 'Do not fear and do not be dismayed. Take all the fighting men with you, and arise, go up to Ai. See, I have given into your hand the king of Ai, and his people, his city, and his land.'"
+scripture_text: "And the LORD said to Joshua, 'See, I have given Jericho into your hand, with its king and mighty men of valor.'"
 memory_verse_reference: Joshua 1:8 ESV
 memory_verse_text: "This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it. For then you will make your way prosperous, and then you will have good success."
 ---
 
 ## Devotional
 
-Joshua 7 is the chapter most of us avoid. After the miraculous walls of Jericho, after the worship liturgy that became a battle victory, Joshua sends scouts to a little town named Ai. The report comes back easy. Don't even send the whole army. A few thousand men will do. Joshua agrees. Three thousand go up. Three thousand get routed. 36 men die. And the next scene in Scripture is Joshua face down in the dirt before the ark of the covenant, tearing his clothes, crying out to God asking what happened.
+Jericho was a problem no general in his right mind would have volunteered for. The walls were not just tall. They were wide enough to build houses on top of them. Archaeological excavations confirm that Jericho was one of the most fortified cities in the ancient Near East. You did not storm Jericho. You laid siege to it, and you waited it out for years, and you hoped your supply lines held longer than theirs. No army just walked up and took it.
 
-Here's what I need you to know. The God of Joshua 8:1 is the same God as the God of Joshua 6. And what He says after the defeat is stunning. "Do not fear and do not be dismayed. Take all the fighting men with you, and arise, go up to Ai. See, I have given into your hand the king of Ai." Go back. To the place of your most public defeat. The town that beat you. The hill you bled on. Go up that hill and obey again, because the promise I made you did not die when the men did.
+Which makes God's instructions to Joshua all the more staggering. Walk around the city once a day for six days. On the seventh day, walk around seven times. Have the priests blow the rams' horns. Then shout. And the walls will fall down flat.
 
-Hear me. Obedience after failure is never just "try again." It is "repent and try again." Joshua had to deal with the sin of Achan before God would send Israel back to Ai. There was buried plunder under a tent, and until that sin was surfaced and dealt with, no second attempt was going to succeed. The New Testament puts it this way in 1 John 1:9, "If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness." Repentance is not a step backward, it is the step that clears the path forward.
+No siege equipment. No battering rams. No military strategy any commander in history would have recognized. Just walking and trusting and a shout on the seventh day. From the outside, it looked like something you would write a story about to make the Israelites look foolish.
 
-And then Joshua goes back up that hill. With the weight of the defeat still on his shoulders. With some of the men probably quietly wondering if their commander can be trusted this time. And God hands Ai over to him. Church, the defeat is not your final identity. The ministry that collapsed, the marriage that ended, the addiction that owned you, the friendship you torched, the step you did not take last time... none of that gets the last word unless you decide to live under it. God is not finished writing the chapter after the defeat. Go back. Repent where you need to repent. Obey again. The God who made the promise did not retract it when you failed. Tomorrow we find out what makes that second climb possible, because the presence of God is not the reward at the top of the hill. It is the ground beneath every step up.
+And that was exactly the point. God was not being careless with Joshua. He was being very intentional. He was asking Joshua to obey Him at the risk of looking like a complete failure. Because from every observable position, what God told them to do had no business working.
+
+That is your Jericho. The thing God has told you to do that, by every human measurement, looks like it is going to fall apart before it gets started. The conversation you know you need to have but every voice of reason in you says it will not go well. The step of faith in your family, your business, your ministry, that makes no sense on paper. The obedience that costs you something publicly before you see anything in return.
+
+Here is what I need you to know. God told Joshua "I have given Jericho into your hand" before a single step was taken. Past tense. Done. It was already finished in the declaration of God. The issue was never whether Jericho would fall. The issue was whether Joshua would obey.
+
+That is the same word God is speaking over your Jericho right now. The outcome is not in question from His end. It is only in question from yours. And that gap between what He has declared and what you can see right now is exactly where trust and obedience live. You do not need to be able to see it. You need to know who said it.
+
+Trusting God with success means obeying Him at the risk of failure. Let that settle in you today. The risk is real. The obedience is required. And the God who declared the victory before the march began is standing right there with you while you take the first step around the wall.
+
+Tomorrow we are going to talk about what you do when you are not standing at Jericho but at Ai, and the failure is already behind you.
 
 ## Application
 
-1. What is the Ai in your past that you have been treating as your final identity instead of a chapter God is still writing?
-2. Where have you been stuck on "try again" when God has actually been asking for "repent and try again"?
+1. What is the Jericho in your life right now? What has God told you to do that looks illogical or costly from where you are standing?
+2. What would it take for you to take the first step around that wall this week, even without being able to see how it ends?
 
 ## Challenge
 
-Today, write down the specific defeat you have been carrying. Underneath it, write the confession it requires. Not a general confession, a specific one. Take it to God. Then take the first step back up that hill before the week is out.
+Identify your Jericho today. Write it down. Then write down the specific instruction or prompting from God that you have been hesitating on. Not the whole plan, just the first step. Ask Him honestly: Lord, is this You commanding me? If the answer is yes, take that step this week regardless of how it looks from the outside.
 
 ## Prayer
 
-Lord, I have been living under a defeat You never intended to be my identity. I have avoided the hill where I fell. I have confused repentance with running. Thank You that confession is not humiliation, it is the ground that makes the second step possible. Surface anything in me that is buried under my tent, and give me the faith to go back up the hill with You beside me this time. In Jesus' name, amen.
+Father, I will be honest with You. I have been standing outside my Jericho for a long time. I have been studying the walls instead of taking the first step. Today I am asking You to give me the courage to obey even when it looks like failure from where I am standing. You declared the victory before I took a single step. Help me believe that today. I trust You with the outcome. I will obey You with the step. In Jesus' name, amen.

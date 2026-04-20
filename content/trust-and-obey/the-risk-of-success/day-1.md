@@ -1,13 +1,14 @@
 ---
-series: trust-and-obey
-series_title: Trust & Obey
+series: the-risk-of-success
+series_title: Risk Of Success
 sermon_series: Trust & Obey
 day: 1
+publish_date: 2026-04-20
 title: The Long Rope
 scripture_reference: Joshua 1:2
 scripture_translation: ESV
 scripture_text: "Moses my servant is dead. Now therefore arise, go over this Jordan, you and all this people, into the land that I am giving to them, to the people of Israel."
-memory_verse_reference: Joshua 1:8
+memory_verse_reference: Joshua 1:8 ESV
 memory_verse_text: "This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it. For then you will make your way prosperous, and then you will have good success."
 ---
 

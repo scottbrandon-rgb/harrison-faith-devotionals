@@ -12,45 +12,45 @@ export type OgEntry = {
 
 export const ogData: Record<string, OgEntry> = {
   "the-risk-of-success/1": {
-    "weekTitle": "The Risk of Success",
+    "weekTitle": "Risk Of Success",
     "sermonSeries": "Trust & Obey",
-    "dayTitle": "The Weight Is the Assignment",
+    "dayTitle": "The Long Rope",
     "reference": "Joshua 1:2 ESV",
     "accent": "#937B5A",
     "dayNum": 1,
     "publishDate": "2026-04-20"
   },
   "the-risk-of-success/2": {
-    "weekTitle": "The Risk of Success",
+    "weekTitle": "Risk Of Success",
     "sermonSeries": "Trust & Obey",
-    "dayTitle": "Grace Before the Command",
+    "dayTitle": "A Promise Before the Problem",
     "reference": "Joshua 1:5 ESV",
     "accent": "#937B5A",
     "dayNum": 2,
     "publishDate": "2026-04-21"
   },
   "the-risk-of-success/3": {
-    "weekTitle": "The Risk of Success",
+    "weekTitle": "Risk Of Success",
     "sermonSeries": "Trust & Obey",
-    "dayTitle": "No Detours",
-    "reference": "Joshua 1:7 ESV",
+    "dayTitle": "Undivided",
+    "reference": "Joshua 1:8 ESV",
     "accent": "#937B5A",
     "dayNum": 3,
     "publishDate": "2026-04-22"
   },
   "the-risk-of-success/4": {
-    "weekTitle": "The Risk of Success",
+    "weekTitle": "Risk Of Success",
     "sermonSeries": "Trust & Obey",
-    "dayTitle": "Go Back",
-    "reference": "Joshua 8:1 ESV",
+    "dayTitle": "Jericho",
+    "reference": "Joshua 6:2 ESV",
     "accent": "#937B5A",
     "dayNum": 4,
     "publishDate": "2026-04-23"
   },
   "the-risk-of-success/5": {
-    "weekTitle": "The Risk of Success",
+    "weekTitle": "Risk Of Success",
     "sermonSeries": "Trust & Obey",
-    "dayTitle": "The Ground Beneath",
+    "dayTitle": "Have I Not Commanded You?",
     "reference": "Joshua 1:9 ESV",
     "accent": "#937B5A",
     "dayNum": 5,
