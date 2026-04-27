@@ -154,7 +154,7 @@ function Nav({ accent = "#2D4A3E" }: { accent?: string }) {
 function LandingPage() {
   const series = getCurrentSeries();
   const color = getSeriesColor(series.sermonSeries);
-  const today = new Date().toISOString().slice(0, 10);
+  const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Chicago' });
 
   return (
     <div style={{ backgroundColor: "#faf7f3", minHeight: "100vh" }}>
@@ -295,7 +295,7 @@ function ReadingPage() {
     return <div style={{ padding: 40 }}>Not found.</div>;
   }
 
-  const today = new Date().toISOString().slice(0, 10);
+  const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Chicago' });
   const color = getSeriesColor(series.sermonSeries);
   const prevDay = series.days.find(d => d.day === day.day - 1);
   const nextDay = series.days.find(d => d.day === day.day + 1);
@@ -793,7 +793,7 @@ function SeriesPage() {
                         </div>
                       </div>
                       {week.days.map((day) => {
-                        const archiveToday = new Date().toISOString().slice(0, 10);
+                        const archiveToday = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Chicago' });
                         const locked = (day.publishDate ?? '') > archiveToday;
                         const archiveRowStyle: React.CSSProperties = {
                           display: "flex",

@@ -205,7 +205,7 @@ ${seriesColorsSource}
 export const allSeries: SermonSeries[] = ${JSON.stringify(allSeries, null, 2)};
 
 export function getCurrentSeries(): WeeklySeries {
-  const today = new Date().toISOString().slice(0, 10);
+  const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Chicago' });
   const allWeeks = allSeries.flatMap(s => s.weeks);
   const published = allWeeks.filter(w => (w.days[0]?.publishDate ?? '') <= today);
   published.sort((a, b) => (b.days[0]?.publishDate ?? '').localeCompare(a.days[0]?.publishDate ?? ''));

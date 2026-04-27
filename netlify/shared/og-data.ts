@@ -11,6 +11,51 @@ export type OgEntry = {
 };
 
 export const ogData: Record<string, OgEntry> = {
+  "tie-the-cord/1": {
+    "weekTitle": "Tie the Cord",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The Same Hope",
+    "reference": "Joshua 2:9 ESV",
+    "accent": "#937B5A",
+    "dayNum": 1,
+    "publishDate": "2026-04-27"
+  },
+  "tie-the-cord/2": {
+    "weekTitle": "Tie the Cord",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Stand Up",
+    "reference": "Joshua 2:11 ESV",
+    "accent": "#937B5A",
+    "dayNum": 2,
+    "publishDate": "2026-04-28"
+  },
+  "tie-the-cord/3": {
+    "weekTitle": "Tie the Cord",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Tiqvah",
+    "reference": "Joshua 2:21 ESV",
+    "accent": "#937B5A",
+    "dayNum": 3,
+    "publishDate": "2026-04-29"
+  },
+  "tie-the-cord/4": {
+    "weekTitle": "Tie the Cord",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Before the Wall Falls",
+    "reference": "Hebrews 11:31 ESV",
+    "accent": "#937B5A",
+    "dayNum": 4,
+    "publishDate": "2026-04-30"
+  },
+  "tie-the-cord/5": {
+    "weekTitle": "Tie the Cord",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "In the Bloodline",
+    "reference": "Matthew 1:5 ESV",
+    "accent": "#937B5A",
+    "dayNum": 5,
+    "publishDate": "2026-05-01"
+  },
   "the-risk-of-success/1": {
     "weekTitle": "Risk Of Success",
     "sermonSeries": "Trust & Obey",
