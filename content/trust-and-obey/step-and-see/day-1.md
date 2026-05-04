@@ -24,7 +24,7 @@ Hear me. God did not bring them here in spite of the flood stage. He brought the
 
 Now, there is a version of faith that wants calm water. Let's be honest, we want the river down, the current slow, the crossing manageable, and then we will step out. And what God is communicating through this entire chapter is that He is not waiting for the manageable. He is going to use the flood stage to show something that could never be seen in calm water... that HE is the one doing the crossing.
 
-This is the pattern all through Scripture. When Nebuchadnezzar threw the three Hebrew children into the fire, he was completing God's plan. The same king who threw them in would later write with his own hand, "How great are his signs, how mighty his wonders!" That does not happen if God delivers them before the fire. The fire was the plan or the fire became the plan. That's the thing with God, *"He causes all things to work together.."*
+This is the pattern all through Scripture. When Nebuchadnezzar threw the three Hebrew children into the fire, he was completing God's plan. The same king who threw them in would later write with his own hand, "How great are his signs, how mighty his wonders!" That does not happen if God delivers them before the fire. The fire was the plan or the fire became the plan. That's the thing with God, _"He causes all things to work together.."_
 
 Your flood stage is not a mistake. God is not scrambling to respond to the timing of your problem. He chose this moment. He has a reason for this particular crossing, and that reason...is revelation. He is about to make Himself known, and He does not make Himself known on the easy crossings.
 
