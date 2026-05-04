@@ -14,7 +14,7 @@ memory_verse_text: "Now faith is the assurance of things hoped for, the convicti
 
 ## Devotional
 
-Some weeks it feels like each step you take triggers a trap? Like God has you in a room full of mousetraps and every step says gotcha. I want you to know that is actually a good place to be. God is working on us church and James tells us that these steps produce an endurance in us and that endurance leads to hope, but is hope enough?
+Some weeks it feels like each step you take triggers a trap? Like God has you in a room full of mousetraps and every step says gotcha. I want you to know that is actually a good place to be. The surgical hands of God are still hands of God. And this week, he has a question he wants to put in your lap.
 
 Here it is. When you hope in God for your marriage to be healed, does that hope look any different from the hope of your coworker who does not believe a single thing you believe? When you pray for your body to be healed, is there something about the way you carry that hope that separates it from how the unbeliever carries theirs? Because the unbeliever wants the marriage whole too. The unbeliever wants the body healed and the prodigal home and the bills paid and the diagnosis reversed, just like we do. So if we both want the same things and both hope for the same things, what exactly makes our faith different? Why does my hope in God look identical to the hope of someone who does not believe what I claim to believe?
 
