@@ -34,17 +34,21 @@ Do not proceed until all three are loaded. Confirm internally that you have:
 
 ---
 
-## Step 2 — Read the source file
+## Step 2 — Read the source material
 
-Check for a source file. The user will either:
-- Name a file path directly
-- Say the folder to check (default: look in the project root or ask)
+Check for source files. The user will either name file paths directly or say where to look.
+Accept any combination of the following — all are valid inputs:
 
-Read the file in full. Note whether it is a sermon manuscript, outline, or research notes.
-Hold the full content in context — do not summarize it yet.
+- **Sermon manuscript** — a full written-out sermon (the primary source when present)
+- **Sermon notes** — an outline, bullet notes, or rough draft (use as primary if no manuscript)
+- **Both** — when both exist, use the manuscript as the body and the notes to catch any
+  additional illustrations, asides, or application points the manuscript may not contain
+
+Read all provided files in full. Hold the complete content in context — do not summarize yet.
+Note what type(s) of material you have, as this affects how you slice the sermon in Step 4.
 
 If no file is found or named, ask:
-> "What's the path to this week's source file, or paste the content here?"
+> "What's the path to this week's source material? You can give me a manuscript, sermon notes, or both."
 
 ---
 
@@ -144,11 +148,11 @@ Report back:
 ```
 ✅ 6 files written:
 
-content/[series-folder]/[week-slug]/day-1.md  — [Day 1 title]
-content/[series-folder]/[week-slug]/day-2.md  — [Day 2 title]
-content/[series-folder]/[week-slug]/day-3.md  — [Day 3 title]
-content/[series-folder]/[week-slug]/day-4.md  — [Day 4 title]
-content/[series-folder]/[week-slug]/day-5.md  — [Day 5 title]
+content/[series-folder]/[week-slug]/day-1.md
+content/[series-folder]/[week-slug]/day-2.md
+content/[series-folder]/[week-slug]/day-3.md
+content/[series-folder]/[week-slug]/day-4.md
+content/[series-folder]/[week-slug]/day-5.md
 content/[series-folder]/[week-slug]/notifications.md
 
 Ready to publish. Say "publish" and I'll run the build and push to Netlify.

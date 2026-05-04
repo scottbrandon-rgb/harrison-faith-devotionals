@@ -73,6 +73,8 @@ memory_verse_text: "[Full memory verse text — always double-quoted]"
 ## Devotional
 [3–5 paragraphs. See Section C for content rules.]
 
+**[One Takeaway sentence. See Section C.]**
+
 ## Application
 1. [Introspective question]
 2. [Action-oriented question]
@@ -90,10 +92,24 @@ memory_verse_text: "[Full memory verse text — always double-quoted]"
 
 ## Section C — Devotional Body Rules
 
-**Length:** 3–5 paragraphs. Aim for 250–350 words total.
+**Length:** 3–5 paragraphs. Aim for 400–500 words total.
+
+**Reading level:** 8th to 9th grade
+
+**Tone:** Warm, unhurried, personal. Like a pastor texting a friend, not writing for
+a publication. The reader should feel like someone who knows them wrote this.
+
+**Point of view:** First person is encouraged. Write as a pastor who has been sitting
+with this text for days — not someone summarizing a commentary. What does this passage
+mean for THIS week, in THIS moment, for people carrying real weight?
+
+**Be specific.** Vague spiritual encouragement does nothing. Anchor the reflection to
+something concrete: a feeling, a situation, a tension people are actually navigating.
+This should feel like a handwritten note from someone who knows you, not a blog post
+from someone who needs page views.
 
 **Paragraph structure:**
-- Open with an assertion or scene — never a warm-up sentence
+- Open with context, a question, or a scene — never a warm-up sentence
 - Build through exposition, illustration, or historical context
 - Close on Scripture, a Greek/Hebrew word, or a redirect
 - Never close a paragraph on vague encouragement
@@ -103,6 +119,9 @@ memory_verse_text: "[Full memory verse text — always double-quoted]"
 - At least one connection to the sermon's big idea
 - At least one historical, cultural, or word study detail (woven in naturally, never lectured)
 - A clear landing — the reader should know exactly what the passage is claiming
+- A cross-referenced scripture (helps the reader ground in the concept being explained)
+- If a personal anecdote was provided in intake, weave it into the day it fits best —
+  a specific pastoral detail does more than three paragraphs of exposition
 
 **What each day's devotional body is NOT:**
 - A summary of all five days
@@ -112,18 +131,28 @@ memory_verse_text: "[Full memory verse text — always double-quoted]"
 
 ---
 
+### One Takeaway
+
+Immediately after the devotional body paragraphs, before the Application questions,
+write one bold sentence the reader can carry into the rest of their day.
+
+```markdown
+**[One sentence.]**
+```
+
+This is not a summary of the reflection. It is an action or a posture — something
+the reader can actually hold onto. Practical. Memorable. Short.
+
+Test before writing: can someone repeat this sentence to a coworker without fumbling it?
+If not, simplify it. Cut until it fits in a single breath.
+
+---
+
 ## Section D — Notifications File Format
 
 Use this exact structure. The dividers are part of the format.
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SERIES ANNOUNCEMENT (140 characters)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[One punchy sentence announcing the week. 140 characters max.
-Hook the reader. Name the series, the theme, the payoff. Make them want in.]
-
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 WEEK OVERVIEW
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -140,16 +169,16 @@ Day 1 — [Day Title]
 [Hook sentence. 140 characters max. Make the reader need to open the app.]
 
 Day 2 — [Day Title]
-[Hook sentence. 140 characters max.]
+[Hook sentence. 140 characters max. Make the reader need to open the app.]
 
 Day 3 — [Day Title]
-[Hook sentence. 140 characters max.]
+[Hook sentence. 140 characters max. Make the reader need to open the app.]
 
 Day 4 — [Day Title]
-[Hook sentence. 140 characters max.]
+[Hook sentence. 140 characters max. Make the reader need to open the app.]
 
 Day 5 — [Day Title]
-[Hook sentence. 140 characters max.]
+[Hook sentence. 140 characters max. Make the reader need to open the app.]
 ```
 
 **Notification rules:**
@@ -157,7 +186,6 @@ Day 5 — [Day Title]
 - Each daily hook should tease the day's angle without giving it away
 - The hook should feel like the Nathan principle — lands before they see it coming
 - Do not use "Today's devos are live" as a full sentence — it is a suffix, not the message
-- End each daily notification with "Devos are live." or "Day [N] devos are live."
 
 ---
 

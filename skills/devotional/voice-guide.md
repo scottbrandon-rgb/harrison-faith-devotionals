@@ -56,16 +56,13 @@ Always defer to the full fetched document if there is any conflict.
 5. **The Nathan principle.** Set them up talking about something else, then:
    "that man is you." They don't see it coming until it hits.
 
-6. **Clever over clean.** Phrases others don't write. Things that don't normally
-   go together but make complete sense when they land.
+6. **Clever over clean.** Phrases others don't write. Things that don't normally go together but make complete sense when they land.
 
 7. **Direct address is a structural hinge, not decoration.**
    Use it at a gear-shift moment, not throughout.
 
 8. **The landing standard.** "As catchy as a song you didn't want to hear in
-   Home Depot." Easy logical flow — "Yeah...that makes sense. Yeah...ok." When
-   the punchlines land and the application is as relevant as yesterday's text
-   message, it's ready.
+   Home Depot." Easy logical flow — "Yeah...that makes sense. Yeah...ok." When the punchlines land and the application is as relevant as yesterday's text message, it's ready.
 
 9. **The reader is busy and reads as a checkbox.** Get to it. Make it land.
    Don't play. Catch their attention in the first sentence or you've lost them.
