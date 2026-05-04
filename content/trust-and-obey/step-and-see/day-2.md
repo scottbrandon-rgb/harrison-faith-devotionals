@@ -16,17 +16,19 @@ memory_verse_text: "Trust in the LORD with all your heart, and do not lean on yo
 
 Israel had seen the ten plagues. They walked through the Red Sea on dry ground. God gave them manna from heaven and water from a rock. He overthrew enemies who should have destroyed them. He had never left them once across forty years in the wilderness. And yet Joshua stands at the Jordan and has to say it out loud: "Here is how you shall know that the living God is among you."
 
-Why does he need to say that? Because the presence of a new problem makes people forget the history of His faithfulness. Every time. You know this because you have done it too.
+Why does he need to say that? Because the presence of a new problem makes people forget the history of His faithfulness. You know this because you have done it too.
 
-I told the church this past Sunday that my fear is this: God is going to make a promise and then leave me out there by myself. Step out and be hung out to dry. And then I said what I know to be true. When I go back through my life and look at how faithful He has been, He has never left me and never forsaken me. I know that. But somehow, when the next flood stage shows up, the fear comes right back anyway. That is not a weak faith. That is the human condition, and it is exactly what Joshua is addressing standing at the Jordan.
+Have you ever thought, "God is going to make a promise and then leave me out there by myself." Me too. Step out and be hung out to dry. Although, when I go back through my life and look at how faithful He's been, He has never left me and never forsaken me and I know that. But somehow, when the next flood stage shows up, the fear comes right back anyway. I'd like to say that's just my rare weak faith moments, but the truth it that is the human condition, and it's exactly what Joshua is addressing standing at the Jordan.
 
-The question Joshua is answering is one you have asked. Maybe not out loud. Maybe not with these words. But somewhere in your flood stage you have thought it: Is He actually here? I know what He has done. But is He here for this one? And the Lord knew that question was coming, which is why He had Joshua name it before a single foot touched the water.
+The question Joshua is answering is one we've all asked. Maybe not with these words, but somewhere in your flood stage you have thought it, "Is He actually here?" I know what He's done in the past, but is He here for this one? The Lord knew that question was coming, which is why He had Joshua name it before the priest ever put a single foot in the water.
 
-Now watch this. Joshua does not point them backward to the Red Sea or the manna. He points them forward. "He will without fail drive out from before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites." Seven nations. He names every one. God is not vague about what He intends to do, and He does not leave a back door open on His promises.
+Now watch this. Joshua does not point them backward to the Red Sea or the manna. He points them forward. "He will without fail drive out from before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites." He names all seven nations. God is not vague about what He intends to do, and He does not leave a back door open on His promises.
 
-The phrase "living God" in verse ten is doing a lot of work. The Hebrew word is chay. It means alive, active, sustaining, present. Joshua is drawing a line between the dead idols of the surrounding nations, stone and wood with no breath in them, and the God who speaks, acts, and delivers. Chay. The God who split the Red Sea and sent manna from heaven is the same God standing at the Jordan right now. His faithfulness does not belong to the past. He is active in what you are carrying today.
+The phrase "living God" in verse ten is worth paying attention to. The Hebrew word is chay. It means alive, active, sustaining, present. Joshua is drawing a line between the dead idols of the surrounding nations, stone and wood with no breath in them, and the God who speaks, acts, and delivers. Chay. The God who split the Red Sea and sent manna from heaven is the same God standing at the Jordan right now. His faithfulness does not belong to the past. He is active in what you are carrying today.
 
-Hear me. How many times in your life has He shown up? How many promises has He fulfilled? If the record is long, then what makes you think this is the one He is going to drop? His character does not change at your Jordan. The presence of a problem does not constitute the absence of power.
+So...let me ask you. How many times in your life has He shown up? How many promises has He fulfilled? If the record is long, then what makes you think this is the one He is going to drop? His character does not change at your Jordan. 
+
+So let me say this and I want you to get in your spirit. **"The presence of a problem does not constitute the absence of His power."**
 
 He is already there. And tomorrow, knowing that is going to require you to put something on the line.
 
