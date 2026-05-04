@@ -11,6 +11,51 @@ export type OgEntry = {
 };
 
 export const ogData: Record<string, OgEntry> = {
+  "step-and-see/1": {
+    "weekTitle": "Step and See",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The Flood Stage",
+    "reference": "Joshua 3:5 ESV",
+    "accent": "#937B5A",
+    "dayNum": 1,
+    "publishDate": "2026-05-04"
+  },
+  "step-and-see/2": {
+    "weekTitle": "Step and See",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Here Is How You Will Know",
+    "reference": "Joshua 3:10 ESV",
+    "accent": "#937B5A",
+    "dayNum": 2,
+    "publishDate": "2026-05-05"
+  },
+  "step-and-see/3": {
+    "weekTitle": "Step and See",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Step Into the River",
+    "reference": "Joshua 3:13 ESV",
+    "accent": "#937B5A",
+    "dayNum": 3,
+    "publishDate": "2026-05-06"
+  },
+  "step-and-see/4": {
+    "weekTitle": "Step and See",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "God Is at Adam",
+    "reference": "Daniel 10:12 ESV",
+    "accent": "#937B5A",
+    "dayNum": 4,
+    "publishDate": "2026-05-07"
+  },
+  "step-and-see/5": {
+    "weekTitle": "Step and See",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Keep Your Feet in the Water",
+    "reference": "Joshua 3:17 ESV",
+    "accent": "#937B5A",
+    "dayNum": 5,
+    "publishDate": "2026-05-08"
+  },
   "tie-the-cord/1": {
     "weekTitle": "Tie the Cord",
     "sermonSeries": "Trust & Obey",
