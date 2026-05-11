@@ -11,6 +11,51 @@ export type OgEntry = {
 };
 
 export const ogData: Record<string, OgEntry> = {
+  "remember-out-loud/1": {
+    "weekTitle": "Stones of Remembrance",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The Day After the River",
+    "reference": "Joshua 4:3 ESV",
+    "accent": "#937B5A",
+    "dayNum": 1,
+    "publishDate": "2026-05-11"
+  },
+  "remember-out-loud/2": {
+    "weekTitle": "Stones of Remembrance",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Stones Don't Remember Themselves",
+    "reference": "Joshua 4:7 ESV",
+    "accent": "#937B5A",
+    "dayNum": 2,
+    "publishDate": "2026-05-12"
+  },
+  "remember-out-loud/3": {
+    "weekTitle": "Stones of Remembrance",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "What the Pile Is Carrying",
+    "reference": "Hebrews 4:8 ESV",
+    "accent": "#937B5A",
+    "dayNum": 3,
+    "publishDate": "2026-05-13"
+  },
+  "remember-out-loud/4": {
+    "weekTitle": "Stones of Remembrance",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Position and Proclamation",
+    "reference": "Ephesians 2:6 ESV",
+    "accent": "#937B5A",
+    "dayNum": 4,
+    "publishDate": "2026-05-14"
+  },
+  "remember-out-loud/5": {
+    "weekTitle": "Stones of Remembrance",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Fear That Lasts Forever",
+    "reference": "Joshua 4:24 ESV",
+    "accent": "#937B5A",
+    "dayNum": 5,
+    "publishDate": "2026-05-15"
+  },
   "step-and-see/1": {
     "weekTitle": "Step and See",
     "sermonSeries": "Trust & Obey",
