@@ -22,7 +22,7 @@ So God stops everything to deal with just that. Because He knows something about
 
 You see, the same crowd that watched the Red Sea split in Exodus 14 was complaining about water three days into the wilderness in Exodus 17. The same crowd that ate manna from heaven was grumbling about the menu by Numbers 11. God knows that what He did in that river last week is not going to preach itself in your living room next week unless somebody puts the stones on their shoulder right now.
 
-Deuteronomy 8 gives you the diagnosis straight. Moses told them: when the houses are good, when the flocks are large, when the bread is plentiful, you will forget the Lord your God. The danger is not hardship. The danger is prosperity. My pastor once told me before I came to HF, "Scott, success can be a weapon too." This is what Moses was alluding to in Deuteronomy 8. Its the backstory God is working against in Joshua 4. The monument at Gilgal is a preemptive strike against the forgetting that comfort produces.
+Deuteronomy 8 gives you the diagnosis straight. Moses told them: when the houses are good, when the flocks are large, when the bread is plentiful, you will forget the Lord your God. The danger is not hardship. The danger is prosperity. My pastor once told me before I came to HF, "Scott, success can be a weapon too." This is what Moses was alluding to in Deuteronomy 8. Its the backstory God is working against in Joshua 4. For the monument at Gilgal is a preemptive strike against the forgetting that comfort produces.
 
 So the construction project is not a delay of the conquest. Hear me on this. The construction project is the conquest for the next generation. 
 
