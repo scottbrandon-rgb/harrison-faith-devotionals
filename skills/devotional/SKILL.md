@@ -18,9 +18,13 @@ These are non-negotiable inputs to every step that follows.
 Read: `skills/devotional/context-questions.md`
 
 **1b. Load voice guide (fetch live from GitHub):**
-Run this command and read the full output:
+Run both commands and read the full output of each:
 ```bash
-gh api repos/scottbrandon-rgb/voice-dna/contents/Voice_DNA_Scott_Brandon.md \
+gh api repos/scottbrandon-rgb/voice-dna/contents/preaching-voice.md \
+  --jq '.content' | base64 -d
+```
+```bash
+gh api repos/scottbrandon-rgb/voice-dna/contents/Anti-AI-Writing.md \
   --jq '.content' | base64 -d
 ```
 
