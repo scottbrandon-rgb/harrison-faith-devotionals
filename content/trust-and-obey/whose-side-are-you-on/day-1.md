@@ -30,7 +30,7 @@ What stops me in this scene is that it is Joshua asking the question. One of the
 
 The Commander's answer is not going to be a yes or a no. But that is tomorrow.
 
-<b>Most of us are not trying to follow God. We are trying to recruit Him.</b>
+*Most of us are not trying to follow God. We are trying to recruit Him.*
 
 ## Application
 1. Where have you recently brought God a side you already chose, asking Him to get on board rather than asking what He wants?
