@@ -3,7 +3,7 @@ series: whose-side-are-you-on
 series_title: Whose Side Are You On?
 sermon_series: Trust & Obey
 day: 3
-publish_date: 2026-05-20
+publish_date: 2026-05-27
 title: Two Men Named Joshua
 scripture_reference: Joshua 5:14
 scripture_translation: ESV

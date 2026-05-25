@@ -3,7 +3,7 @@ series: whose-side-are-you-on
 series_title: Whose Side Are You On?
 sermon_series: Trust & Obey
 day: 4
-publish_date: 2026-05-21
+publish_date: 2026-05-28
 title: Take the Boots Off
 scripture_reference: Joshua 5:15
 scripture_translation: ESV

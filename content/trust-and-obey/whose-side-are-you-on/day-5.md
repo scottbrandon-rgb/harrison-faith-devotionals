@@ -3,7 +3,7 @@ series: whose-side-are-you-on
 series_title: Whose Side Are You On?
 sermon_series: Trust & Obey
 day: 5
-publish_date: 2026-05-22
+publish_date: 2026-05-29
 title: The Plan Is in the Next Chapter
 scripture_reference: Joshua 5:15
 scripture_translation: ESV

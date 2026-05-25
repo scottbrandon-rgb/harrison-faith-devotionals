@@ -3,7 +3,7 @@ series: whose-side-are-you-on
 series_title: Whose Side Are You On?
 sermon_series: Trust & Obey
 day: 1
-publish_date: 2026-05-18
+publish_date: 2026-05-25
 title: The Wrong Question
 scripture_reference: Joshua 5:13
 scripture_translation: ESV

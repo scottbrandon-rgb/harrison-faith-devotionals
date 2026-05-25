@@ -3,7 +3,7 @@ series: whose-side-are-you-on
 series_title: Whose Side Are You On?
 sermon_series: Trust & Obey
 day: 2
-publish_date: 2026-05-19
+publish_date: 2026-05-26
 title: He Came to Take Command
 scripture_reference: Joshua 5:14
 scripture_translation: ESV
