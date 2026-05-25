@@ -24,13 +24,13 @@ It is the most natural question in the world but it is the wrong one.
 
 We ask it constantly. We just say it differently. Are You for me or for my ex? For my denomination or the one across town? For my race or theirs? We bring God a binary question, and what we really don't want is revelation. No, we want recruitment. We are not asking what God wants. We are asking God to want what we want. 
 
+Most of us are not trying to follow God. We are trying to recruit Him.
+
 James named it plainly: "You ask and do not receive, because you ask wrongly, to spend it on your passions." (James 4:3 ESV). We have pre-selected the answer options. We are just waiting to find out which one God checks.
 
 What stops me in this scene is that it is Joshua asking the question. One of the most faithful men in all of Scripture walks up to the living God with his side already picked. That should tell you something about the pull of the flesh. This is not a faith problem. It is flesh problem. We filter God through our agenda before we ever hear what He says.
 
 The Commander's answer is not going to be a yes or a no. But that is tomorrow.
-
-*Most of us are not trying to follow God. We are trying to recruit Him.*
 
 ## Application
 1. Where have you recently brought God a side you already chose, asking Him to get on board rather than asking what He wants?
