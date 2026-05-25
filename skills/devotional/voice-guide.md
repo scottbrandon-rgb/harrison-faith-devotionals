@@ -7,25 +7,27 @@ and must be fetched at runtime before any devotional content is written.
 
 ## How to Fetch at Runtime
 
-Run the following command to retrieve the full voice guide:
+Run **both** commands and read the full output of each before writing a single word of devotional content. Together they are the complete voice reference.
 
 ```bash
-gh api repos/scottbrandon-rgb/voice-dna/contents/Voice_DNA_Scott_Brandon.md \
+gh api repos/scottbrandon-rgb/voice-dna/contents/preaching-voice.md \
   --jq '.content' | base64 -d
 ```
 
-Read the output in full before writing a single word of devotional content.
-This file is the single most important input to the writing step.
+```bash
+gh api repos/scottbrandon-rgb/voice-dna/contents/Anti-AI-Writing.md \
+  --jq '.content' | base64 -d
+```
 
 **Repository:** `scottbrandon-rgb/voice-dna`
-**File:** `Voice_DNA_Scott_Brandon.md`
+**Files:** `preaching-voice.md` and `Anti-AI-Writing.md`
 **Branch:** `main`
 
 ---
 
-## What This File Contains
+## What These Files Contain
 
-The Voice DNA covers:
+**preaching-voice.md** covers:
 
 - **Core identity** — Who Scott is, how he preaches, his theological commitments
 - **Worldview and beliefs** — The convictions that shape every piece he writes
@@ -33,6 +35,11 @@ The Voice DNA covers:
   principle, the landing standard
 - **Who he is writing for** — The reader profile, their distortions, what they resist
   but need, what it sounds like when a piece lands
+
+**Anti-AI-Writing.md** covers:
+
+- The specific patterns, constructions, and phrases that would make Scott pull a piece down
+- Enforcement protocol for reviewing content before it ships
 
 ---
 

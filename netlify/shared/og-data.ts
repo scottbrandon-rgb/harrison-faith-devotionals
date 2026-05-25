@@ -11,6 +11,96 @@ export type OgEntry = {
 };
 
 export const ogData: Record<string, OgEntry> = {
+  "whose-side-are-you-on/1": {
+    "weekTitle": "Whose Side Are You On?",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The Wrong Question",
+    "reference": "Joshua 5:13 ESV",
+    "accent": "#937B5A",
+    "dayNum": 1,
+    "publishDate": "2026-05-25"
+  },
+  "whose-side-are-you-on/2": {
+    "weekTitle": "Whose Side Are You On?",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "He Came to Take Command",
+    "reference": "Joshua 5:14 ESV",
+    "accent": "#937B5A",
+    "dayNum": 2,
+    "publishDate": "2026-05-26"
+  },
+  "whose-side-are-you-on/3": {
+    "weekTitle": "Whose Side Are You On?",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Two Men Named Joshua",
+    "reference": "Joshua 5:14 ESV",
+    "accent": "#937B5A",
+    "dayNum": 3,
+    "publishDate": "2026-05-27"
+  },
+  "whose-side-are-you-on/4": {
+    "weekTitle": "Whose Side Are You On?",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Take the Boots Off",
+    "reference": "Joshua 5:15 ESV",
+    "accent": "#937B5A",
+    "dayNum": 4,
+    "publishDate": "2026-05-28"
+  },
+  "whose-side-are-you-on/5": {
+    "weekTitle": "Whose Side Are You On?",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The Plan Is in the Next Chapter",
+    "reference": "Joshua 5:15 ESV",
+    "accent": "#937B5A",
+    "dayNum": 5,
+    "publishDate": "2026-05-29"
+  },
+  "circumcision-of-the-heart/1": {
+    "weekTitle": "Circumcision of the Heart",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Pick Up the Knife",
+    "reference": "Joshua 5:2 ESV",
+    "accent": "#937B5A",
+    "dayNum": 1,
+    "publishDate": "2026-05-18"
+  },
+  "circumcision-of-the-heart/2": {
+    "weekTitle": "Circumcision of the Heart",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "What You Complain About",
+    "reference": "Joshua 5:6 ESV",
+    "accent": "#937B5A",
+    "dayNum": 2,
+    "publishDate": "2026-05-19"
+  },
+  "circumcision-of-the-heart/3": {
+    "weekTitle": "Circumcision of the Heart",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Handed Down",
+    "reference": "Joshua 5:7 ESV",
+    "accent": "#937B5A",
+    "dayNum": 3,
+    "publishDate": "2026-05-20"
+  },
+  "circumcision-of-the-heart/4": {
+    "weekTitle": "Circumcision of the Heart",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Today I Have Rolled It Away",
+    "reference": "Joshua 5:9 ESV",
+    "accent": "#937B5A",
+    "dayNum": 4,
+    "publishDate": "2026-05-21"
+  },
+  "circumcision-of-the-heart/5": {
+    "weekTitle": "Circumcision of the Heart",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Now I Have Come",
+    "reference": "Joshua 5:13-14 ESV",
+    "accent": "#937B5A",
+    "dayNum": 5,
+    "publishDate": "2026-05-22"
+  },
   "remember-out-loud/1": {
     "weekTitle": "Stones of Remembrance",
     "sermonSeries": "Trust & Obey",
