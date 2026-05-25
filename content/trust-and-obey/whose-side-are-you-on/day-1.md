@@ -14,21 +14,23 @@ memory_verse_text: "Many are the plans in the mind of a man, but it is the purpo
 
 ## Devotional
 
-Joshua is standing outside Jericho doing what commanders do. The camp has been circumcised. Passover has been kept. The manna has stopped for the first time in forty years. Everything God said He would do, He has done. And there is still a wall. So Joshua goes out, probably alone, to size it up. Find the cracks. Start working the plan.
+Joshua is standing outside Jericho doing what commanders do. The camp has been circumcised. Passover has been kept. The manna has stopped for the first time in forty years. Everything God said He would do, He has done. So Joshua goes out, probably alone, to size it up. Find the cracks and start working the plan, just like we would do.
 
-A soldier is standing in the field in front of him. Sword already drawn.
+A soldier is standing in the field in front of him with his sword already drawn.
 
-So Joshua walks straight up and asks the question every one of us has asked: "Are you for us, or for our adversaries?" (Joshua 5:13 ESV). Whose side are you on.
+So Joshua walks straight up and asks the question every one of us has asked: "Are you for us, or for our adversaries?" (Joshua 5:13 ESV). Whose side are you on?
 
-It is the most natural question in the world. And it is the wrong one.
+It is the most natural question in the world but it is the wrong one.
 
-We ask it constantly. We just dress it differently. Are You for me or for my ex? For my denomination or the one across town? For my race or theirs? We bring God a binary, and what we really want is not revelation. We want recruitment. We are not asking what God wants. We are asking God to want what we want. James named it plainly: "You ask and do not receive, because you ask wrongly, to spend it on your passions." (James 4:3 ESV). We have pre-selected the answer options. We are just waiting to find out which one God checks.
+We ask it constantly. We just say it differently. Are You for me or for my ex? For my denomination or the one across town? For my race or theirs? We bring God a binary question, and what we really don't want is revelation. No, we want recruitment. We are not asking what God wants. We are asking God to want what we want. 
 
-What stops me in this scene is that it is Joshua asking the question, not a skeptic. One of the most faithful men in all of Scripture walks up to the living God with his side already picked. That should tell you something about the pull of the human default. This is not a faith problem. It is human nature. We filter God through our agenda before we ever hear what He says.
+James named it plainly: "You ask and do not receive, because you ask wrongly, to spend it on your passions." (James 4:3 ESV). We have pre-selected the answer options. We are just waiting to find out which one God checks.
+
+What stops me in this scene is that it is Joshua asking the question. One of the most faithful men in all of Scripture walks up to the living God with his side already picked. That should tell you something about the pull of the flesh. This is not a faith problem. It is flesh problem. We filter God through our agenda before we ever hear what He says.
 
 The Commander's answer is not going to be a yes or a no. But that is tomorrow.
 
-**Most of us are not trying to follow God. We are trying to recruit Him.**
+<b>Most of us are not trying to follow God. We are trying to recruit Him.</b>
 
 ## Application
 1. Where have you recently brought God a side you already chose, asking Him to get on board rather than asking what He wants?
