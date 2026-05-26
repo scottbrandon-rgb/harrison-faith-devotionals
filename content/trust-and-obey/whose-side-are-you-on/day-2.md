@@ -26,7 +26,7 @@ That is the only question He always... wants to answer. Not about the plan, the 
 
 Now watch what Joshua does after the Commander identifies Himself. He falls on his face and worships. And the Commander lets him, that is the tell. Over in Revelation 22, John falls at the feet of an angel and the angel stops him cold, "You must not do that! I am a fellow servant with you." (Revelation 22:9 ESV). Real angels refuse worship. This One takes it without a word of correction. Which means this is not an angel, this is the Lord Himself.
 
-And then He says something worth chewing on, "Now I have come." You have not arrived at any place in your life where you needed God that He was not already there waiting for you. Tomorrow we'll look at why it's important to understand who it is that has come into the picture of our lives. Just remember...
+And then He says something worth chewing on, "Now I have come." Tomorrow we'll look at why it's important to understand who it is that has come into the picture of our lives. Just remember...
 
 God doesn't come to take sides. He comes to take over.
 
