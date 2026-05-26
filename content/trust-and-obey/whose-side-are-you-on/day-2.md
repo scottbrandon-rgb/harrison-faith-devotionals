@@ -16,7 +16,7 @@ memory_verse_text: "Many are the plans in the mind of a man, but it is the purpo
 
 Have you ever asked someone a simple question and what you got back was an answer that failed to match? Joshua asked a binary question, it was pretty straight forward, "Are you for us or against us?" and "No." is all he got.
 
-Not yes. Not yes for the other side. Just no. Wrong question, Joshua.
+Not yes. Not yes for the other side. Just no, wrong question Joshua.
 
 The angel said, "No; but I am the commander of the army of the LORD. Now I have come." What He was telling us was that He did not come to take a side. He came to take command. He is not a soldier waiting to be assigned to a unit, since his sword was not sheathed. No, He is the Commander who arrived with His own orders and His sword already drawn. He has not come to read your plans. He has come to replace them.
 
