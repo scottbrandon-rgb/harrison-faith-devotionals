@@ -460,7 +460,7 @@ function ReadingPage() {
             color: "#2e2a26",
             marginBottom: "22px",
           }}>
-            {p}
+            {renderInline(p)}
           </p>
         ))}
       </div>
@@ -489,7 +489,7 @@ function ReadingPage() {
               lineHeight: "1.7",
               color: "#3a3530",
             }}>
-              {q}
+              {renderInline(q)}
             </p>
           </div>
         ))}
@@ -519,7 +519,7 @@ function ReadingPage() {
           lineHeight: "1.7",
           color: color.text,
         }}>
-          {day.challenge}
+          {renderInline(day.challenge)}
         </p>
       </div>
 
@@ -603,7 +603,7 @@ function ReadingPage() {
           lineHeight: "1.8",
           color: "#4a4440",
         }}>
-          {day.prayer}
+          {renderInline(day.prayer)}
         </p>
       </div>
 

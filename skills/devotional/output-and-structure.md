@@ -156,36 +156,42 @@ Use this exact structure. The dividers are part of the format.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 WEEK OVERVIEW
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[2–3 paragraphs. Walk through the week's arc: what Day 1 opens,
-what the middle days dig into, what Day 5 lands on.
-Write in Scott's voice — direct, pastoral, no fluff.
-End with a one-line call to action: "See you in the devos."]
+[One paragraph. A brief overview of the whole week's arc, in Scott's
+voice — direct, pastoral, no fluff.]
+
+Day 1 — [Day Title]
+Day 2 — [Day Title]
+Day 3 — [Day Title]
+Day 4 — [Day Title]
+Day 5 — [Day Title]
+
+[One closing sentence that ends with: See you in the devos.]
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 DAILY NOTIFICATIONS (140 characters each)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Day 1 — [Day Title]
-[Hook sentence. 140 characters max. Make the reader need to open the app.]
+[One question. The day's central question, posed to the reader. 140 characters max.]
 
 Day 2 — [Day Title]
-[Hook sentence. 140 characters max. Make the reader need to open the app.]
+[One question. The day's central question, posed to the reader. 140 characters max.]
 
 Day 3 — [Day Title]
-[Hook sentence. 140 characters max. Make the reader need to open the app.]
+[One question. The day's central question, posed to the reader. 140 characters max.]
 
 Day 4 — [Day Title]
-[Hook sentence. 140 characters max. Make the reader need to open the app.]
+[One question. The day's central question, posed to the reader. 140 characters max.]
 
 Day 5 — [Day Title]
-[Hook sentence. 140 characters max. Make the reader need to open the app.]
+[One question. The day's central question, posed to the reader. 140 characters max.]
 ```
 
 **Notification rules:**
-- 140 characters is a hard limit on announcement and daily notifications
-- Each daily hook should tease the day's angle without giving it away
-- The hook should feel like the Nathan principle — lands before they see it coming
-- Do not use "Today's devos are live" as a full sentence — it is a suffix, not the message
+- The WEEK OVERVIEW is one paragraph, then the five day titles listed, then one closing sentence ending in "See you in the devos."
+- Each daily notification is a single question that captures that day's central tension, posed directly to the reader.
+- 140 characters is a hard limit on each daily notification question.
+- The question should land like the Nathan principle — it catches the reader before they see it coming.
 
 ---
 

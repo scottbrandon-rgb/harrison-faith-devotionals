@@ -1,27 +1,31 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 WEEK OVERVIEW
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-This week we are standing outside Jericho with a wall we have all memorized. Day 1 names it and lands the sentence the whole week rests on: before a single step, God said "I have given." The battle is already won. The victory has not yet been felt. That gap is where most of us live.
+This week we stand outside a wall we have all memorized: the marriage that will not bend, the diagnosis that will not move, the child who will not come home, the habit that will not break. And before Israel took a single step around Jericho, God said "I have given." The battle is already won, but the victory has not yet been felt, and that gap is where most of us live. So God hands us three things to do in the waiting. Walk. Wait. Worship. Until the day He says shout.
 
-Then we get the assignment for the gap, three words. Walk, wait, worship. Day 2 is the walk: God wins the war but will not let you sit it out, and nothing visible happens for six straight days. Day 3 is the wait, the hardest one, with three witnesses who could not do it and what it cost Saul, Abraham, and Israel. Day 4 is worship before the breakthrough, the trumpet that means God is present, God keeps His promise, and God is working even when the wall still stands. Day 5 is the shout. The wall falls in a single verse, because the falling was never the point. The trust was.
+Day 1 — A Wall You Have Memorized
+Day 2 — Until It's Time, Walk
+Day 3 — Until It's Time, Wait
+Day 4 — Until It's Time, Worship
+Day 5 — Now You Shout
 
-See you in the devos.
+The battle is already won, so don't shout just yet. See you in the devos.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 DAILY NOTIFICATIONS (140 characters each)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Day 1 — A Wall You Have Memorized
-You have a wall. God said "I have given" before it ever moved. The battle is already won. Devos are live.
+What is the wall you have stared at so long you have memorized every stone in it?
 
 Day 2 — Until It's Time, Walk
-Six days of marching. No cracks. No proof. They walked anyway. God wins the war, but He won't let you sit it out. Devos are live.
+God wins the war, but He will not let you sit it out. What small thing is already in your hands?
 
 Day 3 — Until It's Time, Wait
-Saul lost a kingdom over a few minutes he couldn't wait. Impatience is doubt wearing a disguise. Devos are live.
+Where are you forcing it, grabbing the reins because you are afraid of what you will lose if you wait?
 
 Day 4 — Until It's Time, Worship
-We don't worship because the walls fell. We worship until they do. The trumpet sounds before the breakthrough. Devos are live.
+When the wall has not moved, does your mouth go quiet and bitter, or does it fill with worship?
 
 Day 5 — Now You Shout
-The wall falls in a single verse. The falling was never the point. The trust was. And then God says: shout. Devos are live.
+Walk, wait, or worship — which one is God actually asking of you right now?
