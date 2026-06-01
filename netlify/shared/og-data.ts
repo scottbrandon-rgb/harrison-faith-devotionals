@@ -11,6 +11,51 @@ export type OgEntry = {
 };
 
 export const ogData: Record<string, OgEntry> = {
+  "dont-shout-just-yet/1": {
+    "weekTitle": "Don't Shout Just Yet",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "I Have Given",
+    "reference": "Joshua 6:2 ESV",
+    "accent": "#937B5A",
+    "dayNum": 1,
+    "publishDate": "2026-06-01"
+  },
+  "dont-shout-just-yet/2": {
+    "weekTitle": "Don't Shout Just Yet",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The March That Made No Sense",
+    "reference": "Joshua 6:8 ESV",
+    "accent": "#937B5A",
+    "dayNum": 2,
+    "publishDate": "2026-06-02"
+  },
+  "dont-shout-just-yet/3": {
+    "weekTitle": "Don't Shout Just Yet",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Hold the Shout",
+    "reference": "Joshua 6:10 ESV",
+    "accent": "#937B5A",
+    "dayNum": 3,
+    "publishDate": "2026-06-03"
+  },
+  "dont-shout-just-yet/4": {
+    "weekTitle": "Don't Shout Just Yet",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The Outsider Who Got In",
+    "reference": "Joshua 6:25 ESV",
+    "accent": "#937B5A",
+    "dayNum": 4,
+    "publishDate": "2026-06-04"
+  },
+  "dont-shout-just-yet/5": {
+    "weekTitle": "Don't Shout Just Yet",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Then You Shall Shout",
+    "reference": "Joshua 6:16 ESV",
+    "accent": "#937B5A",
+    "dayNum": 5,
+    "publishDate": "2026-06-05"
+  },
   "whose-side-are-you-on/1": {
     "weekTitle": "Whose Side Are You On?",
     "sermonSeries": "Trust & Obey",
