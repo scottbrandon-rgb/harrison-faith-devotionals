@@ -14,7 +14,7 @@ export const ogData: Record<string, OgEntry> = {
   "dont-shout-just-yet/1": {
     "weekTitle": "Don't Shout Just Yet",
     "sermonSeries": "Trust & Obey",
-    "dayTitle": "I Have Given",
+    "dayTitle": "A Wall You Have Memorized",
     "reference": "Joshua 6:2 ESV",
     "accent": "#937B5A",
     "dayNum": 1,
@@ -23,8 +23,8 @@ export const ogData: Record<string, OgEntry> = {
   "dont-shout-just-yet/2": {
     "weekTitle": "Don't Shout Just Yet",
     "sermonSeries": "Trust & Obey",
-    "dayTitle": "The March That Made No Sense",
-    "reference": "Joshua 6:8 ESV",
+    "dayTitle": "Until It's Time, Walk",
+    "reference": "Joshua 6:14 ESV",
     "accent": "#937B5A",
     "dayNum": 2,
     "publishDate": "2026-06-02"
@@ -32,8 +32,8 @@ export const ogData: Record<string, OgEntry> = {
   "dont-shout-just-yet/3": {
     "weekTitle": "Don't Shout Just Yet",
     "sermonSeries": "Trust & Obey",
-    "dayTitle": "Hold the Shout",
-    "reference": "Joshua 6:10 ESV",
+    "dayTitle": "Until It's Time, Wait",
+    "reference": "1 Samuel 13:13-14 ESV",
     "accent": "#937B5A",
     "dayNum": 3,
     "publishDate": "2026-06-03"
@@ -41,8 +41,8 @@ export const ogData: Record<string, OgEntry> = {
   "dont-shout-just-yet/4": {
     "weekTitle": "Don't Shout Just Yet",
     "sermonSeries": "Trust & Obey",
-    "dayTitle": "The Outsider Who Got In",
-    "reference": "Joshua 6:25 ESV",
+    "dayTitle": "Until It's Time, Worship",
+    "reference": "Joshua 6:4 ESV",
     "accent": "#937B5A",
     "dayNum": 4,
     "publishDate": "2026-06-04"
@@ -50,7 +50,7 @@ export const ogData: Record<string, OgEntry> = {
   "dont-shout-just-yet/5": {
     "weekTitle": "Don't Shout Just Yet",
     "sermonSeries": "Trust & Obey",
-    "dayTitle": "Then You Shall Shout",
+    "dayTitle": "Now You Shout",
     "reference": "Joshua 6:16 ESV",
     "accent": "#937B5A",
     "dayNum": 5,

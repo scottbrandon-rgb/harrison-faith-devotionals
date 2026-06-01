@@ -1,9 +1,9 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 WEEK OVERVIEW
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-This week we are outside Jericho watching a strategy that makes no military sense. Day 1 opens with the most important sentence in the whole battle — before the march begins, God announces the victory in past tense. The city is already given. Day 2 unpacks what the march actually was: not tactics, but trust made visible through liturgy.
+This week we are standing outside Jericho with a wall we have all memorized. Day 1 names it and lands the sentence the whole week rests on: before a single step, God said "I have given." The battle is already won. The victory has not yet been felt. That gap is where most of us live.
 
-Day 3 is where this week lives. The silence command. Six days of not shouting while the city watches and the walls stay standing. Day 4 steps into the rubble and finds the one person who walks out alive — not the most respectable person in the story, but the one who hung a cord in a window. Day 5 is the seventh day. The dawn. The seven circuits. And then the word: shout.
+Then we get the assignment for the gap, three words. Walk, wait, worship. Day 2 is the walk: God wins the war but will not let you sit it out, and nothing visible happens for six straight days. Day 3 is the wait, the hardest one, with three witnesses who could not do it and what it cost Saul, Abraham, and Israel. Day 4 is worship before the breakthrough, the trumpet that means God is present, God keeps His promise, and God is working even when the wall still stands. Day 5 is the shout. The wall falls in a single verse, because the falling was never the point. The trust was.
 
 See you in the devos.
 
@@ -11,17 +11,17 @@ See you in the devos.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 DAILY NOTIFICATIONS (140 characters each)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Day 1 — I Have Given
-God told Joshua "I have given" before the walls moved. What He has spoken over your life is already settled. Devos are live.
+Day 1 — A Wall You Have Memorized
+You have a wall. God said "I have given" before it ever moved. The battle is already won. Devos are live.
 
-Day 2 — The March That Made No Sense
-Israel carried priests and horns. No rams. No ladders. No siege plan. The march itself was the faith. Devos are live.
+Day 2 — Until It's Time, Walk
+Six days of marching. No cracks. No proof. They walked anyway. God wins the war, but He won't let you sit it out. Devos are live.
 
-Day 3 — Hold the Shout
-Six days of silence while an entire city watched from the walls. The hardest command wasn't the march. It was the quiet. Devos are live.
+Day 3 — Until It's Time, Wait
+Saul lost a kingdom over a few minutes he couldn't wait. Impatience is doubt wearing a disguise. Devos are live.
 
-Day 4 — The Outsider Who Got In
-Rahab was the least likely person to walk out of Jericho alive. She is in the genealogy of Jesus. Devos are live.
+Day 4 — Until It's Time, Worship
+We don't worship because the walls fell. We worship until they do. The trumpet sounds before the breakthrough. Devos are live.
 
-Day 5 — Then You Shall Shout
-Seven days of trust. Seven circuits of obedience. Then one word from God. That is the whole week. Devos are live.
+Day 5 — Now You Shout
+The wall falls in a single verse. The falling was never the point. The trust was. And then God says: shout. Devos are live.

@@ -4,7 +4,7 @@ series_title: Don't Shout Just Yet
 sermon_series: Trust & Obey
 day: 5
 publish_date: 2026-06-05
-title: Then You Shall Shout
+title: Now You Shout
 scripture_reference: Joshua 6:16
 scripture_translation: ESV
 scripture_text: "And at the seventh time, when the priests had blown the trumpets, Joshua said to the people, 'Shout, for the LORD has given you the city.'"
@@ -14,34 +14,28 @@ memory_verse_text: "Behold, I am the one who has laid as a foundation in Zion a 
 
 ## Devotional
 
-On the seventh day they rose early.
+We walked. We waited. We worshiped. And then one day the order finally comes. Now. Now you shout.
 
-Not when they were ready. Not when they felt the walls might finally be about to move. "At the dawn of day." (Joshua 6:15 ESV). Seven circuits of the city, which was seven more than any previous day. And then, after seven days of silence, after the march that made no military sense, after obeying a command that looked like nothing was happening while an entire city watched, Joshua turned to the people and said:
+"Shout, for the LORD has given you the city." (Joshua 6:16 ESV). Same words God used on day one, when the walls were still standing. Has given. Past tense, start to finish. So the people shouted, and the wall fell down flat, and they went up into the city, every man straight before him.
 
-"Shout, for the LORD has given you the city." (Joshua 6:16 ESV).
+The narrator tells the collapse in a single verse. After four chapters of crossing and consecration and seven days of circling, the moment the whole story was building toward gets one clause. Almost no attention. Because the falling was never the point. The trust was the point. And when trust has been given fully, the falling is almost a footnote.
 
-Not will give. Has given. The same past tense God used on day one, when the walls were still standing and the march had not yet begun.
+So hear where you are standing. If your wall is still up, keep walking. God is working. If you are forcing it like Saul, grabbing the timeline out of God's hands, let it go. If you are weary and you have started missing the old life, stop. The thing you miss is the slavery He saved you from.
 
-So the people shouted. And the wall fell down flat.
+And if you do not yet know Him, be like Rahab. While the whole city bolted its doors against the God of Israel, she put her faith in Him before the walls ever fell. She hung a scarlet cord in her window and staked her life on a God she had only heard about. When Jericho came down, one household was left standing, and the woman whose name carried her worst reputation walked out alive and into the family line of the Messiah. She believed before the breakthrough. Do that. Do it before the King arrives, because He is coming, and judgment is coming with Him.
 
-The narrator tells the collapse in a single verse. One clause. After chapters of preparation, four chapters of crossing and consecration, seven days of silent circuits, the moment the whole story has been building toward is told in a sentence: "the wall fell down flat, so that the people went up into the city, every man straight before him." (Joshua 6:20 ESV). Almost no attention. The miracle is dispatched in a clause.
+Isaiah said it and this whole week has been built on it: "Whoever believes will not be in haste." (Isaiah 28:16 ESV). The one who trusts a sure foundation does not need the walls to fall on his schedule. The battle is already won. So do not force it, do not quit, and do not shout one second early.
 
-Because the collapse is not the point. The trust is the point. And when trust has been given fully, the falling is almost a footnote.
+But when He says go, shout.
 
-Isaiah said it first: "Behold, I am the one who has laid as a foundation in Zion a stone, a tested stone, a precious cornerstone, a sure foundation: Whoever believes will not be in haste." (Isaiah 28:16 ESV). The one who trusts a sure foundation does not need the walls to fall on his schedule. He does not need proof before the march. He does not need to see before the shout. The foundation holds, and the one standing on it is not in a hurry.
-
-This week we marched toward something that would not fall on your timeline. Whatever your Jericho is, whatever you have been circling in silence and in obedience, God announced the outcome before you took the first step. He has given it. The march was not to earn the gift. The shout is not what breaks the wall. The wall breaks because God said so, and you believed Him enough to walk.
-
-Don't shout just yet. But when He says go — shout.
-
-**Whoever believes will not be in haste. And whoever waited will not be ashamed.**
+**The battle is already won. Walk, wait, worship, and when He says go, shout.**
 
 ## Application
-1. What has God already spoken over your life that you have been slow to trust because the walls are still standing?
-2. What would it look like to close this week not in striving but in worship — to let awe be your response to who God is rather than anxiety about what He has not yet done?
+1. Looking back over this week, which has been hardest for you: the walking, the waiting, or the worship?
+2. What would it look like to keep trusting God this week without forcing the shout, leaving the timing of the breakthrough entirely in His hands?
 
 ## Challenge
-End this week the way it started: on your face. Spend five minutes today not asking God for anything. Just worship Him for who He is in whatever you are walking through. The walls fall when He says so. Your job was never to bring them down. It was to march, and to shout when He said shout.
+Take the wall you named on Day 1. Decide today which posture God is asking of you right now: keep walking, stop forcing, or worship before it falls. Pick the one that fits and commit to it for the rest of the week. The shout belongs to God. Your job is to be found faithful when He gives the word.
 
 ## Prayer
-Lord, seven days of trust. Seven circuits of obedience. And the wall fell because You had already given it before the march began. You are a sure foundation. Whoever believes in You will not be in haste. I believe. I have marched. I am not in a hurry. You are faithful, and I will not be ashamed. In Jesus' name, amen.
+Lord, the battle is already won. You said "I have given" before the march and "the LORD has given" at the shout. I will walk when there is nothing to see, wait when everything in me wants to force it, and worship before the wall moves. And when You finally say go, I will shout with everything I have. Until then, I trust You. In Jesus' name, amen.

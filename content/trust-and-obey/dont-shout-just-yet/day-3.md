@@ -4,42 +4,36 @@ series_title: Don't Shout Just Yet
 sermon_series: Trust & Obey
 day: 3
 publish_date: 2026-06-03
-title: Hold the Shout
-scripture_reference: Joshua 6:10
+title: Until It's Time, Wait
+scripture_reference: 1 Samuel 13:13-14
 scripture_translation: ESV
-scripture_text: "But Joshua commanded the people, 'You shall not shout or make your voice heard, neither shall any word go out of your mouth, until the day I tell you to shout. Then you shall shout.'"
+scripture_text: "And Samuel said to Saul, 'You have done foolishly. You have not kept the command of the LORD your God, with which he commanded you. For then the LORD would have established your kingdom over Israel forever. But now your kingdom shall not continue.'"
 memory_verse_reference: Isaiah 28:16 ESV
 memory_verse_text: "Behold, I am the one who has laid as a foundation in Zion a stone, a tested stone, a precious cornerstone, a sure foundation: Whoever believes will not be in haste."
 ---
 
 ## Devotional
 
-Six days of silence.
+Walking is hard because it is daily, and the wall does not move on day one. Which is why God gives a harder command than walk. Wait.
 
-That may be the hardest thing in this whole account. Not the march. Not the strategy. Not the trust required to keep circling a wall that does not move. The hardest command in Joshua 6 is this: "You shall not shout or make your voice heard, neither shall any word go out of your mouth, until the day I tell you to shout." (Joshua 6:10 ESV).
+Why wait? God answers through Isaiah: "Whoever believes will not be in haste." (Isaiah 28:16 ESV). Whoever believes will not be in a hurry. David says wait for the Lord and be strong. James says be patient like a farmer waiting on his crop. The whole Bible keeps saying the same thing. Faith is not frantic.
 
-One camp of soldiers. One walled city. Six days of circling it without a sound, while the defenders watched from above.
+Take Saul. Samuel told him to wait seven days before the sacrifice. Samuel was running late, the army was scattering, the pressure was rising, and Saul could not take it. So he forced the offering himself, and Samuel told him, "you have not kept the command of the LORD your God... now your kingdom shall not continue." (1 Samuel 13:13-14 ESV). He lost the kingdom over a few minutes.
 
-The word for shout here is the Hebrew rûaʿ, and it carries a double meaning the text is living in on purpose. It is a war cry, the howl of an army charging into battle, and it is a festal acclamation, the shout of praise before the LORD as King. The same word fills the Psalms: "Shout for joy to God, all the earth" (Psalm 66:1 ESV). The shout that will bring Jericho down is simultaneously a battle cry and an act of worship. It is both things at once.
+Saul said, "I forced myself." The Hebrew word there is aphaq. It means to grab the reins, to drive instead of being led. That is a particular sin, and some of us know it well. We are the ones who say, "If I don't take this now, I'll lose it." And every single time we grab control because we could not wait, we trade what we had for what we thought we wanted. Impatience risks your possession for a possibility.
 
-But there is a time for it. And it is not yet.
+Saul is not the only witness. Abraham and Sarah had a promise of a son, and ten years into the land the waiting got to be too much. Faith is living without scheming, and they schemed. They reached for Hagar to help God keep His own promise, and the child of that scheme grew up to torment the child of the promise. When you refuse to wait, you produce a mistake that mocks your miracle.
 
-Something in every one of us wants to shout before the wall moves. We want to announce the victory before we have seen it. We want to give God's timeline a push. We go to God with our word and our plan before we have received His. And the command running through this text like a spine is not yet. Wait for the word I give you.
+And there is Israel in the wilderness, who sat down and wept for the meat of Egypt and said it would have been better to die there. They remembered the meat but forgot the master. They remembered the stew but forgot the slavery. A lack of patience makes you ungrateful for what God gave and homesick for what God saved you from.
 
-Waiting is not weakness. Six days of silence while an entire city watched from the walls was not cowardice. It was the most disciplined act of faith in the account. They held the shout because the shout belonged to God, and He had not yet said go.
-
-Isaiah is writing about the same posture: "Whoever believes will not be in haste." (Isaiah 28:16 ESV). The one who trusts a word from God does not force the moment. Not because the victory is in doubt. Because the victory belongs to God, and He gets to name when it comes. Forcing the shout is not faith. It is impatience dressed up as courage.
-
-Hold the shout. He will tell you when.
-
-**There is a shout coming. It is not yours to decide when.**
+**Impatience is the product of doubt. Patience is the product of trust.**
 
 ## Application
-1. Where are you trying to force a conclusion — forcing a shout — before God has told you it is time?
-2. What is one area of your life where silence and discipline before God would actually be an act of faith rather than inaction?
+1. Where in your life are you "forcing yourself" right now, grabbing the reins because you are afraid that if you do not take it now, you will lose it?
+2. What is one situation you could deliberately leave in God's hands this week instead of forcing a resolution?
 
 ## Challenge
-Before you say anything today about the situation you most want resolved, spend five minutes in silence with God about it. Not a prayer list. Just hold the shout. Let Him name the moment. The word will come. Your job right now is to trust the One who holds it.
+Find the one thing you are most tempted to force this week. The conversation, the decision, the outcome you keep trying to manufacture. Write next to it: "I will wait for the Lord." Then do not force it. Let God set the timing. Forcing it is not courage. It is doubt wearing a disguise.
 
 ## Prayer
-Lord, I keep wanting to shout before You have spoken. I want to force the moment, announce the victory, make things move on my schedule. Teach me the discipline of silence. The victory is Yours to give. The timing is Yours to name. I will hold the shout until You say go. In Jesus' name, amen.
+Lord, I am the one who forces it. I grab the reins because I am afraid of what I will lose if I wait. Forgive me for the things I have schemed into being instead of trusting You to give. Teach me that patience is not weakness, it is trust. I will wait for You, and I will not be in haste. In Jesus' name, amen.

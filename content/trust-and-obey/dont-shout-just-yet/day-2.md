@@ -4,38 +4,36 @@ series_title: Don't Shout Just Yet
 sermon_series: Trust & Obey
 day: 2
 publish_date: 2026-06-02
-title: The March That Made No Sense
-scripture_reference: Joshua 6:8
+title: Until It's Time, Walk
+scripture_reference: Joshua 6:14
 scripture_translation: ESV
-scripture_text: "And just as Joshua had commanded the people, the seven priests bearing the seven trumpets of rams' horns before the LORD went forward, blowing the trumpets, with the ark of the covenant of the LORD following them."
+scripture_text: "And the second day they marched around the city once, and returned into the camp. So they did for six days."
 memory_verse_reference: Isaiah 28:16 ESV
 memory_verse_text: "Behold, I am the one who has laid as a foundation in Zion a stone, a tested stone, a precious cornerstone, a sure foundation: Whoever believes will not be in haste."
 ---
 
 ## Devotional
 
-The strategy God gave Joshua was not a strategy. Not by any military standard.
+Here is the whole military strategy for taking Jericho. Walk around it. That is the plan.
 
-Seven priests with horns. The ark carried in procession. Armed men in front and a rear guard behind. March around the city once. Go back to camp. Do it again tomorrow. Six days of this, then one day of seven circuits, and then a shout.
+Be honest. That is not your idea of war. If God put you in charge of Jericho, you would have built something. Drawn up a plan. Some of us are the kind of people who look at a problem and say, "I'll just handle it." And God says, "Walk." And something in us says, "That's it? Surely there is more for me to do."
 
-No battering rams. No siege ramps. No scaling ladders. No assault on the gates. Ancient armies had all of this technology and had been using it effectively for centuries. Armies built earthen ramps over weeks, mined foundations, starved out garrisons. None of that is in this story. What is here looks like a worship procession, and that is exactly what it was.
+Hear me. The wall in front of you may be a wall only God can bring down. But that does not give you permission to do nothing. At Jericho, God provided and Israel participated. Everybody had a part. Nobody got to stand on the hill and watch the professionals work. God wins the war, but He will not let you sit it out. The shout is His. The walk is yours.
 
-The horns the priests carried are worth understanding. The Hebrew text calls them yôbēl, Jubilee horns, not military signal trumpets. These are the same instruments that sounded at Sinai when God descended on the mountain (Exodus 19:16), the same horn blown on the Day of Atonement to announce the Year of Jubilee when debts were cancelled and the land returned to its rightful owner (Leviticus 25:9). This is not a signal for attack. This is the horn of divine arrival. God's presence, enthroned above the ark, is going out in front of the people, and the horns announce that He is moving.
+And what God asked them to carry was small. Think about the boy in John 6 with five barley loaves and two fish. Barley was the bread of the poor. It was small, it was simple, and in the hands of Jesus it fed five thousand. The Lord uses what you bring. But the obedience to do has to start with the obedience to give. So walk plainly, walk humbly, and walk with whatever you actually have in your hands.
 
-Which means Israel is not taking Jericho. They are following God into what He is already doing. The city was given in verse 2, and the procession in verse 8 is the trust response to a word already spoken.
+Then catch verse 14: "So they did for six days." (Joshua 6:14 ESV). Read right past it and you will miss it. Nothing happened on day one. Nothing on day two. Or three, or four, or five. Six days of walking with no crack in the wall, no sign, no proof. And they did it anyway.
 
-Hebrews 11:30 makes this explicit: "By faith the walls of Jericho fell down, after they had been encircled for seven days." (ESV). The marching was the faith. Not the preparation for faith. Not the warm-up act. The march itself, unrewarded for six days, with nothing moving and nothing visible, was what trusting God looked like in that moment.
+Why? Because of what faith actually is. "Now faith is the assurance of things hoped for, the conviction of things not seen." (Hebrews 11:1 ESV). Day one through day six is the conviction of things not seen. You do not get the shout of day seven if you skip the silence of day one.
 
-For people who need to see results before they believe something is working, that sentence is the whole word.
-
-**The march looked like nothing. To God, it was everything.**
+**God wins the war, but He will not let you sit it out. The shout is His. The walk is yours.**
 
 ## Application
-1. What obedience in your life has been feeling unrewarded — like the walls are not moving after days of doing exactly what God told you to do?
-2. What would it change in how you view your current faithfulness if you knew that the marching itself, not the result, is what God is counting as faith?
+1. Where have you been waiting for God to move while quietly doing nothing, calling your inaction faith?
+2. What is the small thing already in your hands that you could obediently bring to God today, before you see any wall move?
 
 ## Challenge
-Think of one thing you have been doing in obedience to God that has produced no visible result yet. Write it down. Then read Hebrews 11:30 over it out loud. The walls fall in God's time. Your job is not to produce the outcome. Your job is to keep marching.
+Name one act of obedience God has already put in front of you for the situation you are praying about. Not the big breakthrough. The next small step. Do it today, even though it will not knock the wall down by itself. That is the walk. The shout comes later.
 
 ## Prayer
-Lord, I want to see something move before I keep going. But the march is the faith. Give me the grace to walk another circle today, even when the wall looks exactly the same as yesterday. You are going out ahead of me. I trust that. In Jesus' name, amen.
+Lord, I want to handle it myself or sit back and watch. You give me a third option: walk. Show me the small thing in my hands today and give me the obedience to bring it. I will keep marching even when the wall looks exactly like it did yesterday, because faith is the conviction of things not seen. In Jesus' name, amen.

@@ -4,40 +4,36 @@ series_title: Don't Shout Just Yet
 sermon_series: Trust & Obey
 day: 4
 publish_date: 2026-06-04
-title: The Outsider Who Got In
-scripture_reference: Joshua 6:25
+title: Until It's Time, Worship
+scripture_reference: Joshua 6:4
 scripture_translation: ESV
-scripture_text: "But Rahab the prostitute and her father's household and all who belonged to her, Joshua saved alive. And she has lived in Israel to this day, because she hid the messengers whom Joshua sent to spy out Jericho."
+scripture_text: "Seven priests shall bear seven trumpets of rams' horns before the ark. On the seventh day you shall march around the city seven times, and the priests shall blow the trumpets."
 memory_verse_reference: Isaiah 28:16 ESV
 memory_verse_text: "Behold, I am the one who has laid as a foundation in Zion a stone, a tested stone, a precious cornerstone, a sure foundation: Whoever believes will not be in haste."
 ---
 
 ## Devotional
 
-Rahab the prostitute. That is how the text identifies her, and it keeps doing it.
+If you wait with empty hands and an empty mouth, the waiting curdles into despair. So God gave Israel something to do in the silence between the marching and the shout. Blow the trumpet. Worship, practiced in advance of the breakthrough.
 
-She is introduced in chapter 2 as a prostitute. She is spared in chapter 6 as a prostitute. She is honored in Hebrews 11 as a prostitute. And she appears in the genealogy of Jesus in Matthew 1:5 as the mother of Boaz, which means she is in the bloodline of Christ, with her full title attached to her name.
+And in Israel, that sound was never small. Every time a trumpet sounded, it meant one of three things.
 
-The woman whose identity is synonymous with everything Jericho was condemned for is the one who walks out alive.
+It meant presence. At Mount Sinai the people heard a trumpet so loud they trembled, because it meant the living God had come down on the mountain. Fire, smoke, the whole mountain shaking. So when these same people heard trumpets at Jericho, their bodies remembered Sinai. The trumpet meant God is here. And the Psalmist tells you exactly where God sits: "Yet you are holy, enthroned on the praises of Israel." (Psalm 22:3 ESV). He is enthroned on the praise of His people. When you fail to worship, you fail to invite.
 
-The city is devoted to destruction. The walls fall. The city burns. Every living thing inside is given over. And in the middle of the rubble there is one household standing, the one whose window had a scarlet cord hanging from it. Not because she was respectable. Not because she had cleaned her life up. Because she had believed a report about the God of Israel and hung a cord out a window as an act of trust.
+It meant promise. The trumpets sounded over the festivals, and every festival was a reminder that God keeps covenant. He does not fail. He does not forget. We worship before the shout to remind ourselves of every wall He has already brought down. We do not serve a God with a bad track record.
 
-Hebrews 11:31 says she "did not perish with those who were disobedient, because she had given a friendly welcome to the spies." (ESV). By faith. That is the interpretive frame the New Testament puts on her. James 2:25 calls it works: the faith that saved her was visible, it showed up in action. Both are right. She believed, and the belief produced a cord in a window.
+And it meant presiding. Here is the hard thing about Jericho I will not skip. God devotes the city to destruction. The old word is herem, and people recoil and call it cruelty. Listen carefully. This was judgment, the same judgment that fell in the flood and on Sodom, and God said it was coming. Way back in Genesis 15 He told Abraham this exact day was already on the calendar: "the iniquity of the Amorites is not yet complete." (Genesis 15:16 ESV). For four hundred years God waited while the cup filled. What looks to us like God being slow is God being patient. At Jericho the cup was finally full. God was patient and God was just, both on the same day.
 
-The cord was not evidence of her righteousness. It was a mark of her trust. God was not counting her past. He was honoring what she staked her life on.
+Now count the days. Six days of marching. On the seventh, the work is finished and the city falls. Where have you heard that before? God worked six days and on the seventh He rested, and the rest of God is not a nap. It is a King sitting down on His throne to rule. So if your walls have not come down yet, God is not stalling. God is working. He is on day three, day four, day five of your situation, and when He is finished He will take His seat and reign over the Jericho of your life.
 
-In a city of people who hardened themselves against the God of Israel, "none went out, and none came in," one person opened a window. That was enough. Not for a second chance. Not eventually. For salvation and for a place in the line of the Messiah.
-
-If you have been thinking you are too far outside for God to reach, Rahab's name in Matthew 1:5 is the answer to that thought.
-
-**The least likely person in the story is the one who goes free. That is not an accident.**
+**We do not worship because the walls fell. We worship until they do.**
 
 ## Application
-1. Is there something about your past or your present that makes you feel too far outside to be used or reached by God? Where does Rahab's story land on that specifically?
-2. Who is one person in your life who seems unlikely, on the outside, far from God, that you have been writing off? What would it mean to see them the way God saw Rahab?
+1. When the wall has not moved, does your mouth go quiet and bitter, or does it fill with worship? Which has been true of you lately?
+2. What is one way you could worship today, before the breakthrough, as an act of trust rather than a reaction to relief?
 
 ## Challenge
-Read Joshua 6:22-25 today and then Matthew 1:5 right after it. Write one sentence about what it means that Rahab, by name and with her full title, is in the genealogy of Jesus. Let the weight of that land before you move on to the next thing.
+Worship before the wall moves. Today, out loud, thank God for one wall He has already brought down in your past. Rehearse His track record. Then worship Him for the wall still standing, before it falls. That trumpet is not a reward for the victory. It is the sound of faith inviting the King.
 
 ## Prayer
-Lord, I have spent time thinking I need to clean myself up before You will use me. Rahab was used as she was. She hung a cord. You honored it. I come to You with whatever cord I have. I believe Your report. Mark me and bring me in. In Jesus' name, amen.
+Lord, I have waited with a closed mouth and a heavy heart. Teach me to blow the trumpet before the wall falls. You are enthroned on the praises of Your people, so I worship now, before I see it, because I trust that You are working and not stalling. Come and reign over the Jericho in front of me. In Jesus' name, amen.
