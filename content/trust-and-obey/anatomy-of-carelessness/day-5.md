@@ -3,7 +3,7 @@ series: anatomy-of-carelessness
 series_title: The Anatomy of Carelessness
 sermon_series: Trust & Obey
 day: 5
-publish_date: 2026-06-12
+publish_date: 2026-06-19
 title: Buried in the Tent
 scripture_reference: Joshua 7:13
 scripture_translation: ESV

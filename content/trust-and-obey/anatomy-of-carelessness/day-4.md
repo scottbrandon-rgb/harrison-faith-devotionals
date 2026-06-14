@@ -3,7 +3,7 @@ series: anatomy-of-carelessness
 series_title: The Anatomy of Carelessness
 sermon_series: Trust & Obey
 day: 4
-publish_date: 2026-06-11
+publish_date: 2026-06-18
 title: Prayer After the Loss
 scripture_reference: Joshua 7:7
 scripture_translation: ESV

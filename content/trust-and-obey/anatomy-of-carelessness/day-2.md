@@ -3,7 +3,7 @@ series: anatomy-of-carelessness
 series_title: The Anatomy of Carelessness
 sermon_series: Trust & Obey
 day: 2
-publish_date: 2026-06-09
+publish_date: 2026-06-16
 title: The Morning After the Win
 scripture_reference: Joshua 7:3
 scripture_translation: ESV
