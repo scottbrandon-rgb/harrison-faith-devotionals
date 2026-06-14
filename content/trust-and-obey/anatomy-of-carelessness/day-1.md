@@ -3,13 +3,13 @@ series: anatomy-of-carelessness
 series_title: The Anatomy of Carelessness
 sermon_series: Trust & Obey
 day: 1
-publish_date: 2026-06-08
+publish_date: 2026-06-15
 title: The Only Thing You Bring
 scripture_reference: Joshua 7:1
 scripture_translation: ESV
-scripture_text: "But the people of Israel broke faith in regard to the devoted things, for Achan the son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, took some of the devoted things. And the anger of the LORD burned against the people of Israel."
+scripture_text: But the people of Israel broke faith in regard to the devoted things, for Achan the son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, took some of the devoted things. And the anger of the LORD burned against the people of Israel.
 memory_verse_reference: Psalm 50:15 ESV
-memory_verse_text: "Call upon me in the day of trouble; I will deliver you, and you shall glorify me."
+memory_verse_text: Call upon me in the day of trouble; I will deliver you, and you shall glorify me.
 ---
 
 ## Devotional
