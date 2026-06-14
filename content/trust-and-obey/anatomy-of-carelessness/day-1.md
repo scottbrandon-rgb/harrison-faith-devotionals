@@ -14,7 +14,7 @@ memory_verse_text: "Call upon me in the day of trouble; I will deliver you, and 
 
 ## Devotional
 
-The first word of Joshua 7 stopped me before I could reach the second. One small word, and the whole story bends around it. But.
+The first word of Joshua 7 stopped me before I could reach the second. But.
 
 A but always shrinks whatever came before it. I love you, but. I am healthy, but. You feel the floor tilt, do you not? So watch what gets smaller here. "But the people of Israel broke faith in regard to the devoted things" (Joshua 7:1). The walls of Jericho had just fallen. The largest fortified city in the whole conquest was theirs. The very next stroke of the writer's pen is a negation.
 
