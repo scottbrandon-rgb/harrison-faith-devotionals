@@ -3,7 +3,7 @@ series: anatomy-of-carelessness
 series_title: The Anatomy of Carelessness
 sermon_series: Trust & Obey
 day: 1
-publish_date: 2026-06-08
+publish_date: 2026-06-15
 title: The Only Thing You Bring
 scripture_reference: Joshua 7:1
 scripture_translation: ESV

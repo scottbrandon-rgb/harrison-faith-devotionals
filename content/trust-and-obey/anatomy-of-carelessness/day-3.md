@@ -3,7 +3,7 @@ series: anatomy-of-carelessness
 series_title: The Anatomy of Carelessness
 sermon_series: Trust & Obey
 day: 3
-publish_date: 2026-06-10
+publish_date: 2026-06-17
 title: Writing Your Own Orders
 scripture_reference: Numbers 14:44
 scripture_translation: ESV
