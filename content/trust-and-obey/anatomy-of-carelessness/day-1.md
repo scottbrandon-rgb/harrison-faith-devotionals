@@ -13,9 +13,6 @@ memory_verse_text: Call upon me in the day of trouble; I will deliver you, and y
 ---
 
 ## Devotional
-
-The first word of Joshua 7 stopped me before I could reach the second. But.
-
 A but always shrinks whatever came before it. I love you, but. I am healthy, but. You feel the floor tilt, do you not? So watch what gets smaller here. "But the people of Israel broke faith in regard to the devoted things" (Joshua 7:1). The walls of Jericho had just fallen. The largest fortified city in the whole conquest was theirs. The very next stroke of the writer's pen is a negation.
 
 That phrase, broke faith, is a single Hebrew word, ma'al. It carries the idea of treachery, of trespassing against something holy, of taking what was set apart for God and treating it as common. One man did exactly that. Achan took some of the devoted things and buried them in the floor of his tent (Joshua 7:21). A private sin, hidden in the dirt where it could not be seen.
