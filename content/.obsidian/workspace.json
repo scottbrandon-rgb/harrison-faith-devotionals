@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trust-and-obey/anatomy-of-carelessness/day-2.md",
+                "file": "trust-and-obey/anatomy-of-carelessness/day-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "day-2"
+              "title": "day-3"
             }
           }
         ]
@@ -180,9 +180,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "20a860666a26c45d",
+  "active": "32a12a72880c8819",
   "lastOpenFiles": [
-    "trust-and-obey/anatomy-of-carelessness/day-1.md",
-    "trust-and-obey/anatomy-of-carelessness/day-2.md"
+    "trust-and-obey/anatomy-of-carelessness/day-2.md",
+    "trust-and-obey/anatomy-of-carelessness/day-1.md"
   ]
 }
