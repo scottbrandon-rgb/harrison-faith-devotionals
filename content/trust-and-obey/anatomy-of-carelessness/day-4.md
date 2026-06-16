@@ -14,17 +14,27 @@ memory_verse_text: "Call upon me in the day of trouble; I will deliver you, and 
 
 ## Devotional
 
-Sunday morning I woke up, and the moment I began to pray I heard the Lord say, do not drink coffee today. I thought, what? Get behind me, Satan. What do You mean, no coffee? So I ignored it. Then, right as I was heading out the door, I grabbed my cup, turned to leave, and clipped my elbow on the door frame. The whole thing went straight down the front of the shirt I had hanging up for Sunday morning.
+Sunday morning I woke up, and the moment I began to pray I heard the Lord say, do not drink coffee today. I thought, what? Get behind me, Satan. What do You mean, no coffee? So I ignored it. Then, right as I was heading out the door, I grabbed my cup, turned to leave, and clipped my elbow on the door frame. The whole thing went straight down the front of my shirt. Good grief!
 
-Here is what I cannot shake. God told me before I needed to know it. I ignored Him, because it did not line up with what I thought I needed. That is the whole problem with prayerlessness in one spilled cup. Why do we not pray before we need God? Maybe because when He speaks ahead of the trouble, we wave Him off if His word does not match our plan.
+Here is what I'm realizing. God told me before I needed to know it. I ignored Him, because it did not line up with what I thought I needed. 
 
-Prayerlessness is the child of presumption. Follow the family line. Pride trusts in self, presumption says I can handle it myself, and prayerlessness asks, then what do I need to pray about? The lack of prayer is the evidence of pride. If your confidence is in you, prayer starts to feel optional, and when we stop praying we have already stopped believing, because faith is the engine of every prayer. Jesus said whatever you ask in prayer you will receive, if you have faith (Matthew 21:22). James said the prayer of faith will save the one who is sick (James 5:15), and then he told us why our hands stay empty. You have not because you ask not (James 4:2).
+Let me say it again for those who haven't had their coffee yet.
 
-Or maybe you do pray. Maybe you pray just like Joshua does after the loss. "Alas, O Lord God, why have you brought this people over the Jordan at all, to give us into the hands of the Amorites, to destroy us?" (Joshua 7:7). Do you see the problem? Joshua's prayer shows up after the defeat, and the prayer that comes after the loss almost always puts God on trial. Why did You bring us. Why did You let this happen. Every line walks up to a why and sets God in the defendant's chair.
+God told me before I needed to know it and I ignored Him. Why? Because it did not line up with what I thought I needed.
 
-So let me ask us some whys of our own. When is the last time you spent more time with God than you spent with WebMD? Are we praying, or just managing the diagnosis? With our lost loved ones, are we fighting for them, or only arguing with them? In our marriages, are we obeying God, or proving our point? Have we prayed as hard as we have argued?
+That is the whole problem with prayerlessness in one spilled cup. Why do we not pray before we need God? Maybe because when He speaks ahead of the trouble, we wave Him off if His word does not match our plan.
 
-God had nothing to do with the loss at Ai. Joshua frames it as if He did, yet our loss never means He left. Here is the way home. "Call upon me in the day of trouble; I will deliver you, and you shall glorify me" (Psalm 50:15). We call, He comes, we crown Him. So why not call before the wall ever falls on us? There may already be a devoted thing buried in the floor that we have never once dealt with.
+Prayerlessness is the child of presumption. Follow the family line. Pride trusts in self, presumption says I can handle it myself, and prayerlessness asks, then what do I need to pray about? The lack of prayer is the evidence of pride. If your confidence is in you, prayer starts to feel optional, and when we stop praying we have already stopped believing, because faith is the engine of every prayer. 
+
+Jesus said whatever you ask in prayer you will receive, if you have faith (Matthew 21:22). James said the prayer of faith will save the one who is sick (James 5:15), and then he told us why our hands stay empty. You have not because you ask not (James 4:2).
+
+Or maybe you do pray. Maybe you pray just like Joshua does after the loss. "Alas, O Lord God, why have you brought this people over the Jordan at all, to give us into the hands of the Amorites, to destroy us?" (Joshua 7:7). Do you see the problem? Joshua's prayer shows up after the defeat, and the prayer that comes after the loss almost always puts God on trial. Why did You bring us? Why did You let this happen? Every line walks up to a why and sets God in the defendant's chair. So let me ask us some whys of our own. 
+
+- When is the last time you spent more time with God than you spent with WebMD? Are we praying, or just managing the diagnosis? 
+- With our lost loved ones, are we fighting for them, or only arguing with them? 
+- In our marriages, are we obeying God, or proving our point? Have we prayed as hard as we have argued?
+
+God had nothing to do with the loss at Ai. Joshua frames it as if He did, yet our loss never means He left. Here is the way home. "Call upon me in the day of trouble; I will deliver you, and you shall glorify me" (Psalm 50:15). We call, He comes, we crown Him. So why not call before the wall ever falls on us?
 
 ## Application
 
