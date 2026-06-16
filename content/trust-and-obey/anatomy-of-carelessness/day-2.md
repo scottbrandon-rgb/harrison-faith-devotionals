@@ -13,7 +13,6 @@ memory_verse_text: "Call upon me in the day of trouble; I will deliver you, and 
 ---
 
 ## Devotional
-
 This summer when I asked God what we should do on Wednesday nights, because I could not even find teachers for the classes. His whole answer was one word. Pray. Just pray. So I argued with Him. I said, Lord, if all we do is pray, we will lose the momentum we spent years building. He answered with something I have not been able to shake since. "It is a good thing it was not you who built that momentum." 
 
 Because whatever you build in your own strength, you will have to maintain in your own strength.
