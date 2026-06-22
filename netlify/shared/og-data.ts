@@ -11,6 +11,96 @@ export type OgEntry = {
 };
 
 export const ogData: Record<string, OgEntry> = {
+  "conceal-or-confess/1": {
+    "weekTitle": "Conceal or Confess",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The First Look",
+    "reference": "Joshua 7:21 ESV",
+    "accent": "#937B5A",
+    "dayNum": 1,
+    "publishDate": "2026-06-22"
+  },
+  "conceal-or-confess/2": {
+    "weekTitle": "Conceal or Confess",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The Price Tag",
+    "reference": "James 1:14 ESV",
+    "accent": "#937B5A",
+    "dayNum": 2,
+    "publishDate": "2026-06-23"
+  },
+  "conceal-or-confess/3": {
+    "weekTitle": "Conceal or Confess",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The Reach",
+    "reference": "James 1:15 ESV",
+    "accent": "#937B5A",
+    "dayNum": 3,
+    "publishDate": "2026-06-24"
+  },
+  "conceal-or-confess/4": {
+    "weekTitle": "Conceal or Confess",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Mercy Narrows In",
+    "reference": "Lamentations 3:22-23 ESV",
+    "accent": "#937B5A",
+    "dayNum": 4,
+    "publishDate": "2026-06-25"
+  },
+  "conceal-or-confess/5": {
+    "weekTitle": "Conceal or Confess",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The Grave Becomes a Door",
+    "reference": "Hosea 2:15 ESV",
+    "accent": "#937B5A",
+    "dayNum": 5,
+    "publishDate": "2026-06-26"
+  },
+  "anatomy-of-carelessness/1": {
+    "weekTitle": "The Anatomy of Carelessness",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The Only Thing You Bring",
+    "reference": "Joshua 7:1 ESV",
+    "accent": "#937B5A",
+    "dayNum": 1,
+    "publishDate": "2026-06-15"
+  },
+  "anatomy-of-carelessness/2": {
+    "weekTitle": "The Anatomy of Carelessness",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "The Morning After the Win",
+    "reference": "Joshua 7:3 ESV",
+    "accent": "#937B5A",
+    "dayNum": 2,
+    "publishDate": "2026-06-16"
+  },
+  "anatomy-of-carelessness/3": {
+    "weekTitle": "The Anatomy of Carelessness",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Writing Your Own Orders",
+    "reference": "Numbers 14:44 ESV",
+    "accent": "#937B5A",
+    "dayNum": 3,
+    "publishDate": "2026-06-17"
+  },
+  "anatomy-of-carelessness/4": {
+    "weekTitle": "The Anatomy of Carelessness",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Prayer After the Loss",
+    "reference": "Joshua 7:7 ESV",
+    "accent": "#937B5A",
+    "dayNum": 4,
+    "publishDate": "2026-06-18"
+  },
+  "anatomy-of-carelessness/5": {
+    "weekTitle": "The Anatomy of Carelessness",
+    "sermonSeries": "Trust & Obey",
+    "dayTitle": "Buried in the Tent",
+    "reference": "Joshua 7:13 ESV",
+    "accent": "#937B5A",
+    "dayNum": 5,
+    "publishDate": "2026-06-19"
+  },
   "dont-shout-just-yet/1": {
     "weekTitle": "Don't Shout Just Yet",
     "sermonSeries": "Trust & Obey",
