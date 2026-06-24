@@ -14,7 +14,7 @@ memory_verse_text: "The steadfast love of the LORD never ceases; his mercies nev
 
 ## Devotional
 
-The slowest thing about God is the kindest thing about Him, and I have mistaken it for His absence more times than I want to admit.
+The slowest thing about God is the kindest thing about Him, and I have mistaken it for His absence more times than I want to admit or...a lack of care.
 
 When God told Joshua that someone in the camp had sinned, He already knew the name. He could have spoken it from heaven and ended the whole matter in one sentence. Instead He set up a search that crawled, tribe by tribe, then clan by clan, then family by family, then man by man, until the ring finally closed on one person (Joshua 7:16-18).
 
