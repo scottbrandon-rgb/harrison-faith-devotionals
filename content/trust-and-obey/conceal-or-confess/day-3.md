@@ -18,16 +18,18 @@ Achan's third step on the road of disobedience moves from he saw, to he coveted,
 
 That is the whole of it. We are all obeying someone's word every minute we are awake. The only question is whose. When Achan's fingers closed around that gold, he was not throwing off all authority at once. He was simply choosing his own word over God's, the way every one of us does the second we decide our judgment knows better than the command.
 
-James finishes the road in a single breath: desire when it has conceived gives birth to sin, and sin when it is fully grown brings forth death (James 1:15). The look gets the wanting pregnant, and the wanting does not stay small. It conceives, it grows up, and it gives birth to exactly the thing we swore it never would.
+James said it like this,"desire when it has conceived gives birth to sin, and sin when it is fully grown brings forth death" (James 1:15). The look gets the wanting pregnant, and the wanting does not stay small. It conceives, it grows up, and it gives birth to exactly the thing we swore it never would. Oh how we've been there more than once.
 
-But here is the part that should make a parent go still. Achan took that gold and buried it in the earth inside his tent (Joshua 7:21), in the very ground his sons and daughters slept on. He hid his sin in the one place his children could not help but live on top of.
+But here is the part that should make a parent think and pray through. Achan took that gold and buried it in the earth inside his tent (Joshua 7:21), in the very ground his sons and daughters slept on. He hid his sin in the one place his children could not help but live on top of. He hid what was devoted to destruction in the place his kids called safe. Home.
 
-Your actions belong to you. But your life belongs to others. You do not get to decide whether your reaching leaves a mark on the people behind you. You only get to decide what kind of mark it is. Your children are watching the scale. They learn what a person treasures by watching what they reach for, and they will not remember every sermon you carried them to. They will remember what you wanted.
+Your actions belong to you. But your life belongs to others. The whole of mankind is still paying for the sin of Adam. Ask king David who paid the price for his sin of counting his army? Your sin may satisfy you in the immediate, but it does so at the cost of those around you in the long term. You are not the only one who pays for your sin.
+
+You decide if you sin, but you do not get to decide whether your reaching for gold, silver, or a cloak, leaves an impact on the people behind you. Your children are watching the scale. They learn what a person treasures by watching what they reach for, and they will not remember every sermon I preached to them or every sermon you carried them to. They will remember what you wanted.
 
 So let me ask you the question I have to ask myself. What are your hands reaching for when you are sure no one is watching? And who is standing close enough to learn from the reach, even when you are certain you have hidden it well?
 
-Because nothing buried stays buried. Achan packed the dirt down tight and went to sleep like the matter was closed. It was not closed. It was only covered. And that is the exact moment the God who misses nothing began walking toward the camp, slowly, one ring at a time, giving a guilty man far more room to dig it back up than he had any right to expect.
-
+Because nothing buried stays buried and just because it's hidden doesn't mean it's a secret. Achan packed the dirt down tight and went to sleep like the matter was closed. It was not closed. It was only covered. And that is the exact moment the God who misses nothing began walking toward the camp, slowly, one ring at a time, giving a guilty man far more room to dig it back up than he had any right to expect. Oh that Achan would have heeded these words: 
+"Whoever conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain mercy." (Proverbs 28:13)
 ## Application
 
 1. Where does your life say something different from your mouth, and who is close enough to be learning from the gap?
