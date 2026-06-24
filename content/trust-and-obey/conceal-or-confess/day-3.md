@@ -14,9 +14,7 @@ memory_verse_text: "The steadfast love of the LORD never ceases; his mercies nev
 
 ## Devotional
 
-I have said one true thing with my mouth and a louder thing with my hands in the very same hour, and I knew which one the people near me actually believed.
-
-That is the weight sitting under the third step of Achan's road. He saw, he coveted, and then he took (Joshua 7:21). Taking is where the private verdict of the heart becomes a public act. The hand finally does what the eye and the heart already agreed on, and in that reach Achan says the one thing every act of disobedience says: my word about this matters more than God's word about this.
+Achan's third step on the road of disobedience moves from he saw, to he coveted, and then he took (Joshua 7:21). Taking is where the private verdict of the heart becomes a public act. The hand finally does what the eye and the heart already agreed on, and in that reach Achan says the one thing every act of disobedience says: my word about this matters more than God's word about this.
 
 That is the whole of it. We are all obeying someone's word every minute we are awake. The only question is whose. When Achan's fingers closed around that gold, he was not throwing off all authority at once. He was simply choosing his own word over God's, the way every one of us does the second we decide our judgment knows better than the command.
 
