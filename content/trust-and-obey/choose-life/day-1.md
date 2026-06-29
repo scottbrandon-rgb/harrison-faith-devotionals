@@ -22,7 +22,7 @@ Now look at what God lets them keep. At Jericho, every piece of plunder was devo
 
 Here is what I need you to know. Your battle was never just yours. Joshua's fight was the next link in a promise God made to Abraham generations before (Genesis 12:2), a promise rolling toward a cross and an empty tomb. You are not a soldier swinging away in a field nobody can see. You belong to a whole, to a larger, a much larger context. You need to understand that your obedience strengthens the body, and your hiding wounds it.
 
-So the question on the morning after your worst defeat is not whether God is finished with you. Isn't He is already speaking? The real question is whether you will trust the voice that is working to fulfill the larger plan through you and not just in you.  The victory is granted, the battle will be won and you just need to decide whether or not you will allow defeat to hinder what is unstoppable.
+So the question on the morning after your worst defeat is not whether God is finished with you. Isn't He already speaking? The real question is whether you will trust the voice that is working to fulfill the larger plan through you and not just in you.  The victory is granted, the battle will be won and you just need to decide whether or not you will allow defeat to hinder what is unstoppable.
 
 Tomorrow we watch what Joshua does with a win that big. You would expect him to charge the next city. Instead he stops, and he builds something, and he remembers.
 

@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2023335eccab475f",
@@ -183,6 +182,8 @@
   },
   "active": "20a860666a26c45d",
   "lastOpenFiles": [
+    "trust-and-obey/choose-life/day-2.md",
+    "trust-and-obey/choose-life/day-1.md",
     "trust-and-obey/conceal-or-confess/day-5.md",
     "trust-and-obey/conceal-or-confess/day-4.md",
     "trust-and-obey/conceal-or-confess/day-3.md",
