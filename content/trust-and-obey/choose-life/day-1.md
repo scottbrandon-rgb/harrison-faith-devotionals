@@ -14,7 +14,7 @@ memory_verse_text: "I call heaven and earth to witness against you today, that I
 
 ## Devotional
 
-Israel knew that silence. They had just been routed at a small town called Ai, a name that means the ruin, and the ruin had ruined them (Joshua 7). One man, Achan, had hidden stolen treasure under his tent, and his secret sin cost the whole camp the battle. Before that first failed assault, God had said nothing. No command, no promise, just a nation marching on its own confidence. Then the sin was dealt with. Into the quiet the voice comes back: "Do not fear and do not be dismayed... See, I have given into your hand the king of Ai" (Joshua 8:1).
+Israel had just been routed at a small town called Ai, a name that means the ruin, and the ruin had ruined them (Joshua 7). One man, Achan, had hidden stolen treasure under his tent, and his secret sin cost the whole camp the battle. Before that first failed assault, God had said nothing. No command, no promise, just a nation marching on its own confidence. Then the sin was dealt with. Into the quiet the voice comes back: "Do not fear and do not be dismayed... See, I have given into your hand the king of Ai" (Joshua 8:1).
 
 Read that slowly. Given. Past tense. He had handed them the win before a single sword left its sheath, given it before they marched, given it before they earned one inch of it. A father does not hand his son the keys after the boy proves he can drive. He hands them over first, and then teaches him to drive. The trust comes first, and the trust is what makes the lesson possible.
 
