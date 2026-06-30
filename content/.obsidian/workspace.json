@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trust-and-obey/choose-life/day-1.md",
+                "file": "trust-and-obey/choose-life/day-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "day-1"
+              "title": "day-2"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2023335eccab475f",
@@ -182,8 +183,8 @@
   },
   "active": "20a860666a26c45d",
   "lastOpenFiles": [
-    "trust-and-obey/choose-life/day-2.md",
     "trust-and-obey/choose-life/day-1.md",
+    "trust-and-obey/choose-life/day-2.md",
     "trust-and-obey/conceal-or-confess/day-5.md",
     "trust-and-obey/conceal-or-confess/day-4.md",
     "trust-and-obey/conceal-or-confess/day-3.md",
