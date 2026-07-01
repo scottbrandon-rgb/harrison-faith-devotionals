@@ -14,19 +14,22 @@ memory_verse_text: "I call heaven and earth to witness against you today, that I
 
 ## Devotional
 
-If you stood me on that hillside with half the nation around me, I already know exactly what I would do. When the priests read out the blessing and the people shouted their amen, I would make certain mine came out louder than the man beside me. I am not sure that instinct is holy. I think it is just pride wearing a choir robe.
+If you stood me on that hillside with half the nation around me, I already know exactly what I would do. When the priests read out the blessing and the people shouted their amen, I would've been shouting the loudest. Because I'm holy? No, because I was raised in the art of the woo pig sooie. At least that's how this whole scene plays out in my head when I read Joshua 8.
 
-That is the scene Joshua sets up in the valley. Half the tribes climb Mount Gerizim, the mountain of blessing. Half climb Mount Ebal, the mountain of cursing. Down in the basin between them, with the law open, Joshua "read all the words of the law, the blessing and the curse" (Joshua 8:34). He read it to one side, then to the other. Blessing for obedience, curse for rebellion. Every soul in that valley, down to the smallest child clinging to a parent's leg, heard the whole thing echo off the rock.
+This is the scene Joshua sets up in the valley. Half the tribes climb Mount Gerizim, the mountain of blessing. Half climb Mount Ebal, the mountain of cursing. Down in the basin between them, with the law open, Joshua "read all the words of the law, the blessing and the curse" (Joshua 8:34). He read it to one side, then to the other. Blessing for obedience, curse for rebellion. Every single soul in that valley heard the whole thing echo off the rock.
 
-Look at those two mountains and you see something true about God. A holy God has only two things He can do with sin. He must pardon it, or He must punish it. He cannot file it away. He cannot pretend He never saw it. Real love deals with the thing that is killing the one it loves, and our sin is killing us, so God refuses to leave it alone.
+But when you look at those two mountains, you see something true about God. A holy God has only two things He can do with sin. He must pardon it, or He must punish it. Those are two different aspects of His nature. When it come to sin, He cannot file it away nor can He pretend He never saw it. He cannot because He's Holy and He cannot because He is love. Real love deals with the thing that is killing the one it loves, and our sin is killing us. Actually, we're dead because of it. So God refuses to leave it alone.
 
-Hear me, because a heart that drowns in condemnation needs this next part most. The only reason any of us stands on the blessing side of that valley is mercy. We stand there for one reason only: God chose to show us mercy instead of the judgment our sin had coming. Strip the mercy away and every last one of us is standing on Ebal under the curse.
+Hear me, because those who constantly struggle with condemnation needs this next part most. The only reason any of us stands on the blessing side of that valley is mercy. We stand there for one reason only: God chose to show us mercy instead of the judgment our sin had coming. Strip the mercy away and every last one of us is standing on Ebal under the curse. Mercy moved us from Mt. Ebal and grace placed us on Mt. Gerizim. Com'on somebody!!!
 
-God does not stop at mercy, though, because mercy by itself would leave Him unjust, and sin still has to be answered. So Paul tells us the most staggering thing about how God settled it. At the cross God acted "so that he might be just and the justifier of the one who has faith in Jesus" (Romans 3:26). He was just, punishing sin in full. He was the justifier, clearing the guilty in full. The Judge and the One who sets you free turned out to be the same God on the same hill.
+One of my favorite verses in the bible points to a moment like this. 
+"But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved— and raised us up with him and seated us with him in the heavenly places in Christ Jesus," (Ephesians 2:4–6)
 
-That is the choice the valley puts in front of you. The real question underneath it is which God you are pursuing. Are you chasing the God who pardons, or running headlong toward the one who punishes?
+God does not stop at mercy, because mercy by itself would leave Him unjust, and sin still has to be answered. So Paul tells us the most staggering thing about how God settled it. At the cross God acted "so that he might be just and the justifier of the one who has faith in Jesus" (Romans 3:26). He was just, punishing sin in full. He was the justifier, clearing the guilty in full. The Judge and the One who sets you free is the SAME God on the SAME hill!
 
-There is a way that question gets answered for good. It got answered on a mountain of cursing, at an altar, with a body hanging on a tree. Tomorrow we walk up to that tree.
+That is the choice the valley puts in front of you. The real question being asked is which aspect of God you are pursuing. Are you chasing the One who pardons, or running headlong toward the One who punishes? Are you surrendering to an altar that removes you from the mountain of cursing? A mountain devoid of life and habitat where no thing can grow? Or are you ignoring the altar that calls for your surrender and the sin you seek to manage on your own?
+
+There is a way our questions get answered and answered for good. They got answered on a mountain of cursing, at an altar, with a body hanging on a tree, and tomorrow we'll take a look at that tree.
 
 ## Application
 
