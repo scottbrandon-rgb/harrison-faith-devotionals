@@ -28,6 +28,7 @@ dist-ssr
 
 # Auto-generated from markdown content — do not commit
 src/data.ts
+netlify/shared/og-data.ts
 
 # Parcel cache and bundle output
 .parcel-cache
