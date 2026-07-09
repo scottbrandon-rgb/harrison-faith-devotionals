@@ -148,6 +148,7 @@ const SERIES_CONFIG = {
   "Lost Sheep":            { order: 8, accent: "#4F00EE", light: "#F7E0FD", text: "#121212" },
   "Trust & Obey":          { order: 9, accent: "#937B5A", light: "#EFEBE6", text: "#584936" },
   "The Shepherd's Heart":  { order: 10, accent: "#6B3D2E", light: "#F2EAE6", text: "#4a2a1e" },
+  "Let Freedom Ring":      { order: 11, accent: "#A33D2E", light: "#F5E9E6", text: "#5c231a" },
 };
 
 // ─── Generate data.ts ─────────────────────────────────────────────────────────
