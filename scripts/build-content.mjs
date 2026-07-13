@@ -149,6 +149,7 @@ const SERIES_CONFIG = {
   "Trust & Obey":          { order: 9, accent: "#937B5A", light: "#EFEBE6", text: "#584936" },
   "The Shepherd's Heart":  { order: 10, accent: "#6B3D2E", light: "#F2EAE6", text: "#4a2a1e" },
   "Let Freedom Ring":      { order: 11, accent: "#A33D2E", light: "#F5E9E6", text: "#5c231a" },
+  "Living on Empty":       { order: 12, accent: "#CE1B22", light: "#F4EBEB", text: "#1A1A1A" },
 };
 
 // ─── Generate data.ts ─────────────────────────────────────────────────────────
