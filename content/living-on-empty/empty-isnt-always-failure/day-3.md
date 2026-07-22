@@ -32,7 +32,7 @@ So lean in, because you might really need to hear it. Some of you are empty righ
 
 ## Challenge
 
-Name the resistance you are in right now, the pressure you keep asking God to take away. Then ask a different prayer today. Ask Him what this resistance is teaching you to obey, and what assignment it might be qualifying you for. Write down what comes, even if it is only a guess, and hold it with open hands.
+Name the resistance you are in right now, the pressure you keep asking God to take away. Then ask a different prayer today and ask Him what this resistance is teaching you to obey, and what assignment it might be qualifying you for. Write down what comes, even if it is only a guess, and receive it in obedience.
 
 ## Prayer
 
