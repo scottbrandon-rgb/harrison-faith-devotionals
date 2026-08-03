@@ -15,7 +15,7 @@ Before doing anything else, read all three reference files in full.
 These are non-negotiable inputs to every step that follows.
 
 **1a. Load context questions:**
-Read: `skills/devotional/context-questions.md`
+Read: `context-questions.md` (in this skill's own folder)
 
 **1b. Load voice guide (fetch live from GitHub):**
 Run both commands and read the full output of each:
@@ -24,12 +24,12 @@ gh api repos/scottbrandon-rgb/voice-dna/contents/preaching-voice.md \
   --jq '.content' | base64 -d
 ```
 ```bash
-gh api repos/scottbrandon-rgb/voice-dna/contents/Anti-AI-Writing.md \
+gh api repos/scottbrandon-rgb/voice-dna/contents/anti-ai-writing-style-v2.md \
   --jq '.content' | base64 -d
 ```
 
 **1c. Load output structure:**
-Read: `skills/devotional/output-and-structure.md`
+Read: `output-and-structure.md` (in this skill's own folder)
 
 Do not proceed until all three are loaded. Confirm internally that you have:
 - The intake questions and per-day variation guidance
