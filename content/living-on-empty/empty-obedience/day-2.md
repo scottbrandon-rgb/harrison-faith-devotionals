@@ -12,23 +12,28 @@ scripture_text: "But it displeased Jonah exceedingly, and he was angry. And he p
 
 ## Devotional
 
-I have quoted Exodus 34:6 over people in hospital rooms. Gracious, merciful, slow to anger, abounding in steadfast love. It is the sentence I reach for when somebody has run out of reasons to hope. So it stopped me cold the first time I saw what Jonah does with it.
+Gracious, merciful, slow to anger, abounding in steadfast love. It is the sentence I reach for when somebody has run out of reasons to hope or fails to remember who God is. So when Jonah uses it is to describe his complaint to God, it made me stop and think about the real issue going on in his heart.
 
-Read chapter 4 slowly. "But it displeased Jonah exceedingly, and he was angry" (Jonah 4:1). The Hebrew is blunter than our English. It reads, it was evil to Jonah, a great evil. Stop right there and ask what was evil. The revival was evil to him. The mercy was evil to him. And in the very next breath he tells you what he found so offensive, "for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster" (Jonah 4:2).
+Even if you read chapter 4 slowly, "But it displeased Jonah exceedingly, and he was angry" (Jonah 4:1). You still miss the Hebrew that carries the real weight of this text. It reads, "it was evil to Jonah, a great evil." Now what was evil? Well...the revival was evil to him and the mercy was evil to him. And in the very next breath he says what was so offensive, "for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster" (Jonah 4:2).
 
-That is a quotation. Jonah is reciting Exodus 34:6, the words God spoke over Moses on the mountain when He walked past him in His glory. Even the tail end of it, relenting from disaster, is the line the prophets attached to that formula, the same wording Joel uses (Joel 2:13). That is the whole confession Israel had been saying about her God for generations. Jonah quoted Him perfectly. He took God's own description of Himself and filed it as a complaint.
+ Jonah is quoting Exodus 34:6, the words God spoke over Moses on the mountain when He walked past him in His glory. Even the tail end of it, relenting from disaster, is the line the prophets attached to that formula, the same wording Joel uses (Joel 2:13). That is the whole confession Israel had been saying about her God for generations. Jonah knew who God's own description of Himself and he filed it as a complaint.
 
-Now follow the book and watch where the evil ends up. Chapter 1 opens with the evil of Nineveh. By the end of chapter 4 the only evil left anywhere on the page is sitting in the prophet. The preacher is the problem.
+Then put the 2 rescues side by side. In chapter 2 Jonah is drowning and he is counting on that exact character. He pens a whole song out of it in the belly of the fish. Then in chapter 4 that same character shows up for somebody else and he wants to die over it. He is complaining about the mercy that saved him!! The mercy that appointed the fish! The mercy that pulled him off the floor of the sea! And then when he watches the same unchanging God act in the same way to Nineveh, it becomes a great evil to him.
 
-Then put the 2 rescues side by side, because this is the hinge of the whole thing. In chapter 2 Jonah is drowning and he is counting on that exact character. He builds a whole song out of it in the belly of the fish. In chapter 4 that same character shows up for somebody else and he wants to die over it. He is complaining about the mercy that saved him. The mercy that appointed the fish. The mercy that pulled him off the floor of the sea. The second it lands on people he hates, it becomes a great evil to him.
+So let's ask the question, "What does it say about my relationship with God if I only love His character when it benefits me?"
 
-So what does it say about my relationship with God if I only love His character when it benefits me?
+Despising what God loves runs in 4 steps. (This is where I wish I would've had my notes on Sunday.) 
 
-Despising what God loves runs in 3 steps. God loves something. You love something else more. And when He goes ahead and loves it anyway, you resent Him for it. Watch how subtle that middle step is. Jonah loved Israel, his people, his own sense of what justice ought to look like. Loving Israel was never a sin, and wanting justice was never a sin. The thing in his other hand was good. It was just more.
+1. God loves something.
+2. I love something else.
+3. Loving what God loves would cost me the thing I love.
+4. So I resent what God loves.
 
-I still quote Exodus 34:6 in hospital rooms. The words have not changed since Moses heard them on the mountain. What changes is whether I want them to be true for the person in the next bed over.
+Do you see the stumble? Jonah loved Israel, his people, his own sense of what justice ought to look like. Loving Israel was never a sin, and wanting justice was never a sin. But loving what God loves would cost Jonah the justice he wanted for Israel, so he resents what God loves.
 
-**Ask who you would hate to see God be good to, and start praying there.**
+Jonah didn't have a justice problem, he had a forgiveness problem. What we fail to forget is that, if God loves us, then God loves people we cannot stand. Because the same God who rescues us rescues others we cannot stand for the same reasons. 
+
+**Gracious, merciful, slow to anger, abounding in steadfast love.**
 
 ## Application
 
