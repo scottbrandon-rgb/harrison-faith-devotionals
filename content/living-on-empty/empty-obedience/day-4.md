@@ -14,21 +14,19 @@ scripture_text: "If you love me, you will keep my commandments."
 
 Growing up, we ate what I came to call brown gum. Every single Sunday after church there was a roast beef on the table, and that stuff was the chewiest, most everlasting substance you could ever put in your mouth. No matter how long you worked on it, it would not go away. It had no flavor to speak of either. It just kept being there, Sunday after Sunday after Sunday.
 
-Years later Julie said to me, "I made roast beef." Now I do not know about trusting anybody else with that sentence, but I trust her, so I sat down. And it was the best roast beef I have ever had in my entire life. So long, brown gum. Same dish, different hands, and I only found out because I trusted her enough to come to the table.
+Years later Julie said to me, "I made roast beef." Now I do not know about trusting anybody else with that sentence, but I trust her, so I sat down. And it was the best roast beef I have ever had in my entire life. So long, brown gum. The same dish with different hands, and I only found out because I trusted her enough to come to the table.
 
 That is where a lot of us are with obedience. We have been chewing the same thing for years, it never goes away, and it never tastes like anything.
 
 Jesus said, "If you love me, you will keep my commandments" (John 14:15). We have spent years reading that backward. We assume that if we keep the commandments it will prove we love Him, so we keep them and then wait to feel something that never comes. We get tired, we get bitter, and eventually we go sit down east of the city and build ourselves a little shade. Jesus put the love first. Obedience comes out of love the way water comes out of a spring. Jonah had obedience with no spring behind it, so he carried it into Nineveh in a bucket and he ran out.
 
-Let me get specific, because general preaching never changed anybody.
+Let me get specific.
 
-There is a conversation you have been avoiding for 2 years, and every time it comes to mind you do the math on what it would cost you to have it. There is a person you will forgive the day they finally own what they did, and what you love more is being owed, so until that settlement clears you keep holding the debt, and holding it is costing you the steadfast love of God. There is a marriage where you are doing everything right and keeping a running tally of it. Unconditional respect never got handed out because somebody earned it. It gets given because God demonstrated it toward us first, and in Ephesians 5 His example becomes His expectation. And there is a child whose soul matters more than his opinion of you, but you would rather be liked today than respected 20 years from now, so you say nothing and call it grace.
+There's a conversation you have been avoiding for years, and every time it comes to mind you do the math on what it would cost you to have it. There's a person you will forgive the day they finally own what they did, and what you love more is being owed, so until that settlement clears you keep holding the debt, and holding it is costing you the steadfast love of God. There's a marriage where you are doing everything right and keeping a running tally of it. Unconditional respect never got handed out because somebody earned it. It gets given because God demonstrated it toward us first, and in Ephesians 5 His example becomes His expectation. And there's a child whose soul matters more than his opinion of you, but you would rather be liked today than respected 20 years from now, so you say nothing and call it grace.
 
-Every one of those can be done perfectly, right on schedule, with a cold heart. That is brown gum. You will chew on it the rest of your life and never taste one thing.
+The thing is, you can be technically right in each of those situations.  Everyone of those actions can be one of obedience, but is it one of transformation? Do we live life out of transaction or from transformation?
 
-Julie set the same meal in front of me that I had eaten a hundred times, and I came to the table because I loved her. That is the whole difference, and it is the only difference.
-
-**Do one thing today because you love Him, and let it cost you something.**
+When Julie came into my life, she transformed my love for her immensely, still does. 😅 But that love didn't let me stay the same. I came to trust her because of my love for her.  What things are you doing for the Lord becaue He's transformed you? Or are you still chewing on brown gum (empty obedience) all function and no flavor.
 
 ## Application
 
