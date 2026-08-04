@@ -12,9 +12,9 @@ scripture_text: "Those who pay regard to vain idols forsake their hope of steadf
 
 ## Devotional
 
-Sunday morning I went to pull up my notes and they were gone. They were there, and then they were not there, and I am standing in front of a room full of people telling myself don't panic, don't panic, don't panic, it's all good. Some of you watched me do it. What I want to tell you about is my hands, because there was nothing in them, and I preached anyway.
+Sunday morning I went to pull up my notes and they were gone. They were there, and then they were not there, and I am standing in front of a room full of people telling myself don't panic, don't panic, don't panic, it's all good. Some of you watched me do it, but it's in those testing moments that what comes out is what has been put in.  That's what happened with me and that's what happened with Jonah.
 
-Jonah hands us the driver of this entire book, and he does it before he has any idea he is talking about himself. "Those who pay regard to vain idols forsake their hope of steadfast love" (Jonah 2:8).
+Jonah points us to a major theme in this whole book, and he does it before he has any idea he is talking about himself. "Those who pay regard to vain idols forsake their hope of steadfast love" (Jonah 2:8).
 
 Look hard at that word forsake. In Hebrew it carries the sense of letting go. Turning loose. Abandoning something you had been holding onto. Read the verse again and see what it is actually telling you. Nobody took God's love away from Jonah. God never withdrew it, never shut it off, never held it back over a disappointment. Steadfast love is something you and I turn loose of, on purpose, so we can get a hand around something else.
 
