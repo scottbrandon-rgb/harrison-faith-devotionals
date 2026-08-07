@@ -34,7 +34,7 @@ I told you Sunday that the tank runs empty. Because you cannot be filled with a 
 
 Think about this, God is delighted in giving mercy to somebody you gave up on. He has been delighted in their response the whole time. And He is asking you the same question He asked Jonah, and He is waiting just as patiently for an answer.
 
-**God no longer assigns evil to people who have recieved mercy. Have you?**
+**God no longer assigns evil to people who have recieved mercy. Do you?**
 
 ## Application
 
