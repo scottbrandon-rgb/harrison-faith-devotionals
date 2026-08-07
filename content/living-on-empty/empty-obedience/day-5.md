@@ -24,17 +24,17 @@ Now look at how God describes the people He is defending. 120,000 who do not kno
 
 So put the 2 rooms side by side. Our church spent a week in a building full of children who do not know their right hand from their left, and we came out of it undone by what God did in there. Jonah spent a week outside a city full of the same kind of people, and he wanted to die because God spared them. That is the whole distance this book is measuring.
 
-And then it just stops. God asks the question and Jonah never answers it. There is no last verse where the prophet repents, no scene where he comes down off that hill and walks into the city rejoicing. The book ends with a question hanging in the air, and it has been hanging there ever since, waiting on whoever happens to be reading it.
+And then it just stops. God asks the question and Jonah never answers it. There is no last verse where the prophet repents, no scene where he comes down off that hill and walks into the city rejoicing. The book ends with a question hanging in the air, waiting on whoever happens to be reading it.
 
 Which means it is your turn to answer it.
 
 Who is on your list? How long has that name been sitting there? What are you holding so tightly right now that you could not have celebrated what we celebrated this week if God had done it for somebody you already wrote off?
 
-I told you Sunday that the tank runs empty. I have not told you yet how it gets filled, and I am not going to tell you today, because you cannot be filled with a closed hand and I am not moving off of that until we have dealt with it.
+I told you Sunday that the tank runs empty. Because you cannot be filled with a closed hand.
 
-God is delighted in somebody you gave up on. He has been delighted in them the whole time. And He is asking you the same question He asked Jonah, and He is waiting just as patiently for an answer.
+Think about this, God is delighted in giving mercy to somebody you gave up on. He has been delighted in their response the whole time. And He is asking you the same question He asked Jonah, and He is waiting just as patiently for an answer.
 
-**Thank God out loud today for the person you wrote off.**
+**God no longer things assigns evil to people who have recieved mercy. Have you?**
 
 ## Application
 
