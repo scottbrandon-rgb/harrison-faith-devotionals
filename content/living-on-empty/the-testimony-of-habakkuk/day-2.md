@@ -14,23 +14,21 @@ scripture_text: "yet I will rejoice in the LORD; I will take joy in the God of m
 
 Habakkuk spends 2 and a half chapters telling God everything that's wrong, and then he says 6 words that turn the whole book around. "Yet I will rejoice in the LORD" (Habakkuk 3:18).
 
-Nothing got fixed between verse 17 and verse 18. The Babylonians are still coming. His body is still shaking. What changed is that he made a decision, and he made it with no evidence in front of him except who he already knew God to be.
-
 People say it all the time, I just need to have more faith. That's never actually the question. Faith is only meaningful to the degree that its object has meaning, so the question is always faith in what. You could tell me you believe in Santa Claus with your whole heart and it would do you exactly no good, because the object isn't there to hold the weight. Belief only matters if the thing you're believing in has substance.
 
-So Habakkuk leans his weight on 2 things, and they're the only 2 things any of us get in the dark.
+So Habakkuk leans his weight on 2 things. 
 
-The first is God's character, what He told you He's like. You have to believe it when you can't see it and you don't feel it, and the reason you can is that "God is not man, that he should lie" (Numbers 23:19). There's no choir going, no preacher preaching, nobody standing next to you. It's just you deciding whether what He said about Himself is true when nothing in the room agrees with it. That's why theology matters, and I mean that practically. You cannot draw on what you never deposited. Doctrine is what you have left when the feelings are gone.
+The first is God's character, what He told you He's like. You have to believe it when you can't see it and you don't feel it, and the reason you can is that "God is not man, that he should lie" (Numbers 23:19). There's no choir going, no preacher preaching, nobody standing next to you. It's just you deciding whether what He said about Himself is true. That's why theology matters, and I mean that practically. You cannot draw on what you never deposited. Doctrine is what you have left when the feelings are gone.
 
-The second is God's works, what He has already done, for you or for somebody else. Read verses 3 through 15 and you'll catch Habakkuk rehearsing yesterday on purpose. He walks back through the Red Sea, through the mountains shaking, through God going out for the salvation of His people, and he does it right in the middle of the worst season of his life.
+The second is God's works, what He has already done, for you or for somebody else. Read verses 3 through 15 and you'll catch Habakkuk rehearsing the past on purpose. He walks back through the Red Sea, through the mountains shaking, through God going out for the salvation of His people, and he does it right in the middle of the worst season of his life.
 
 Here's why that works. Theologians call it the immutability of God, which is a large word for a simple thing, that He doesn't change. His methods vary, His abilities don't. What He did, He can still do, because the God who did it is the same God standing in front of you (Hebrews 13:8).
 
-Sometimes He came through early. Sometimes He waited until the last possible hour, and looked late doing it. The timing moved around every single time, and He never once ran out of power.
+Sometimes He came through early. Sometimes He waited until the last possible hour, and looked late doing it. The timing moved around every single time, and yet, He never once ran out of power.
 
 So go get what you know. What He's like, and what He's done.
 
-**Faith is only as good as the God it's aimed at.**
+**Faith is only as good as the God it's placed in.**
 
 ## Application
 
