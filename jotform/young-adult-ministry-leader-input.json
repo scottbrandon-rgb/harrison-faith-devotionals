@@ -1,0 +1,198 @@
+{
+  "properties": {
+    "title": "Young Adult Ministry — Leader Input",
+    "pagetitle": "Young Adult Ministry — Leader Input",
+    "activeRedirect": "thanktext",
+    "thanktext": "Got it. Thank you — this is exactly what we needed.",
+    "formWidth": "752",
+    "highlightLine": "Enabled"
+  },
+  "questions": [
+    {
+      "type": "control_head",
+      "text": "Young Adult Ministry — Leader Input",
+      "subHeader": "We are building a webpage for people who get invited to the gathering, so they know what they are walking into before they walk in. Answer these the way you would tell a friend, not the way you would write a church bulletin. Specific beats polished. If a question does not apply, say so and move on. Takes about 20 minutes — feel free to dictate your answers instead of typing."
+    },
+    {
+      "type": "control_textbox",
+      "text": "Your name",
+      "required": "Yes"
+    },
+
+    {
+      "type": "control_head",
+      "text": "The Night Itself",
+      "subHeader": "Describe what actually happens, not what it is supposed to mean.",
+      "headerType": "Small"
+    },
+    {
+      "type": "control_textarea",
+      "text": "Walk me through last week's gathering minute by minute.",
+      "subLabel": "From the time the first person walked in until the last person left. Include the awkward parts and the dead time.",
+      "required": "Yes",
+      "rows": "10"
+    },
+    {
+      "type": "control_textarea",
+      "text": "What does someone walking in for the first time literally see, hear, and smell?",
+      "subLabel": "Lights, room setup, music, coffee, whatever is actually there.",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textarea",
+      "text": "Who was in the room?",
+      "subLabel": "Ages, life stages, married, single, students, working. Roughly how many.",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textarea",
+      "text": "How long does it run, and what is the actual food and drink situation?",
+      "required": "Yes"
+    },
+
+    { "type": "control_pagebreak", "nextText": "Next", "backText": "Back" },
+
+    {
+      "type": "control_head",
+      "text": "What It Is For",
+      "subHeader": "Real examples, not mission-statement language.",
+      "headerType": "Small"
+    },
+    {
+      "type": "control_textarea",
+      "text": "Finish this sentence: People keep coming back because ______.",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textarea",
+      "text": "Tell me about one person whose life is different because of this group. What changed?",
+      "subLabel": "No last names needed.",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textarea",
+      "text": "If this group disappeared tomorrow, what would people miss most?",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textarea",
+      "text": "What do we do here that people cannot get on a Sunday morning?",
+      "required": "Yes"
+    },
+
+    { "type": "control_pagebreak", "nextText": "Next", "backText": "Back" },
+
+    {
+      "type": "control_head",
+      "text": "The First-Timer",
+      "subHeader": "Most of the webpage is aimed at someone who has never come.",
+      "headerType": "Small"
+    },
+    {
+      "type": "control_textarea",
+      "text": "What is the number one thing a first-timer is nervous about before they walk in?",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textarea",
+      "text": "What have people actually said to you after their first night?",
+      "subLabel": "Quote them if you can remember the words.",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textarea",
+      "text": "What do we NOT do?",
+      "subLabel": "Make anyone pray out loud their first time? Put them on the spot? Pass a plate? Name the things nobody has to worry about.",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textarea",
+      "text": "Who is this honestly not a fit for?",
+      "subLabel": "This one feels wrong to answer. Answer it anyway. A page that is for everyone reads like it is for no one.",
+      "required": "Yes"
+    },
+
+    { "type": "control_pagebreak", "nextText": "Next", "backText": "Back" },
+
+    {
+      "type": "control_head",
+      "text": "Logistics",
+      "subHeader": "Short answers are fine here. If you do not know one, write 'not sure.'",
+      "headerType": "Small"
+    },
+    {
+      "type": "control_textbox",
+      "text": "Where does it meet?",
+      "subLabel": "Full address, or building and room.",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textbox",
+      "text": "What day and time?",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textbox",
+      "text": "How often?",
+      "subLabel": "Weekly, every other week, etc.",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textbox",
+      "text": "Does it cost anything?",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textbox",
+      "text": "Is childcare available? If so, what are the details?",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textbox",
+      "text": "What do people actually wear?",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textbox",
+      "text": "Should they bring anything?",
+      "subLabel": "Bible, food, nothing.",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textarea",
+      "text": "Where do people park, and which door do they come in?",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textarea",
+      "text": "Who does someone text with a question, and how do they RSVP — or do they just show up?",
+      "subLabel": "Include the name and phone number or handle we can put on the page.",
+      "required": "Yes"
+    },
+
+    { "type": "control_pagebreak", "nextText": "Next", "backText": "Back" },
+
+    {
+      "type": "control_head",
+      "text": "Voice",
+      "subHeader": "This shapes how the page sounds.",
+      "headerType": "Small"
+    },
+    {
+      "type": "control_textarea",
+      "text": "What words or phrases make you cringe when churches use them?",
+      "subLabel": "Be blunt. We will keep them off the page.",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textbox",
+      "text": "If you had to describe the night in three words to a friend at work, what three?",
+      "required": "Yes"
+    },
+    {
+      "type": "control_textarea",
+      "text": "Anything else we should know?",
+      "required": "No"
+    }
+  ]
+}
