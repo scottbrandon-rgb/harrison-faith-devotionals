@@ -1,6 +1,26 @@
 # Young Adult Ministry — Leader Input (Jotform)
 
-Two ways to get this form into Jotform. Both produce the same thing: a five-page
+**The form is live:** <https://form.jotform.com/262457565846067>
+Builder: <https://www.jotform.com/build/262457565846067>
+
+It was built through the Jotform connector, then verified against the spec by
+fetching the rendered page: 24 questions in the exact wording below, 12 visible
+sub-labels, 24 required fields with only "Anything else we should know?"
+optional, 16 long-answer and 9 short-answer boxes, five pages, intro text above
+the name field.
+
+Two settings could not be confirmed from the rendered page and should be checked
+in the builder:
+
+- **Progress bar.** No progress-bar markup appears on the page, so it is
+  probably still off. Turn it on under Settings, Form Settings.
+- **Thank-you message.** Jotform does not embed it in the blank form, so it
+  cannot be read from outside. Confirm it says "Got it. Thank you — this is
+  exactly what we needed."
+
+The rest of this file covers rebuilding the form from scratch.
+
+Two ways to rebuild this form in Jotform. Both produce the same thing: a five-page
 form, 24 questions, progress bar, custom thank-you message.
 
 ## Option A — build it from the spec (repeatable)
