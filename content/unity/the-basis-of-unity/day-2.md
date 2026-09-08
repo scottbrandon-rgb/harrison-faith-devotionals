@@ -41,7 +41,7 @@ marked the person next to you the same way.**
 2. What would change in how you speak to one person here if you actually believed the Spirit assigned them to you?
 
 ## Challenge
-Find someone in this church you have quietly written off as too different from you, and go sit near them Sunday. You do not have to explain yourself or fix anything between you. Ask one real question about their week and stay for the whole answer.
+Find someone in this church you have quietly written off as too different from you, and go sit near them Sunday. You do not have to explain yourself or fix anything between you. Ask one real question about their week.
 
 ## Prayer
 Father, thank you for putting your Spirit in me and settling the question of where I belong before I ever had a vote in it. Forgive me for the times I have treated this church like a preference I could set down. Teach me to see the marker you placed in the people around me, especially the ones I find hard to be near. Keep me from trying to run on anything other than your Spirit. Amen.
