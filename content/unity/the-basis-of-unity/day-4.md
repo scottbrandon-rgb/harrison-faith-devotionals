@@ -1,3 +1,14 @@
+---
+series: the-basis-of-unity
+series_title: The Basis of Unity
+sermon_series: UNITY
+day: 4
+publish_date: 2026-09-10
+title: Carried When You Can't
+scripture_reference: 1 Corinthians 12:26
+scripture_translation: ESV
+scripture_text: "If one member suffers, all suffer together; if one member is honored, all rejoice together."
+---
 
 ## Devotional
 Try this at your table tonight. "Okay, kids, grab your plates, and each of you go eat in your room by yourself." They would still get their nutrition. They would survive, they would grow, and the calories would do exactly what calories do. And every father reading this already knows that something essential just walked out of that house, because the heart of a father wants his kids together, interacting, sharing, growing where they can see each other. God feels the same about his house, and he wired the body so it cannot help itself. "If one member suffers, all suffer together; if one member is honored, all rejoice together" (1 Corinthians 12:26). 
