@@ -1,29 +1,14 @@
----
-series: the-basis-of-unity
-series_title: The Basis of Unity
-sermon_series: UNITY
-day: 4
-publish_date: 2026-09-10
-title: Carried When You Can't
-scripture_reference: 1 Corinthians 12:26
-scripture_translation: ESV
-scripture_text: "If one member suffers, all suffer together; if one member is honored, all rejoice together."
----
 
 ## Devotional
-Try this at your table tonight. "Okay, kids, grab your plates, and each of you go eat in your room by yourself." They would still get their nutrition. They would survive, they would grow, and the calories would do exactly what calories do. And every father reading this already knows that something essential just walked out of that house, because the heart of a father wants his kids together, interacting, sharing, growing where they can see each other.
+Try this at your table tonight. "Okay, kids, grab your plates, and each of you go eat in your room by yourself." They would still get their nutrition. They would survive, they would grow, and the calories would do exactly what calories do. And every father reading this already knows that something essential just walked out of that house, because the heart of a father wants his kids together, interacting, sharing, growing where they can see each other. God feels the same about his house, and he wired the body so it cannot help itself. "If one member suffers, all suffer together; if one member is honored, all rejoice together" (1 Corinthians 12:26). 
 
-God feels the same about his house, and he wired the body so it cannot help itself. "If one member suffers, all suffer together; if one member is honored, all rejoice together" (1 Corinthians 12:26). That is a description before it is ever a command. A body does not take a vote on whether to feel a broken foot.
+Paul says the comfort you received becomes the comfort you hand over. God "comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God" (2 Corinthians 1:3-4). Read that as an assignment. The reason we can walk through the difficult things of life is because someone else understood what it took to walk through it first. 
 
-Paul says the comfort you received becomes the comfort you hand over. God "comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God" (2 Corinthians 1:3-4). Read that as an assignment. The reason you can stand with somebody at a graveside is that somebody once stood with you at one.
-
-Six weeks in, this church knows something a comfortable church cannot fake. Who else understands what it is to have your marriage targeted, your kids mocked for their faith, or your whole week rearranged by a phone call at 6 in the morning? Those who share your DNA in the Spirit end up sharing your persecution in the flesh.
-
-You have never once been alone in how you feel, what you feel, or why you feel it. This body knows how you feel, and it knows how you heal.
-
+ But that truth doesn’t only apply to the problems of this life, it applies to persecution too. As I said Sunday, those who share your DNA in the Spirit end up sharing your persecution and/or problems in the flesh as well.
+ 
 Which is why the writer of Hebrews, addressing a church getting hammered from the outside, handed them a strange prescription. They were told to keep showing up. "Let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near" (Hebrews 10:24-25). He understood that a discouraged believer's first instinct is to withdraw, and that the withdrawing is what finishes him.
 
-And when your own life is running well, that is exactly when you owe the room something. The weeks you have margin are the weeks somebody else has none, and the stirring up is supposed to run in that direction.
+And when your own life is running well, that is exactly when you benefit the body the most. The weeks you have margin are the weeks somebody else has none, and the stirring up is supposed to run in that direction.
 
 Then there is the benefit you need most on the days you can produce the least. "Is anyone among you sick? Let him call for the elders of the church, and let them pray over him ... Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working" (James 5:14-16).
 
