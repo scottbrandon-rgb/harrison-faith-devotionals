@@ -23,7 +23,7 @@ I don’t think I have ever met a believer who had all of them. I have never met
 
 When the church was brand new, this is what it looked like. They devoted themselves to the teaching, the fellowship, the breaking of bread and the prayers, "awe came upon every soul," and they were "attending the temple together and breaking bread in their homes," receiving their food with glad and generous hearts (Acts 2:42-47).
 
-Hold that list up against the recent events in our church. Meals carried into houses where the kitchen had gone quiet. People staying in rooms they had no obligation to be in. Prayers prayed over families who could not get a sentence out. That passage in Acts is a fair account of what God has this church has already doing.
+Hold that list up against the recent events in our church. Meals carried into houses where the kitchen had gone quiet. People staying in rooms they had no obligation to be in. Prayers prayed over families who could not get a sentence out. That passage in Acts is a fair account of what God has this church already doing.
 
 Which brings the week to where Jesus put it the night before he died. He prayed for us, and the request was specific. "The glory that you have given me I have given to them, that they may be one even as we are one, I in them and you in me, that they may become perfectly one, so that the world may know that you sent me and loved them even as you loved me" (John 17:22-23).
 
