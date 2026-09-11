@@ -11,27 +11,27 @@ scripture_text: "The glory that you have given me I have given to them, that the
 ---
 
 ## Devotional
-Everything counted this week comes from one place, and it is worth saying plainly before the week closes. There is no benefit of the gospel that exists apart from union with Christ. Every good thing the Son received from the Father belongs to the people joined to him, which means there is nothing on this week's list that he did not earn first.
+There is no benefit of the gospel that exists apart from union with Christ. Every good thing the Son received from the Father belongs to the people joined to him, which means there is nothing on this week's list that he did not earn first.
 
-"And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent" (Colossians 1:18). Head is a physical word before it is a theological one. A body takes its orders, its sensation, and its sense of self from a head, and a body cut off from one is a corpse with good intentions.
+"And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent" (Colossians 1:18). Head is a physical word before it is a theological one. A body takes its orders, its sensation, and its sense of self from a head, and a body cut off from one (even with good intentions) is still only a corpse.
 
-Paul goes further and calls the church "his body, the fullness of him who fills all in all" (Ephesians 1:22-23). Stay on that phrase a second. The fullness of the one who fills everything. Whatever else is true about this congregation on a Friday morning, that is what Scripture says you are.
+Paul goes further and calls the church "his body, the fullness of him who fills all in all" (Ephesians 1:22-23). Stay on that phrase a second. The fullness of the one who fills everything. That is what Scripture says you are.
 
-Out of that head come the gifts. "Now there are varieties of gifts, but the same Spirit" (1 Corinthians 12:4), handed out for a purpose Paul states without any decoration on it: "strive to excel in building up the church" (1 Corinthians 14:12).
+Out of that head come the gifts. "Now there are varieties of gifts, but the same Spirit" (1 Corinthians 12:4), handed out for a purpose that Paul states plainly: "strive to excel in building up the church" (1 Corinthians 14:12).
 
-I have never met a believer who had all of them. I have never met one who had mastered even the few he operates in. A gift that only serves the person holding it has already quit being a gift.
+I don’t think I have ever met a believer who had all of them. I have never met one who had mastered even the few he operates in. And a gift that only serves the person holding it doesn’t reflect the giver of that gift. 
 
-When the church was brand new, this is what it looked like on the ground. They devoted themselves to the teaching, the fellowship, the breaking of bread and the prayers, "awe came upon every soul," and they were "attending the temple together and breaking bread in their homes," receiving their food with glad and generous hearts (Acts 2:42-47).
+When the church was brand new, this is what it looked like. They devoted themselves to the teaching, the fellowship, the breaking of bread and the prayers, "awe came upon every soul," and they were "attending the temple together and breaking bread in their homes," receiving their food with glad and generous hearts (Acts 2:42-47).
 
-Hold that list up against the end of July until now. Meals carried into houses where the kitchen had gone quiet. People staying in rooms they had no obligation to be in. Prayers prayed over families who could not get a sentence out. That passage in Acts is a fair account of what this church has already been doing.
+Hold that list up against the recent events in our church. Meals carried into houses where the kitchen had gone quiet. People staying in rooms they had no obligation to be in. Prayers prayed over families who could not get a sentence out. That passage in Acts is a fair account of what God has this church has already doing.
 
 Which brings the week to where Jesus put it the night before he died. He prayed for us, and the request was specific. "The glory that you have given me I have given to them, that they may be one even as we are one, I in them and you in me, that they may become perfectly one, so that the world may know that you sent me and loved them even as you loved me" (John 17:22-23).
 
-A barometer reads pressure. It tells you what is happening in an atmosphere you cannot see by showing you something you can. Jesus made our oneness the reading. When a city watches a church stay together through 6 funerals in 6 weeks, it is being told two things at once: that the Father sent the Son, and that the Father loves those people the same way he loves the Son.
+A barometer reads pressure. It tells you what is happening in an atmosphere you cannot see by showing you something you can. Jesus made our oneness the reading. Our hope is that when a city watches a church come together through 6 funerals in 6 weeks, it is being told two things at once: that the Father sent the Son, and that the Father loves those people the same way he loves the Son.
 
 Take the weight of that. Though we are worthy of his wrath, he loves us as though we are worthy of his glory. Though we were born dead in our sin, he loves us as though we were already alive in righteousness. Your unity broadcasts that to Harrison this weekend whether or not a single person in this church meant to preach a sermon.
 
-On Monday you read that the enemy's plan is to wear you down until you drift. Here is the other half of it. Every week you stay, every meal you carry, every hand you take across the aisle is a sentence spoken to a city about who Jesus is. That is worth guarding, and it may be the only argument this world has ever agreed to sit still for.
+On Monday you read that the enemy's plan is to wear you down until you drift. Here is the other half of it. Every week you stay, every meal you carry, every hand you take across the aisle is a sentence spoken to a city about who Jesus is. That is worth guarding, and it may be the only argument this world has ever agreed to sit quiet with.
 
 **Your unity is the argument for Jesus that your city has already agreed to hear.**
 
