@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 WEEK OVERVIEW
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sunday we poured water over Greg's head so you could see what Psalm 133 is actually describing, and this week we walk it down the whole way. Monday we find out where the blessing lands and what the word there is doing in that psalm. Tuesday we trace the flow from Aaron to Jesus and take inventory of everything the Head received on our behalf. Wednesday and Thursday we sit in the hardest part, because submission is where the blessing is received and Paul walks it through the whole house. Friday we take it into the church and then draw the line where a created head stops having a claim on you.
+Sunday we poured water over Greg's head so you could see what Psalm 133 is actually describing, and this week we walk it down the whole way. Monday we find out where the blessing lands and what the word there is doing in that psalm. Tuesday we trace the flow from Aaron to Jesus and take inventory of everything the Head received on our behalf. Wednesday and Thursday we spend two days in the hardest part, because submission is where the blessing is received and Paul walks it through the whole house. Friday we take it into the church and then draw the line where a created head stops having a claim on you.
 
 Day 1 — Where Is There?
 Day 2 — Aaron Was the Shadow
