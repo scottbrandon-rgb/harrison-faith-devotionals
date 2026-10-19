@@ -151,6 +151,7 @@ const SERIES_CONFIG = {
   "Let Freedom Ring":      { order: 11, accent: "#A33D2E", light: "#F5E9E6", text: "#5c231a" },
   "Living on Empty":       { order: 12, accent: "#CE1B22", light: "#F4EBEB", text: "#1A1A1A" },
   "UNITY":                 { order: 13, accent: "#CE1B22", light: "#F4EBEB", text: "#1A1A1A" },
+  "Church and Politics":   { order: 14, accent: "#A33D2E", light: "#F5E9E6", text: "#5c231a" },
 
 
 };
