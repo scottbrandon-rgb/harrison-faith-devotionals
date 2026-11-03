@@ -68,7 +68,12 @@ This makes reaction taps count as "engaged sessions."
 
 1. Go to **https://analytics.google.com** and open the Harrison Faith property.
 2. Click **Admin** (the gear icon at the bottom left).
-3. Under **Data display**, click **Key events**.
-4. Click **New key event**, type `devotional_reaction` exactly, and save.
+3. Under **Data display**, click **Events**.
+4. Click the **Recent events** tab and find `devotional_reaction`.
+5. Click the **star** next to it. A solid star means it's now a key event, and it moves to the **Key events** tab.
+
+**Don't see `devotional_reaction` yet?** An event appears in this list only after readers have triggered it, and Google can take up to 24–48 hours to show it. Check back the next day. Don't use **Create event** for this; that button builds a new event from an existing one and isn't needed here.
+
+Key events count only from the day you star them. Earlier taps aren't counted retroactively. Taps saved in your `/reactions-report` aren't affected either way.
 
 To filter reports by reaction type, also go to **Admin → Custom definitions → Create custom dimension** and add `reaction`, `series`, and `day`, each with scope **Event**.
