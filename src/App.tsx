@@ -1,6 +1,6 @@
 import { useState, useEffect, useContext, createContext } from "react";
 import { Routes, Route, Link, useParams, useNavigate } from "react-router-dom";
-import { Heart, ThumbsUp, Meh, ThumbsDown, type LucideIcon } from "lucide-react";
+import { Heart, ThumbsUp, Meh, type LucideIcon } from "lucide-react";
 import { allSeries, getCurrentSeries, getSeriesColor } from "./data";
 import logoBlack from "./assets/logo-black.png";
 
@@ -166,13 +166,13 @@ declare global {
   interface Window { gtag?: (...args: unknown[]) => void }
 }
 
-type ReactionKey = "spoke" | "helpful" | "okay" | "not_today";
+// Stored keys stay stable even if labels change, so past data lines up.
+type ReactionKey = "spoke" | "helpful" | "not_today";
 
 const REACTIONS: { key: ReactionKey; label: string; Icon: LucideIcon }[] = [
-  { key: "spoke", label: "This spoke to me", Icon: Heart },
+  { key: "spoke", label: "This was for me today", Icon: Heart },
   { key: "helpful", label: "Helpful", Icon: ThumbsUp },
-  { key: "okay", label: "Okay", Icon: Meh },
-  { key: "not_today", label: "Not for me today", Icon: ThumbsDown },
+  { key: "not_today", label: "Not for me today", Icon: Meh },
 ];
 
 const REACTIONS_STORE = "hf-reactions";
@@ -243,7 +243,7 @@ function ReactionBar({ slug, day, title, t }: { slug: string; day: number; title
   return (
     <div style={{ margin: "36px 26px 0", textAlign: "center" }}>
       <Label t={t} center>How did today’s devotional land?</Label>
-      <div role="group" aria-label="Your response to this devotional" style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: 6, maxWidth: 380, margin: "0 auto" }}>
+      <div role="group" aria-label="Your response to this devotional" style={{ display: "grid", gridTemplateColumns: `repeat(${REACTIONS.length}, 1fr)`, gap: 6, maxWidth: 320, margin: "0 auto" }}>
         {REACTIONS.map(({ key, label, Icon }) => {
           const on = selected === key;
           return (

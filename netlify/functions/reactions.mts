@@ -5,7 +5,9 @@
 import { getDatabase, type DatabaseConnection } from "@netlify/database";
 import { ogData } from "../shared/og-data.ts";
 
-const REACTIONS = ["spoke", "helpful", "okay", "not_today"];
+// Must match REACTIONS in src/App.tsx. ("okay" is still allowed by the table's
+// CHECK constraint but is no longer offered.)
+const REACTIONS = ["spoke", "helpful", "not_today"];
 const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
 
 // Reuse the connection pool across warm invocations.

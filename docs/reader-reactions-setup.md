@@ -1,13 +1,14 @@
 # Reader Reactions: Setup and Use
 
-At the end of each devotional, after the Prayer, readers see four one-tap reactions. No login is required.
+At the end of each devotional, after the Prayer, readers see three one-tap reactions. No login is required.
 
-| Reaction | Stored as |
-|---|---|
-| ♥︎ This spoke to me | `spoke` |
-| 👍 Helpful | `helpful` |
-| 😐 Okay | `okay` |
-| 👎 Not for me today | `not_today` |
+| Reaction | Icon | Stored as |
+|---|---|---|
+| This was for me today | ♥︎ heart | `spoke` |
+| Helpful | 👍 thumbs up | `helpful` |
+| Not for me today | 😐 neutral face | `not_today` |
+
+There's deliberately no thumbs-down, so "Not for me today" reads as "not my need today" rather than as a dislike.
 
 Readers see only their own choice and a short "Thank you for sharing." No counts are shown publicly. Readers can change their answer, but they can't vote twice on the same devotional.
 
@@ -92,4 +93,8 @@ SELECT DATE(updated_at) AS day, reaction, COUNT(*)
 
 ## Changing the reactions later
 
-To drop one reaction (for example, down to three), remove its entry from the `REACTIONS` list in `src/App.tsx` and from the list in `netlify/functions/reactions.mts`. Existing rows stay in the database. To rename a label, change only the `label` text. The stored key stays the same, so past data still lines up.
+The reactions are defined in two places that must match: the `REACTIONS` list in `src/App.tsx` (labels and icons) and the `REACTIONS` list in `netlify/functions/reactions.mts` (allowed keys).
+
+- **Rename a label:** change only the `label` text. The stored key stays the same, so past data still lines up.
+- **Add or remove a reaction:** edit both lists. Existing rows stay in the database.
+- The table's CHECK constraint also allows `okay` (from the original four-option design). It's unused and harmless. Adding a brand-new key would need a new migration that updates the constraint.
