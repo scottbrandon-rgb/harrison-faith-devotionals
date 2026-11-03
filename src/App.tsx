@@ -1,5 +1,6 @@
 import { useState, useEffect, useContext, createContext } from "react";
 import { Routes, Route, Link, useParams, useNavigate } from "react-router-dom";
+import { Heart, ThumbsUp, Meh, type LucideIcon } from "lucide-react";
 import { allSeries, getCurrentSeries, getSeriesColor } from "./data";
 import logoBlack from "./assets/logo-black.png";
 
@@ -154,6 +155,142 @@ function ShareButton({ title, text, url, t }: { title: string; text: string; url
         </svg>
       )}
     </button>
+  );
+}
+
+// ─── Reactions ────────────────────────────────────────────────────────────────
+// Anonymous one-tap feedback at the end of each devotional. Each tap is saved
+// to Netlify Database (via a Netlify Function) and sent to GA4 as an event.
+
+declare global {
+  interface Window { gtag?: (...args: unknown[]) => void }
+}
+
+// Stored keys stay stable even if labels change, so past data lines up.
+type ReactionKey = "spoke" | "helpful" | "not_today";
+
+const REACTIONS: { key: ReactionKey; label: string; Icon: LucideIcon }[] = [
+  { key: "spoke", label: "This was for me today", Icon: Heart },
+  { key: "helpful", label: "Helpful", Icon: ThumbsUp },
+  { key: "not_today", label: "Not for me today", Icon: Meh },
+];
+
+const REACTIONS_STORE = "hf-reactions";
+const VISITOR_STORE = "hf-visitor";
+
+function readReactions(): Record<string, ReactionKey> {
+  try { return JSON.parse(localStorage.getItem(REACTIONS_STORE) ?? "{}"); } catch { return {}; }
+}
+
+function getVisitorId(): string {
+  try {
+    const existing = localStorage.getItem(VISITOR_STORE);
+    if (existing) return existing;
+  } catch { /* storage unavailable — fall through to a one-off id */ }
+  let id: string;
+  if (typeof crypto.randomUUID === "function") {
+    id = crypto.randomUUID();
+  } else {
+    // RFC 4122 v4 UUID from random bytes, for older browsers.
+    const b = crypto.getRandomValues(new Uint8Array(16));
+    b[6] = (b[6] & 0x0f) | 0x40;
+    b[8] = (b[8] & 0x3f) | 0x80;
+    const h = Array.from(b, (x) => x.toString(16).padStart(2, "0")).join("");
+    id = `${h.slice(0, 8)}-${h.slice(8, 12)}-${h.slice(12, 16)}-${h.slice(16, 20)}-${h.slice(20)}`;
+  }
+  try { localStorage.setItem(VISITOR_STORE, id); } catch { /* ignore */ }
+  return id;
+}
+
+function ReactionBar({ slug, day, title, t }: { slug: string; day: number; title: string; t: Theme }) {
+  const pageKey = `${slug}/${day}`;
+  const [selected, setSelected] = useState<ReactionKey | null>(() => readReactions()[pageKey] ?? null);
+  const [status, setStatus] = useState<"idle" | "saving" | "saved" | "error">("idle");
+
+  async function choose(key: ReactionKey) {
+    if (key === selected || status === "saving") return;
+    const previous = selected;
+    setSelected(key);
+    setStatus("saving");
+
+    window.gtag?.("event", "devotional_reaction", {
+      reaction: key,
+      series: slug,
+      day,
+      devotional_title: title,
+    });
+
+    try {
+      const res = await fetch("/.netlify/functions/reactions", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ slug, day, reaction: key, visitorId: getVisitorId() }),
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      try { localStorage.setItem(REACTIONS_STORE, JSON.stringify({ ...readReactions(), [pageKey]: key })); } catch { /* ignore */ }
+      setStatus("saved");
+    } catch {
+      setSelected(previous);
+      setStatus("error");
+    }
+  }
+
+  const note =
+    status === "error" ? "Something went wrong. Please try again."
+    : selected ? "Thank you for sharing."
+    : "";
+
+  return (
+    <div style={{ margin: "36px 26px 0", textAlign: "center" }}>
+      <Label t={t} center>How did today’s devotional land?</Label>
+      <div role="group" aria-label="Your response to this devotional" style={{ display: "grid", gridTemplateColumns: `repeat(${REACTIONS.length}, 1fr)`, gap: 6, maxWidth: 320, margin: "0 auto" }}>
+        {REACTIONS.map(({ key, label, Icon }) => {
+          const on = selected === key;
+          return (
+            <button
+              key={key}
+              type="button"
+              onClick={() => choose(key)}
+              aria-pressed={on}
+              disabled={status === "saving"}
+              style={{
+                background: "none",
+                border: "none",
+                padding: "4px 2px",
+                cursor: status === "saving" ? "default" : "pointer",
+                display: "flex",
+                flexDirection: "column",
+                alignItems: "center",
+                gap: 8,
+                color: on ? t.accent : t.sub,
+                opacity: selected && !on ? 0.7 : 1,
+                transition: "color 160ms ease, opacity 160ms ease",
+              }}
+            >
+              <span style={{
+                width: 46,
+                height: 46,
+                borderRadius: "50%",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                border: `1px solid ${on ? t.accent : t.rule}`,
+                background: on ? t.faint : "transparent",
+                transition: "border-color 160ms ease, background 160ms ease",
+              }}>
+                <Icon size={19} strokeWidth={on ? 1.9 : 1.4} aria-hidden="true" />
+              </span>
+              <span style={{ fontFamily: hLato, fontWeight: 400, fontSize: 11, letterSpacing: "0.04em", lineHeight: 1.35 }}>
+                {label}
+              </span>
+            </button>
+          );
+        })}
+      </div>
+      <p aria-live="polite" style={{ fontFamily: hSerif, fontStyle: "italic", fontSize: 13, color: status === "error" ? t.ink : t.sub, minHeight: 20, marginTop: 14 }}>
+        {note}
+      </p>
+    </div>
   );
 }
 
@@ -395,8 +532,11 @@ function ReadingPage() {
         <p style={{ fontFamily: hSerif, fontStyle: "italic", fontSize: 15.5, lineHeight: 1.78, color: t.ink }}>{renderInline(day.prayer)}</p>
       </div>
 
+      {/* Reactions — keyed so state resets when moving between days */}
+      <ReactionBar key={`${series.slug}/${day.day}`} slug={series.slug} day={day.day} title={day.title} t={t} />
+
       {/* Prev / next */}
-      <div style={{ margin: "32px 26px 0", borderTop: `1px solid ${t.rule}`, padding: "20px 0 44px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+      <div style={{ margin: "20px 26px 0", borderTop: `1px solid ${t.rule}`, padding: "20px 0 44px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
         {prevDay ? (
           <Link to={`/read/${series.slug}/${prevDay.day}`} style={navLink(t.sub)}>← Day {prevDay.day}</Link>
         ) : (
@@ -555,6 +695,154 @@ function SeriesPage() {
   );
 }
 
+// ─── Reactions Report (private) ───────────────────────────────────────────────
+// Unlisted page for the pastor. Data is only returned when the report key
+// (Netlify env var REACTIONS_REPORT_KEY) is entered.
+
+type ReportPage = {
+  slug: string; day: number; weekTitle: string; dayTitle: string; sermonSeries: string;
+  publishDate: string | null; counts: Partial<Record<ReactionKey, number>>; total: number; lastAt: string;
+};
+
+const REPORT_KEY_STORE = "hf-report-key";
+
+function ReactionsReportPage() {
+  const { dark, toggle } = useContext(ThemeCtx);
+  const t = makeTheme(dark, "#7a6a5a");
+  const [key, setKey] = useState<string>(() => {
+    try { return localStorage.getItem(REPORT_KEY_STORE) ?? ""; } catch { return ""; }
+  });
+  const [draft, setDraft] = useState("");
+  const [pages, setPages] = useState<ReportPage[] | null>(null);
+  const [error, setError] = useState("");
+  const [loading, setLoading] = useState(false);
+
+  // Keep this page out of search results.
+  useEffect(() => {
+    const meta = document.createElement("meta");
+    meta.name = "robots";
+    meta.content = "noindex, nofollow";
+    document.head.appendChild(meta);
+    return () => { meta.remove(); };
+  }, []);
+
+  useEffect(() => {
+    if (!key) return;
+    let cancelled = false;
+    (async () => {
+      setLoading(true);
+      setError("");
+      try {
+        const res = await fetch("/.netlify/functions/reactions-report", { headers: { "x-report-key": key } });
+        if (res.status === 401) {
+          try { localStorage.removeItem(REPORT_KEY_STORE); } catch { /* ignore */ }
+          if (!cancelled) { setKey(""); setError("That key didn’t work."); }
+          return;
+        }
+        if (!res.ok) throw new Error((await res.json().catch(() => ({}))).error ?? `HTTP ${res.status}`);
+        const data = await res.json();
+        try { localStorage.setItem(REPORT_KEY_STORE, key); } catch { /* ignore */ }
+        if (!cancelled) setPages(data.pages);
+      } catch (e) {
+        if (!cancelled) setError(e instanceof Error ? e.message : "Could not load report.");
+      } finally {
+        if (!cancelled) setLoading(false);
+      }
+    })();
+    return () => { cancelled = true; };
+  }, [key]);
+
+  function forget() {
+    try { localStorage.removeItem(REPORT_KEY_STORE); } catch { /* ignore */ }
+    setKey("");
+    setPages(null);
+  }
+
+  const sorted = [...(pages ?? [])].sort((a, b) =>
+    (b.publishDate ?? "").localeCompare(a.publishDate ?? "") || b.day - a.day);
+  const totals = REACTIONS.map((r) => ({ ...r, n: sorted.reduce((s, p) => s + (p.counts[r.key] ?? 0), 0) }));
+  const grand = totals.reduce((s, r) => s + r.n, 0);
+  const small: React.CSSProperties = { fontFamily: hLato, fontWeight: 300, fontSize: 11.5, letterSpacing: "0.04em", color: t.sub };
+
+  return (
+    <div style={{ background: t.bg, minHeight: "100vh", color: t.ink }}>
+      <Nav t={t} dark={dark} toggle={toggle} />
+      <div style={{ maxWidth: 720, margin: "0 auto", padding: "36px 22px 60px" }}>
+        <Label t={t}>Private</Label>
+        <h1 style={{ fontFamily: hSerif, fontWeight: 500, fontSize: 32, lineHeight: 1.15, marginBottom: 24 }}>Reader Reactions</h1>
+
+        {!key && (
+          <form
+            onSubmit={(e) => { e.preventDefault(); if (draft.trim()) { setKey(draft.trim()); setDraft(""); } }}
+            style={{ display: "flex", gap: 10, flexWrap: "wrap", alignItems: "center" }}
+          >
+            <input
+              type="password"
+              value={draft}
+              onChange={(e) => setDraft(e.target.value)}
+              placeholder="Report key"
+              aria-label="Report key"
+              autoComplete="current-password"
+              style={{ flex: "1 1 220px", minWidth: 0, padding: "11px 12px", fontFamily: hLato, fontSize: 14, color: t.ink, background: t.faint, border: `1px solid ${t.rule}`, borderRadius: 4 }}
+            />
+            <button type="submit" style={{ padding: "11px 18px", fontFamily: hLato, fontSize: 11, letterSpacing: "0.14em", textTransform: "uppercase", color: t.bg, background: t.ink, border: "none", borderRadius: 4, cursor: "pointer" }}>
+              View report
+            </button>
+          </form>
+        )}
+
+        {error && <p style={{ ...small, color: t.ink, marginTop: 14 }}>{error}</p>}
+        {loading && <p style={{ ...small, marginTop: 14 }}>Loading…</p>}
+
+        {pages && !loading && (
+          <>
+            {/* Totals */}
+            <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(140px, 1fr))", gap: 10, marginBottom: 30 }}>
+              {totals.map(({ key: k, label, Icon, n }) => (
+                <div key={k} style={{ border: `1px solid ${t.rule}`, background: t.faint, padding: "14px 14px 12px" }}>
+                  <div style={{ display: "flex", alignItems: "center", gap: 8, color: t.sub }}>
+                    <Icon size={15} strokeWidth={1.5} aria-hidden="true" />
+                    <span style={{ ...small, fontSize: 11 }}>{label}</span>
+                  </div>
+                  <p style={{ fontFamily: hSerif, fontSize: 28, fontWeight: 500, marginTop: 6, fontVariantNumeric: "tabular-nums" }}>{n}</p>
+                  <p style={{ ...small, fontSize: 10.5 }}>{grand ? Math.round((n / grand) * 100) : 0}% of {grand}</p>
+                </div>
+              ))}
+            </div>
+
+            {/* Per devotional */}
+            <Label t={t}>By devotional · newest first</Label>
+            {sorted.length === 0 && <p style={small}>No reactions yet.</p>}
+            {sorted.map((p) => (
+              <div key={`${p.slug}/${p.day}`} style={{ padding: "16px 0", borderTop: `1px solid ${t.rule}` }}>
+                <Link to={`/read/${p.slug}/${p.day}`} style={{ fontFamily: hSerif, fontWeight: 500, fontSize: 17, color: t.ink, textDecoration: "none" }}>
+                  {p.dayTitle}
+                </Link>
+                <p style={{ ...small, marginTop: 3 }}>
+                  {p.weekTitle} · Day {p.day}{p.publishDate ? ` · ${formatDate(p.publishDate)}` : ""}
+                </p>
+                <div style={{ display: "flex", flexWrap: "wrap", gap: "6px 18px", marginTop: 10 }}>
+                  {REACTIONS.map(({ key: k, label, Icon }) => (
+                    <span key={k} title={label} style={{ display: "inline-flex", alignItems: "center", gap: 6, fontFamily: hLato, fontSize: 13, color: (p.counts[k] ?? 0) ? t.ink : t.sub, fontVariantNumeric: "tabular-nums" }}>
+                      <Icon size={14} strokeWidth={1.5} aria-label={label} />
+                      {p.counts[k] ?? 0}
+                    </span>
+                  ))}
+                  <span style={{ ...small, marginLeft: "auto" }}>{p.total} total</span>
+                </div>
+              </div>
+            ))}
+
+            <button type="button" onClick={forget} style={{ ...small, marginTop: 28, background: "none", border: "none", padding: 0, cursor: "pointer", textDecoration: "underline" }}>
+              Forget key on this device
+            </button>
+          </>
+        )}
+      </div>
+    </div>
+  );
+}
+
 // ─── App ──────────────────────────────────────────────────────────────────────
 export default function App() {
   const [dark, setDark] = useState<boolean>(() => {
@@ -574,6 +862,7 @@ export default function App() {
         <Route path="/" element={<LandingPage />} />
         <Route path="/read/:slug/:dayNum" element={<ReadingPage />} />
         <Route path="/series" element={<SeriesPage />} />
+        <Route path="/reactions-report" element={<ReactionsReportPage />} />
       </Routes>
     </ThemeCtx.Provider>
   );
