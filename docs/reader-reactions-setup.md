@@ -59,7 +59,7 @@ The page isn't linked anywhere and tells search engines not to index it. The dat
 
 Every tap also sends a `devotional_reaction` event to GA4 with `reaction`, `series`, `day`, and `devotional_title`. In GA4:
 
-1. Go to **Admin → Events** and mark `devotional_reaction` as a **key event**, so sessions with a reaction count as engaged.
+1. Go to **Admin → Data display → Events → Recent events** and click the **star** next to `devotional_reaction` to make it a **key event**, so sessions with a reaction count as engaged. The event shows up only after readers have triggered it, which can take 24–48 hours.
 2. Go to **Admin → Custom definitions** and add `reaction`, `series`, and `day` as event-scoped dimensions.
 
 ---
