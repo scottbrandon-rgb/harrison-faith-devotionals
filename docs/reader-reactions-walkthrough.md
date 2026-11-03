@@ -72,7 +72,14 @@ This makes reaction taps count as "engaged sessions."
 4. Click the **Recent events** tab and find `devotional_reaction`.
 5. Click the **star** next to it. A solid star means it's now a key event, and it moves to the **Key events** tab.
 
-**Don't see `devotional_reaction` yet?** An event appears in this list only after readers have triggered it, and Google can take up to 24–48 hours to show it. Check back the next day. Don't use **Create event** for this; that button builds a new event from an existing one and isn't needed here.
+**Don't see `devotional_reaction` yet?** An event appears in this list only after readers have triggered it, and Google can take up to 24–48 hours to show it. Either check back the next day, or register it ahead of time:
+
+1. Click **Create event**.
+2. Enter the name `devotional_reaction` exactly and turn on **Mark as key event**.
+3. Under **Choose how to create an event**, select **Create with code**. Skip any code Google offers; the site already sends this event.
+4. Save.
+
+**Do not choose "Create without code."** That builds a new event triggered by page views, which would count page visits as reactions.
 
 Key events count only from the day you star them. Earlier taps aren't counted retroactively. Taps saved in your `/reactions-report` aren't affected either way.
 
